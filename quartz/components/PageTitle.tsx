@@ -1,23 +1,38 @@
 import { pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
-import { i18n } from "../i18n"
 
-const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
-  const title = cfg?.pageTitle ?? i18n(cfg.locale).propertyDefaults.title
+const PageTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const baseDir = pathToRoot(fileData.slug!)
   return (
-    <h2 class={classNames(displayClass, "page-title")}>
-      <a href={baseDir}>{title}</a>
-    </h2>
+    <div class={classNames(displayClass, "page-title")}>
+      <a href={baseDir} aria-label="The English Nobel — home">
+        <img
+          src="/static/ten-logo-monogram.svg"
+          alt="TEN"
+          width="240"
+          height="240"
+          class="ten-monogram"
+        />
+      </a>
+    </div>
   )
 }
 
 PageTitle.css = `
 .page-title {
-  font-size: 1.75rem;
-  margin: 0;
-  font-family: var(--titleFont);
+  margin: 0 0 0.5rem 0;
+  line-height: 0;
+}
+.page-title a {
+  display: inline-block;
+  text-decoration: none;
+  line-height: 0;
+}
+.ten-monogram {
+  display: block;
+  width: 240px !important;
+  height: 240px !important;
 }
 `
 

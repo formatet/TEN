@@ -1,68 +1,69 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// components shared across all pages
+function explorerSort(a: any, b: any): number {
+  const FOLDER_ORDER = ["CHAPTERS", "THE-GALLERY", "THE-ARCHIVE"]
+
+  const aIsFolder = a.file === null
+  const bIsFolder = b.file === null
+
+  if (aIsFolder && bIsFolder) {
+    const slug = (n: any) => (n.slugSegment || n.displayName || "").toUpperCase().replace(/\s+/g, "-")
+    const aIdx = FOLDER_ORDER.indexOf(slug(a))
+    const bIdx = FOLDER_ORDER.indexOf(slug(b))
+    if (aIdx >= 0 && bIdx >= 0) return aIdx - bIdx
+    return (a.displayName || "").localeCompare(b.displayName || "")
+  }
+
+  if (aIsFolder) return -1
+  if (bIsFolder) return 1
+
+  // Kapitelnummer ur slugSegment: "Chapter-1-The-..." → 1
+  const segA = (a.slugSegment || "") as string
+  const segB = (b.slugSegment || "") as string
+  const chA = segA.match(/Chapter.?(\d+)/i)
+  const chB = segB.match(/Chapter.?(\d+)/i)
+  if (chA && chB) return parseInt(chA[1]) - parseInt(chB[1])
+
+  return (a.displayName || "").localeCompare(b.displayName || "")
+}
+
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [],
-  footer: Component.Footer({
-    links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
-    },
-  }),
+  footer: Component.Footer({ links: {} }),
 }
 
-// components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-  ],
+  beforeBody: [Component.ArticleTitle()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
+    Component.Search(),
+    Component.Explorer({
+      title: "Contents",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      sortFn: explorerSort,
     }),
-    Component.Explorer(),
   ],
-  right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-  ],
+  right: [Component.DesktopOnly(Component.TableOfContents())],
+  afterBody: [Component.Backlinks(), Component.WiktionaryLookup(), Component.TENTracking()],
 }
 
-// components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  beforeBody: [Component.ArticleTitle()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-      ],
+    Component.Search(),
+    Component.Explorer({
+      title: "Contents",
+      folderClickBehavior: "collapse",
+      folderDefaultState: "collapsed",
+      sortFn: explorerSort,
     }),
-    Component.Explorer(),
   ],
   right: [],
 }
