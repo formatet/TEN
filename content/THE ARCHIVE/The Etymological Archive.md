@@ -3,45 +3,53 @@ title: "The Etymological Archive"
 publish: true
 ---
 
-*En del av [[The English Nobel]]. Inte en ordlista – ett instrument för att förstå varför ett ord väger vad det väger.*
+*Part of [[The English Nobel]]. Not a vocabulary list — an instrument for understanding why one word weighs more than another.*
 
 ---
 
-## Grundprincipen
+## What this is
 
-Ord är inte utbytbara brickor. Ett ord bär med sig sitt ursprung varje gång det används. Att byta *arid* mot *dry* är inte ett neutralt val – det är ett stilistiskt och ibland politiskt val.
+Words are not interchangeable tokens. A word carries its origin every time it is used. Replacing *arid* with *dry* is not a neutral substitution — it is a loss of geological depth.
 
-Arkivet lär eleven att läsa och skriva med detta i minnet.
+The Archive teaches students to read and write with this in mind.
 
-Tre ingångar:
+Three entry points:
 
-1. [[Etymologi – Det normanska skiftet]] — den viktigaste läxan. Varför finns det alltid ett "enkelt" och ett "fint" ord för samma sak i engelska?
-2. [[Etymologi – Register]] — formellt, informellt, litterärt, akademiskt
-3. [[Etymologi – Per kapitel]] — ord hämtade ur de texter vi faktiskt läser
+1. [[Etymologi – Det normanska skiftet]] — the most important lesson. Why there are always two words for the same thing in English, and what that gap means.
+2. [[Etymologi – Register]] — formal, informal, literary, academic
+3. Per chapter — words drawn from the texts we actually read:
 
----
-
-## Kapitelarkiv
-
-| Kapitel                            | Texter                      | Arkivnod                  |
-| ---------------------------------- | --------------------------- | ------------------------- |
-| Kap 1 – The Foundational Narrative | Kipling, Buck, Steinbeck    | [[Etymologi – Kapitel 1]] |
-| Kap 2 – The Music of the Image     | Yeats, Tagore, Glück        | *(ej skapad)*             |
-| Kap 3 – The American Document      | Lewis, Hemingway, Faulkner  | *(ej skapad)*             |
-| Kap 4 – The Rhetoric of Power      | Churchill, Russell, Shaw    | *(ej skapad)*             |
-| Kap 5 – The Post-Colonial Witness  | Soyinka, Gordimer, Walcott  | *(ej skapad)*             |
-| Kap 6 – The Anatomy of Irony       | Golding, Bellow, Galsworthy | *(ej skapad)*             |
-| Kap 7 – The Fragmented Self        | Lessing, Beckett, Pinter    | *(ej skapad)*             |
-| Kap 8 – The Weight of History      | Morrison, Heaney, Coetzee   | *(ej skapad)*             |
-| Kap 9 – The Final Synthesis        | Naipaul, Ishiguro           | *(ej skapad)*             |
+| Chapter | Key words |
+|---|---|
+| [[Etymologi – Kapitel 1]] | relentless · coarse · substantial · arid · horizon · detached |
+| [[Etymologi – Kapitel 2]] | lyric · image · symbol · concrete · economy · elegiac · metaphor |
+| [[Etymologi – Kapitel 3]] | terse · laconic · stark · vernacular · oblique · impassive |
+| [[Etymologi – Kapitel 4]] | rhetoric · inevitable · deliberate |
+| [[Etymologi – Kapitel 5]] | colonial · diaspora · testimony |
+| [[Etymologi – Kapitel 6]] | irony · civilised · anatomy · ellipsis |
+| [[Etymologi – Kapitel 7]] | fragmentation · subtext · lacuna · exile |
+| [[Etymologi – Kapitel 8]] | peripheral · weight · neutral · pastoral · complicit · elegy · clinical · scrutiny · incorruptible |
+| [[Etymologi – Kapitel 9]] | synthesis · unreliable · reticence |
 
 ---
 
-## Den metodiska lektionen
+## How to use it in the classroom
 
-1. Välj ett ord ur diktamenstexten
-2. Skriv upp rötterna på tavlan
-3. Jämför med den bleka synonymen (*arid* vs *dry*, *commence* vs *begin*)
-4. Fråga: *"Hur förändras bilden i ditt huvud?"*
+The Archive is not a list to memorise. It is a tool for production: the goal is that after working with *relentless*, a student can use the word with conviction — not just define it.
 
-Svaret leder alltid tillbaka till det kapitlets röda tråd.
+Sequence:
+
+1. Choose a word from the dictation text
+2. Write the roots on the board
+3. Compare with the pale synonym (*arid* vs *dry*, *commence* vs *begin*)
+4. Ask: *"How does the image in your mind change?"*
+
+The answer always leads back to the chapter's core question.
+
+---
+
+## The Archive and the dictation ritual
+
+Every dictation text in TEN was chosen partly because it contains Archive words in context. Students hear and write the word before they study it etymologically. The etymology session comes after — it explains why the word they have already encountered carries the weight it does.
+
+This sequence matters. Etymology is not pre-teaching. It is the explanation of something already felt.

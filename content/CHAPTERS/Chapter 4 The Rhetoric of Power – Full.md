@@ -44,7 +44,7 @@ Write: Which passage changes something in you most strongly? Not which is most b
 
 ## Part One — Churchill
 
-*Nobel Prize in Literature 1953. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1953. See [[The Gallery – Kapitel 4]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -83,7 +83,7 @@ Churchill presents surrender as unthinkable. But surrender was, in fact, a live 
 
 ## Part Two — Russell
 
-*Nobel Prize in Literature 1950. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1950. See [[The Gallery – Kapitel 4]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -119,7 +119,7 @@ He is in this chapter because he represents the opposite pole from Churchill: wh
 
 ## Part Three — Shaw
 
-*Nobel Prize in Literature 1925. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1925. See [[The Gallery – Kapitel 4]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -153,17 +153,33 @@ Shaw understood something Churchill and Russell did not: the most powerful rheto
 
 ## Dylan – The Border Question
 
-Bob Dylan (b. 1941) received the Nobel Prize in 2016 for "having created new poetic expressions within the great American song tradition." The Swedish Academy's decision divided opinion immediately and continues to do so.
+*Nobel Prize in Literature 2016. See [[The Gallery – Kapitel 4]] for full biographical entry.*
 
-Dylan belongs in this chapter not as a resolved case but as an open question. His work is rhetorical in the precise sense: it is constructed to persuade. *Blowin' in the Wind* is a series of rhetorical questions that refuse answers. *The Times They Are A-Changin'* is an imperative disguised as a prophecy. His Nobel lecture (2017, available at nobelprize.org) is a meditation on what literature is – written by a man who spent his career refusing to define himself as a writer.
+Bob Dylan received the Nobel Prize in 2016 for "having created new poetic expressions within the great American song tradition." The Swedish Academy's decision divided opinion immediately and continues to divide it. Many writers and critics felt it was a category error: Dylan is not a writer of literature, they argued, but a musician who uses words. Others felt the distinction was exactly what was wrong with how literature defines itself.
 
-**Read Dylan's Nobel lecture** (approximately 25 minutes as audio; 8 pages as text).
+Dylan belongs in this chapter not as a resolved case but as an open question about what rhetoric is and what it can be. His work is rhetorical in the precise sense: it is constructed to persuade, and it uses every tool rhetoric has — repetition, anaphora, the rhetorical question, the prophetic imperative, the oblique image that makes you feel you understand something you couldn't quite define.
 
-**One question only:** Dylan argues in the lecture that *Moby Dick*, *All Quiet on the Western Front* and *The Odyssey* are all "songs." Is he right? What does his argument gain – and what does it give up – by making that claim?
+*Blowin' in the Wind* is twelve rhetorical questions that refuse to answer themselves. *The Times They Are A-Changin'* is an imperative disguised as a prophecy. *Like a Rolling Stone* is a six-minute anatomy of humiliation that never once says the word. These are not songs that happen to use rhetorical devices. They *are* rhetorical devices — they just happen to use melody.
 
-Write 150 words before the class discussion. There is no correct answer.
+His Nobel lecture (2017), written but initially delivered as audio, is a meditation on what literature is. It is written by a man who spent his career refusing to define himself as anything. The lecture discusses *Moby Dick*, *All Quiet on the Western Front* and Homer's *Odyssey* as if they were songs. This is either a provocation or a serious claim. Possibly both.
+
+**Read Dylan's Nobel lecture.** Available at nobelprize.org — approximately 25 minutes as audio, 8 pages as text. Read it; do not just listen to it.
+
+**Questions:**
+
+1. Dylan argues in the lecture that *Moby Dick*, *All Quiet on the Western Front*, and *The Odyssey* are all "songs." Is he right? What does his argument gain — and what does it give up — by making that claim?
+
+2. Compare Dylan's use of the rhetorical question (*Blowin' in the Wind*) with Churchill's use of repetition (*We Shall Fight on the Beaches*). Both are trying to move an audience. How is the relationship between speaker and audience different in each case?
+
+3. Should Dylan have received the Nobel Prize in Literature? Argue a position. Use the evidence of this chapter.
+
+Write 150 words on question 1 before the class discussion. There is no correct answer to any of the three.
+
+*Archive connection: [[Etymologi – Kapitel 4]] — rhetoric · inevitable · deliberate · oblique*
 
 ---
+
+*→ Archive for this chapter: [[Etymologi – Kapitel 4]] — *rhetoric · inevitable · deliberate**
 
 ## The Writing Task
 
@@ -207,4 +223,4 @@ Write a position (one sentence) before the discussion. Defend it. Revise it if t
 ---
 ---
 
-*Copyright note: Churchills tal (1940) är public domain i UK/EU (died 1965, 70-årsregeln passerad). Russells essäer – kontrollera per verk; många är public domain. Shaws Pygmalion – kontrollera; died 1950, möjligen public domain in the EU. Dylans texter – copyright protectede, kort citat inom fair use. Bonus Copyright Access applies to allt övrigt.*
+*Copyright note: Churchill's speech (1940) is public domain in the UK/EU (died 1965, 70-year rule elapsed). Russells essäer – check per verk; många is public domain. Shaws Pygmalion – check; died 1950, possibly public domain in the EU. Dylans texter – copyright protectede, kort citat inom fair use. Bonus Copyright Access applies to allt övrigt.*

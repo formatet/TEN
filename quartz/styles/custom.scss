@@ -268,3 +268,18 @@ footer {
     max-width: 100%;
   }
 }
+.page > #quartz-body .sidebar.left, .page > #quartz-body .sidebar.left:has(.explorer) { padding-top: 0.5rem !important; }
+
+/* ─── Säkerställ att T:et i logotypen inte klipps ──────────────────────────*/
+.page-title {
+  padding-left: 1rem;
+  overflow: visible !important;
+}
+.page > #quartz-body .sidebar.left {
+  overflow: visible !important;
+}
+
+/* ─── Minska gap mellan logo, Index och Contents ──────────────────────────*/
+.page > #quartz-body .sidebar.left {
+  gap: 0.4rem !important;
+}

@@ -57,7 +57,7 @@ Write three sentences — one for each object. No adjectives that describe feeli
 *Recommended satellite texts for classroom use:*
 - *If—* (1910) — diktamen-kandidaten. Public domain. Available on Project Gutenberg.
 - *Kim* (1901) — ankartext. Public domain. Chapter 1 as introduction.
-- *The Man Who Would Be King* (novell, 1888) — tillgängligt alternativ till Kim för kortare behandling.
+- *The Man Who Would Be King* (novell, 1888) — alternative to Kim for shorter treatment.
 
 *The Big Question for Kipling (suggested):* Can you love a language and be troubled by the empire that spread it?
 
@@ -65,7 +65,7 @@ Write three sentences — one for each object. No adjectives that describe feeli
 
 ## Part Two — Buck
 
-*Nobel Prize in Literature 1938. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1938. See [[The Gallery – Kapitel 1]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -117,7 +117,7 @@ Compare your three opening sentences to the way Buck describes objects. What did
 
 ## Part Three — Steinbeck
 
-*Nobel Prize in Literature 1962. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1962. See [[The Gallery – Kapitel 1]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -163,6 +163,8 @@ Steinbeck uses the turtle to carry something larger. Describe precisely what the
 Both writers describe poor rural people in physical detail without sentimentality. But Buck's world is China in the 1920s and Steinbeck's is America in the 1930s. Find one specific technique they share. Find one thing each does that the other does not.
 
 ---
+
+*→ Archive for this chapter: [[Etymologi – Kapitel 1]] — *relentless · coarse · substantial · arid · horizon · detached**
 
 ## The Writing Task
 

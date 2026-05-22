@@ -42,7 +42,7 @@ Write: What do these three sentences expect of you? What does each one give you,
 
 ## Part One — Hemingway
 
-*Nobel Prize in Literature 1954. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1954. See [[The Gallery – Kapitel 3]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -98,7 +98,7 @@ Identify the moment in the story where you feel most certain about what one char
 
 ## Part Two — Faulkner
 
-*Nobel Prize in Literature 1949. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1949. See [[The Gallery – Kapitel 3]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -134,7 +134,7 @@ This is not Modernist experiment for its own sake. It is a formal argument: the 
 
 ## Part Three — Lewis
 
-*Nobel Prize in Literature 1930. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1930. See [[The Gallery – Kapitel 3]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -167,6 +167,8 @@ Lewis's prose is vernacular: it sounds exactly like the people it describes. Tha
 *Step 3:* Lewis, Hemingway, and Faulkner are all writing about American men in the early twentieth century. What do these three men have in common? What is the writer's diagnosis in each case?
 
 ---
+
+*→ Archive for this chapter: [[Etymologi – Kapitel 3]] — *terse · laconic · stark · vernacular · oblique · impassive**
 
 ## The Writing Task
 
@@ -212,4 +214,4 @@ Write one sentence before the discussion begins. Revise it at the end.
 ---
 ---
 
-*Copyright note: Satellitext-utdragen tillhandahålls av läraren som kopior under Bonus Copyright Access (15/15-regeln). Hemingways verk publicerade 1926–1952, Faulkners 1929–1962, Lewis 1920–1935 – kontrollera aktuell upphovsrättsstatus; flera verk kan vara public domain i Sverige/EU 70 år efter upphovsmannens död (Faulkner died 1962, Lewis 1951 – kontrollera).*
+*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Hemingways verk publicerade 1926–1952, Faulkners 1929–1962, Lewis 1920–1935 – check aktuell upphovsrättsstatus; flera verk kan vara public domain i Sverige/EU 70 år efter upphovsmannens död (Faulkner died 1962, Lewis 1951 – check).*

@@ -1,55 +1,61 @@
 ---
-title: "Etymologiska arkivet – Alfabetiskt index"
+title: "Alphabetical Index"
 publish: true
 ---
----
-*Del av [[The Etymological Archive]]*
-*Alfabetiskt index för snabbsökning. Varje ord pekar mot det kapitel där den fullständiga etymologin, tyngden och övningarna finns.*
-*Används av eleven när ett ord möts utanför Nobel-ramen – i nyheter, andra texter, samtal.*
+
+*Alphabetical index for quick lookup. Each word points to the chapter where the full etymology is found.*
+*Use this when a word appears outside the Nobel frame — in news, other texts, conversation.*
+
 ---
 
-
-| Ord | Kapitel | Semantiskt kluster |
+| Word | Chapter | Theme |
 |---|---|---|
-| ABSTRACT | Kapitel 2 | Bildens logik |
-| ANATOMY | Kapitel 6 | Ironins mekanik |
-| ARID | Kapitel 1 | Det fysiska |
-| CLINICAL | Kapitel 8 | Vittnets etik |
-| COARSE | Kapitel 1 | Det fysiska |
-| COLONIAL | Kapitel 5 | Erövringens språk |
-| COMPLICIT | Kapitel 8 | Vittnets etik |
-| CONCRETE | Kapitel 2 | Bildens logik |
-| DELIBERATE | Kapitel 4 | Maktens konstruktion |
-| DETACHED | Kapitel 1 | Det fysiska |
-| DIASPORA | Kapitel 5 | Erövringens språk |
-| ECONOMY (of style) | Kapitel 2 | Bildens logik |
-| ELEGIAC / ELEGY | Kapitel 8 | Sorgens former |
-| ELLIPSIS | Kapitel 6 | Ironins mekanik |
-| EXILE | Kapitel 7 | Jagets upplösning |
-| FRAGMENTATION | Kapitel 7 | Jagets upplösning |
-| HORIZON | Kapitel 1 | Det fysiska |
-| IMAGE | Kapitel 2 | Bildens logik |
-| IMPASSIVE | Kapitel 3 | Isbergsprincipen |
-| INCORRUPTIBLE | Kapitel 8 | Vittnets etik |
-| INEVITABLE | Kapitel 4 | Maktens konstruktion |
-| IRONY | Kapitel 6 | Ironins mekanik |
-| LACONIC | Kapitel 3 | Isbergsprincipen |
-| LACUNA | Kapitel 7 | Språkets gräns |
-| LYRIC | Kapitel 2 | Bildens logik |
-| NEUTRAL | Kapitel 8 | Maktens geografi |
-| OBLIQUE | Kapitel 3 | Isbergsprincipen |
-| PASTORAL | Kapitel 8 | Sorgens former |
-| PERIPHERAL | Kapitel 8 | Maktens geografi |
-| RETICENCE | Kapitel 9 | Kontrollens arkitektur |
-| RHETORIC | Kapitel 4 | Maktens konstruktion |
-| SCRUTINY | Kapitel 8 | Vittnets etik |
-| STARK | Kapitel 1 | Det fysiska |
-| SUBTEXT | Kapitel 7 | Språkets gräns |
-| SUBSTANTIAL | Kapitel 1 | Det fysiska |
-| SYMBOL | Kapitel 2 | Bildens logik |
-| SYNTHESIS | Kapitel 9 | Kontrollens arkitektur |
-| TERSE | Kapitel 3 | Isbergsprincipen |
-| TESTIMONY | Kapitel 5 | Motvittnets röst |
-| UNRELIABLE | Kapitel 9 | Kontrollens arkitektur |
-| VERNACULAR | Kapitel 3 | Isbergsprincipen |
-| WEIGHT | Kapitel 8 | Sorgens former |
+| ARID | [[Etymologi – Kapitel 1]] | The physical world |
+| ANATOMY | [[Etymologi – Kapitel 6]] | The diagnostic eye |
+| AUSTERE | [[Etymologi – Kapitel 2]] | Image and sound |
+| BIBLICAL | [[Etymologi – Kapitel 3]] | The American document |
+| CLINICAL | [[Etymologi – Kapitel 8]] | The weight of history |
+| COARSE | [[Etymologi – Kapitel 1]] | The physical world |
+| COLONIAL | [[Etymologi – Kapitel 5]] | The language of conquest |
+| COMPLICIT | [[Etymologi – Kapitel 8]] | Inherited guilt |
+| CONCRETE | [[Etymologi – Kapitel 2]] | Image and sound |
+| DELIBERATE | [[Etymologi – Kapitel 4]] | Rhetoric of power |
+| DETACHED | [[Etymologi – Kapitel 1]] | The physical world |
+| DIASPORA | [[Etymologi – Kapitel 5]] | The language of conquest |
+| ECONOMY | [[Etymologi – Kapitel 2]] | Image and sound |
+| ELEGIAC | [[Etymologi – Kapitel 2]] | Image and sound |
+| ELEGY | [[Etymologi – Kapitel 8]] | Inherited guilt |
+| ELLIPSIS | [[Etymologi – Kapitel 6]] | The diagnostic eye |
+| EPHEMERAL | [[Etymologi – Kapitel 2]] | Image and sound |
+| EXILE | [[Etymologi – Kapitel 7]] | The limits of language |
+| FRAGMENTATION | [[Etymologi – Kapitel 7]] | The limits of language |
+| HORIZON | [[Etymologi – Kapitel 1]] | The physical world |
+| IMAGE | [[Etymologi – Kapitel 2]] | Image and sound |
+| IMPASSIVE | [[Etymologi – Kapitel 3]] | The American document |
+| INCORRUPTIBLE | [[Etymologi – Kapitel 8]] | Inherited guilt |
+| INEVITABLE | [[Etymologi – Kapitel 4]] | Rhetoric of power |
+| IRONY | [[Etymologi – Kapitel 6]] | The diagnostic eye |
+| LACONA | [[Etymologi – Kapitel 3]] | The American document |
+| LACUNA | [[Etymologi – Kapitel 7]] | The limits of language |
+| LUMINOUS | [[Etymologi – Kapitel 2]] | Image and sound |
+| LYRIC | [[Etymologi – Kapitel 2]] | Image and sound |
+| METAPHOR | [[Etymologi – Kapitel 2]] | Image and sound |
+| NEUTRAL | [[Etymologi – Kapitel 8]] | Inherited guilt |
+| OBLIQUE | [[Etymologi – Kapitel 3]] | The American document |
+| PASTORAL | [[Etymologi – Kapitel 8]] | Inherited guilt |
+| PERIPHERAL | [[Etymologi – Kapitel 8]] | Inherited guilt |
+| RELENTLESS | [[Etymologi – Kapitel 1]] | The physical world |
+| RETICENCE | [[Etymologi – Kapitel 9]] | Clear sight |
+| RHETORIC | [[Etymologi – Kapitel 4]] | Rhetoric of power |
+| SCRUTINY | [[Etymologi – Kapitel 8]] | Inherited guilt |
+| STARK | [[Etymologi – Kapitel 3]] | The American document |
+| SUBTEXT | [[Etymologi – Kapitel 7]] | The limits of language |
+| SUBSTANTIAL | [[Etymologi – Kapitel 1]] | The physical world |
+| SYMBOL | [[Etymologi – Kapitel 2]] | Image and sound |
+| SYNTHESIS | [[Etymologi – Kapitel 9]] | Clear sight |
+| TERSE | [[Etymologi – Kapitel 3]] | The American document |
+| TESTIMONY | [[Etymologi – Kapitel 5]] | The witness's voice |
+| THRESHOLD | [[Etymologi – Kapitel 2]] | Image and sound |
+| UNRELIABLE | [[Etymologi – Kapitel 9]] | Clear sight |
+| VERNACULAR | [[Etymologi – Kapitel 3]] | The American document |
+| WEIGHT | [[Etymologi – Kapitel 8]] | Inherited guilt |

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="5 72 390 258" preserveAspectRatio="xMidYMin meet" role="img" aria-label="TEN — The English Nobel">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-60 72 490 258" preserveAspectRatio="xMidYMin meet" role="img" aria-label="TEN — The English Nobel">
 <defs>
   <style>
     @font-face {
@@ -18,13 +18,13 @@
   <!-- Three marks: Year 1 · Year 2 · Year 3 (Eye · Voice · Consciousness) -->
   <!-- Sized to remain legible at 48px display -->
   <g fill="#1a1a1a">
-    <circle cx="160" cy="88" r="6"/>
-    <circle cx="200" cy="88" r="6"/>
-    <circle cx="240" cy="88" r="6"/>
+    <circle cx="190" cy="88" r="6"/>
+    <circle cx="230" cy="88" r="6"/>
+    <circle cx="270" cy="88" r="6"/>
   </g>
 
   <!-- TEN monogram -->
-  <text x="200" y="278"
+  <text x="230" y="278"
         text-anchor="middle"
         font-family="'EB Garamond', Georgia, 'Times New Roman', serif"
         font-size="160"
@@ -33,6 +33,6 @@
         fill="#1a1a1a">TEN</text>
 
   <!-- Hairline rule -->
-  <line x1="160" y1="312" x2="240" y2="312" stroke="#1a1a1a" stroke-width="1.2"/>
+  <line x1="190" y1="312" x2="270" y2="312" stroke="#1a1a1a" stroke-width="1.2"/>
 
 </svg>

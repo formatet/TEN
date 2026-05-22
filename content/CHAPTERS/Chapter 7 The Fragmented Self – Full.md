@@ -46,7 +46,7 @@ Write: What does each fragment refuse to give you? Not what it gives — what it
 
 ## Part One — Lessing
 
-*Nobel Prize in Literature 2007. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 2007. See [[The Gallery – Kapitel 7]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -82,7 +82,7 @@ Lessing described herself as writing a book "that would make its own comment, a 
 
 ## Part Two — Beckett
 
-*Nobel Prize in Literature 1969. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1969. See [[The Gallery – Kapitel 7]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -121,7 +121,7 @@ In Chapter 3 you studied the iceberg principle: what is left unsaid holds up wha
 
 ## Part Three — Pinter
 
-*Nobel Prize in Literature 2005. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 2005. See [[The Gallery – Kapitel 7]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -162,21 +162,33 @@ Both use silence and evasion. But Beckett's silences are existential (about what
 
 ### Joseph Brodsky
 
-*Nobel Prize in Literature 1987. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1987. See [[The Gallery – Kapitel 7]] for full biographical entry.*
 
-Brodsky was expelled from the Soviet Union in 1972. He arrived in the West with Russian and began, gradually, to write English essays of extraordinary quality — a bilingual feat rare enough to constitute its own argument about what language is.
+Brodsky was born in Leningrad in 1940 to Jewish parents. He left school at fifteen and educated himself, working odd jobs and reading voraciously. In 1964 he was put on trial in the Soviet Union for "social parasitism" — the charge was that he had no real profession, that his claim to be a poet was fraudulent. The transcript of the trial became famous throughout the Soviet dissident world. The judge asked what had qualified him to call himself a poet. Brodsky answered: "I thought... I thought it came from God."
 
-His essay "In Praise of Boredom" (his 1989 commencement address at Dartmouth) is the most accessible of his English works for this context: it argues that boredom is not the enemy of thought but its occasion, and that the self that cannot tolerate silence cannot think.
+He was sentenced to five years of internal exile in the Arkhangelsk region. He served eighteen months before international pressure led to his release. In 1972 he was expelled from the Soviet Union and eventually settled in New York, where he taught at various universities and gradually began writing essays in English.
 
-**Reading:** "In Praise of Boredom" — available freely online (Brodsky gave it as a speech, widely transcribed).
+The essays are extraordinary. Brodsky writes in English with the precision and strangeness of someone who learned the language not as a child but as an act of will — the way you might learn to survive. They are unlike what native English speakers write, and this is not a weakness.
 
-**One question only:** Brodsky writes that "the worst monotonous drone coming from the outside is nothing in comparison to what you can produce on the inside." How does this statement relate to what Beckett shows in *Waiting for Godot*? Write a connecting sentence.
+His essay "In Praise of Boredom" (his 1989 commencement address at Dartmouth College) is the most accessible of his English works for this chapter. He argues that boredom is not the enemy of thought but its occasion — that the mind which cannot tolerate emptiness cannot produce anything worth having. He is making an argument about the fragmented self: that it must be able to sit with itself in silence before it can say anything true.
+
+**Reading:** "In Praise of Boredom" — available freely online (Brodsky gave it as a speech; it is widely transcribed and reprinted). Also: his Nobel lecture, available at nobelprize.org.
+
+**Questions:**
+
+1. Brodsky writes that "the worst monotonous drone coming from the outside is nothing in comparison to what you can produce on the inside." How does this statement relate to what Beckett shows in *Waiting for Godot*? Write a connecting sentence.
+
+2. Brodsky chose to write his essays in English rather than Russian. What does this choice mean? Is it a form of exile — or of escape?
+
+3. The judge at Brodsky's trial asked who had granted him the right to call himself a poet. He answered: "I thought it came from God." What does this answer mean? Who has the authority to name a poet?
+
+*Archive connection: [[Etymologi – Kapitel 7]] — exile · lacuna · subtext*
 
 ---
 
 ## T.S. Eliot and The Waste Land
 
-*Nobel Prize in Literature 1948. See The Gallery for full biographical entry. Entry introduced in Chapter 2.*
+*Nobel Prize in Literature 1948. See [[The Gallery – Kapitel 7]] for full biographical entry. Entry introduced in Chapter 2.*
 
 *The Waste Land* (1922) was mentioned in Chapter 2. Here is where you actually read it.
 
@@ -193,6 +205,8 @@ What does it feel like to read a text that knows more than you do? Write that ex
 *(You will return to Eliot in Chapter 9, when you will understand more.)*
 
 ---
+
+*→ Archive for this chapter: [[Etymologi – Kapitel 7]] — *fragmentation · subtext · lacuna · exile**
 
 ## The Writing Task
 
@@ -236,4 +250,4 @@ Write a position before the discussion. Be honest about what you don't yet know.
 ---
 ---
 
-*Copyright note: Lessing died 2013 – copyright protected. Beckett died 1989 – kontrollera (public domain in the EU 2060). Pinter died 2008 – copyright protected. Brodsky died 1996 – copyright protected. Eliot died 1965 – public domain in the EU (2036). Bonus Copyright Access för allt utom Eliot (fritt). The Waste Land finns i sin helhet på Poetry Foundation och Bartleby.com.*
+*Copyright note: Lessing died 2013 – copyright protected. Beckett died 1989 – check (public domain in the EU 2060). Pinter died 2008 – copyright protected. Brodsky died 1996 – copyright protected. Eliot died 1965 – public domain in the EU (2036). Bonus Copyright Access för allt utom Eliot (fritt). The Waste Land finns i sin helhet på Poetry Foundation och Bartleby.com.*

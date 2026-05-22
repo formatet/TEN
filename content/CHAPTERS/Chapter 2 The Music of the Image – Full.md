@@ -46,7 +46,7 @@ Write down: Which one do you trust the most? Not which one you *understand* — 
 
 ## Part One – W.B. Yeats (1865–1939)
 
-*Nobel Prize in Literature 1923. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1923. See [[The Gallery – Kapitel 2]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -102,7 +102,7 @@ Write one paragraph. This is a hard question for Year One. It is supposed to be 
 
 ## Part Two — Tagore
 
-*Nobel Prize in Literature 1913. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1913. See [[The Gallery – Kapitel 2]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -138,7 +138,7 @@ Find one sentence in the verses you have read that follows this pattern. Copy it
 
 ## Part Three – Louise Glück (b. 1943)
 
-*Nobel Prize in Literature 2020. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 2020. See [[The Gallery – Kapitel 2]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -194,6 +194,8 @@ Eliot compares the evening sky to a patient under anaesthesia. This is not beaut
 
 ---
 
+*→ Archive for this chapter: [[Etymologi – Kapitel 2]] — *lyric · image · symbol · concrete · economy · elegiac · metaphor**
+
 ## The Writing Task
 
 This is a Year One writing task. It is simple to explain and difficult to do well.
@@ -241,4 +243,4 @@ Write one sentence — before the discussion begins — that is your answer. You
 ---
 ---
 
-*Copyright note: Satellitext-utdragen tillhandahålls av läraren som kopior under Bonus Copyright Access (15/15-regeln). Tagores Gitanjali (1910) är public domain. Yeats' verk publicerade före 1928 är public domain i USA (kontrollera svenska regler; kontakta Bonus Copyright Access).*
+*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Tagores Gitanjali (1910) är public domain. Yeats' verk publicerade före 1928 är public domain i USA (check svenska regler; kontakta Bonus Copyright Access).*

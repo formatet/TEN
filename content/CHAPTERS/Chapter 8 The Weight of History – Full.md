@@ -46,7 +46,7 @@ Hold those observations. Return to them at the end of the chapter.
 
 ## Part One — Morrison
 
-*Nobel Prize in Literature 1993. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1993. See [[The Gallery – Kapitel 8]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -108,7 +108,7 @@ The Nobel lecture is shorter than you expect and stranger than you expect. It is
 
 ## Part Two — Heaney
 
-*Nobel Prize in Literature 1995. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1995. See [[The Gallery – Kapitel 8]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -177,7 +177,7 @@ Write 150 words answering this question. There is no correct answer. There is a 
 
 ## Part Three – J.M. Coetzee (b. 1940)
 
-*Nobel Prize in Literature 2003. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 2003. See [[The Gallery – Kapitel 8]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -220,6 +220,8 @@ Coetzee never tells you directly that Lurie's situation is wrong. Find the passa
 Compare Coetzee's first sentence with Morrison's. Both are short. Both refuse to explain. Both create an immediate pressure on the reader. But they create different kinds of pressure. Describe the difference. What does the difference tell you about what each novel is interested in?
 
 ---
+
+*→ Archive for this chapter: [[Etymologi – Kapitel 8]] — *peripheral · weight · neutral · pastoral · complicit · elegy · clinical · scrutiny · incorruptible**
 
 ## The Writing Task
 
@@ -274,4 +276,4 @@ You have fifteen minutes to prepare a two-minute answer before the class discuss
 ---
 ---
 
-*Copyright note: Satellitext-utdragen i detta kapitel reproduceras inte i sin helhet i tryckt lärobok utan tillhandahålls av läraren som kopior. Alla kopieinstruktioner nedan faller inom Bonus Copyright Access (15/15-regeln) som täcker de flesta svenska kommunala och fristående skolor. Morrison pp. 3–5, Disgrace pp. 1–9 och båda Heaney-dikterna ryms sammantaget inom 15 sidor.*
+*Copyright note: Satellite texts in this chapter are not reproduced in full in the printed textbook utan tillhandahålls av läraren som kopior. Alla kopieinstruktioner nedan faller inom Bonus Copyright Access (15/15-regeln) som täcker de flesta svenska kommunala och fristående skolor. Morrison pp. 3–5, Disgrace pp. 1–9 och båda Heaney-dikterna ryms sammantaget inom 15 sidor.*

@@ -53,7 +53,7 @@ Write: How have three years changed how you read an opening sentence? What do yo
 
 ## Part One – V.S. Naipaul (1932–2018)
 
-*Nobel Prize in Literature 2001. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 2001. See [[The Gallery – Kapitel 9]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -107,7 +107,7 @@ What does the lecture reveal about the relationship between his life and his *in
 
 ## Part Two – Kazuo Ishiguro (b. 1954)
 
-*Nobel Prize in Literature 2017. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 2017. See [[The Gallery – Kapitel 9]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -119,7 +119,7 @@ Stevens narrates this journey. He narrates it with complete grammatical control,
 
 ### Satellite Text 3
 
-**Source:** Kazuo Ishiguro, *The Remains of the Day* (1989), Faber & Faber. Opening pages and a scene approximately halfway through (identified by teacher). *(Lärare: kopiera opening (6–8 pages) + one later scene under Bonus Copyright Access.)*
+**Source:** Kazuo Ishiguro, *The Remains of the Day* (1989), Faber & Faber. Opening pages and a scene approximately halfway through (identified by teacher). *(Teacher: kopiera opening (6–8 pages) + one later scene under Bonus Copyright Access.)*
 
 **Before reading:** Stevens narrates everything from inside his own perspective. He never lies. He always tells the truth as he understands it. The reader understands more than he does. Keep asking: how does Ishiguro engineer that?
 
@@ -222,4 +222,4 @@ There is no correct answer. There is a more honest answer and a less honest one.
 ---
 ---
 
-*Copyright note: Naipaul died 2018 – copyright protected. Ishiguro living – copyright protected. Bonus Copyright Access gäller. Nobelföreläsningarna fritt tillgängliga på nobelprize.org.*
+*Copyright note: Naipaul died 2018 – copyright protected. Ishiguro living – copyright protected. Bonus Copyright Access gäller. Nobelföreläsningarna fritt available på nobelprize.org.*

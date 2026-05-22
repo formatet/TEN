@@ -46,7 +46,7 @@ Write your answers. You will return to them at the end of this chapter.
 
 ## Part One – Wole Soyinka (b. 1934)
 
-*Nobel Prize in Literature 1986. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1986. See [[The Gallery – Kapitel 5]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -84,7 +84,7 @@ Soyinka's Nobel lecture is explicitly political. He uses the platform to speak a
 
 ## Part Two — Gordimer
 
-*Nobel Prize in Literature 1991. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1991. See [[The Gallery – Kapitel 5]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -112,7 +112,7 @@ Her moral position was not comfortable. She was criticised by the apartheid gove
 
 ## Part Three — Walcott
 
-*Nobel Prize in Literature 1992. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1992. See [[The Gallery – Kapitel 5]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -154,29 +154,53 @@ These two writers are given shorter treatment here. They extend the chapter's re
 
 ### Abdulrazak Gurnah (b. 1948)
 
-*Nobel Prize in Literature 2021. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 2021. See [[The Gallery – Kapitel 5]] for full biographical entry.*
 
-Gurnah was born in Zanzibar and arrived in England as a refugee in the 1960s. He has spent his adult life in England, writing in English about what it means to carry a world that no longer fully exists.
+Gurnah was born in Zanzibar in 1948. In 1964, after the revolution that overthrew the sultanate and turned violent against the Arab minority, he left — first as a student, then as an exile who could not return. He arrived in England and has lived there ever since, writing novels about people who live in the gap between worlds: the world they left, the world that doesn't quite receive them.
 
-His Nobel Prize surprised many readers who had never heard of him. Gurnah said in response that he had always known there were readers who hadn't read him. He kept writing anyway.
+He writes in English about East Africa, about the Indian Ocean trade routes, about the layered colonial history of a region most English readers know nothing about. His prose is measured and precise, like someone who learned the language not as a child but as a survival strategy.
 
-**Reading:** *By the Sea* (2001), opening pages — available via library.
+His Nobel Prize in 2021 surprised many readers who had never heard of him. Gurnah said in response that he had always known there were readers who hadn't read him. He kept writing anyway. The Nobel Committee cited his "uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents."
 
-**One question only:** Gurnah's narrator speaks English with the precision of someone who learned it formally. How does this formal precision carry — or conceal — the narrator's history? Find one sentence where the gap between the language and the speaker is visible.
+The key word is *gulf*. Not bridge. Not meeting. Gulf.
+
+**Reading:** *By the Sea* (2001), opening pages — available via library. *(Also: Paradise, 1994, Chapter 1 — public domain in many regions.)*
+
+**Questions:**
+
+1. Gurnah's narrator in *By the Sea* speaks English with the precision of someone who learned it formally, as a second language mastered through effort. How does this formal precision carry — or conceal — the narrator's history? Find one sentence where the gap between the language and the speaker is visible.
+
+2. Compare Gurnah's position to Walcott's. Both write in English about a colonial inheritance. What is different about what the language *means* to each of them?
+
+*Archive connection: [[Etymologi – Kapitel 5]] — diaspora · testimony · colonial*
 
 ---
 
 ### Patrick White
 
-*Nobel Prize in Literature 1973. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1973. See [[The Gallery – Kapitel 5]] for full biographical entry.*
 
 White is the chapter's uncomfortable counterpoint: not the colonised voice reclaiming the language, but the coloniser's descendant discovering that the landscape of his inheritance does not recognise him.
 
-**Reading:** Excerpt from *Voss* (1957) — the novel's opening chapters.
+White was born in England in 1912, raised in Australia, educated at Cambridge, and returned to Australia after the Second World War — not quite belonging to any of these places. His prose is dense and visionary, influenced by D.H. Lawrence and the German Expressionists. He is difficult. He is also unlike anyone else.
 
-**One question only:** White describes the Australian landscape through the eyes of a European explorer who cannot see what it actually is. Find a moment where the landscape resists description — where the European vocabulary is inadequate. What does that inadequacy reveal?
+*Voss* (1957) follows a German explorer who attempts to cross Australia in 1845 and dies. The novel is less interested in the journey than in the psychology of someone who believes he can impose himself on a landscape that does not need him. The Australia of *Voss* is not backdrop — it is character, and it resists the protagonist's will with the patient indifference of something that existed long before Europeans arrived and will exist long after they are gone.
+
+White received the Nobel Prize in 1973. The Swedish Academy called him "an epic and psychological narrative art which has introduced a new continent into literature." That phrase — "a new continent" — carries the problem. It was not new. It was very old.
+
+**Reading:** Excerpt from *Voss* (1957), opening chapters — the departure from Sydney. Available via library.
+
+**Questions:**
+
+1. White describes the Australian landscape through the eyes of a European explorer who cannot see what it actually is. Find a moment where the landscape resists description — where the European vocabulary is inadequate. What does that inadequacy reveal?
+
+2. Voss believes his willpower can conquer geography. How does White's syntax embody this belief — and how does it undermine it?
+
+*Archive connection: [[Etymologi – Kapitel 5]] — colonial · peripheral*
 
 ---
+
+*→ Archive for this chapter: [[Etymologi – Kapitel 5]] — *colonial · diaspora · testimony**
 
 ## The Writing Task
 
@@ -218,4 +242,4 @@ Write a position before the discussion begins. Be specific: what would it mean f
 ---
 ---
 
-*Copyright note: Soyinkas nobelpristal (1986) fritt tillgängligt på nobelprize.org. Gordimers noveller – Bonus Copyright Access. Walcotts dikter – copyright protectede, kort citat inom fair use. Gurnah – copyright protected, Bonus Copyright Access. Patrick White – kontrollera; died 1990, möjligen public domain in the EU 2061.*
+*Copyright note: Soyinka's Nobel lecture (1986) freely available at nobelprize.org. Gordimer's short stories — Bonus Copyright Access. Walcott's poems — copyright protected, short quotations within fair use. Gurnah — copyright protected, Bonus Copyright Access. Patrick White — check status; died 1990, possibly public domain in the EU 2061.*

@@ -1,55 +1,54 @@
 ---
-title: "Etymologi – Det normanska skiftet"
+title: "The Norman Shift"
 publish: true
 ---
 
-*Del av [[The Etymological Archive]]*
+## The most important lesson in the whole Archive
+
+In 1066 the Normans conquered England. They brought with them a layer of French and Latin words and laid it on top of the existing Anglo-Saxon English. This created a language with two parallel vocabularies.
+
+There is almost always a pair of words for the same thing in English: one earthy and one "refined." This is not an accident — it is a scar from a conquest.
 
 ---
 
-## Varför detta är den viktigaste läxan i hela arkivet
+## The pairs
 
-År 1066 erövrade normanderna England. De tog med sig ett lager av franska och latinska ord och lade det ovanpå det anglosaxiska. Den sprickan är fortfarande aktiv – och den handlar om **klass och makt**.
-
-Det finns nästan alltid två ord för samma sak i engelska: ett jordnära och ett "fint". Det är inte slumpen. Det är historien.
-
----
-
-## Tabellen
-
-| Anglo-Saxon (jordnära) | Normansk/Latin (formellt) | Vad det säger |
+| Anglo-Saxon (earthy) | Norman/Latin (formal) | What it tells us |
 |---|---|---|
-| *begin* | *commence* | Vem som får tala formellt |
-| *freedom* | *liberty* | Vem som äger begreppet |
-| *kingly* | *royal* | Vem som namnger makten |
-| *dead* | *deceased* | Vem som hanterar döden |
-| *gut* | *stomach / abdomen* | Kropp som klassfråga |
-| *ask* | *enquire / interrogate* | Maktrelationen i frågan |
-| *house* | *mansion / residence* | Vem som bor var |
-| *holy* | *sacred / divine* | Vem som äger det heliga |
-| *help* | *assist / aid* | Vem som hjälper vem |
-| *deep* | *profound* | Vem vars tankar räknas |
+| *begin* | *commence* | Who gets to speak formally |
+| *freedom* | *liberty* | Who owns the concept |
+| *kingly* | *royal* | Whose language counts |
+| *dead* | *deceased* | Who handles death |
+| *gut* | *stomach / abdomen* | Body as class question |
+| *ask* | *enquire / interrogate* | The power relation in the question |
+| *holy* | *sacred / divine* | Who owns the sacred |
+| *help* | *assist / aid* | Who helps whom |
+| *deep* | *profound* | Whose thoughts count |
 
 ---
 
-## Varför detta sitter i texterna
+## Why this lives in the texts
 
-**Mansfield – The Garden Party:**
-Laura rör sig mellan två register. Med sin familj: *lawn, hat, band*. Med arbetarna: hon försöker men hennes ord avslöjar henne. Att höra skiftet är att höra klassdramat.
+**Mansfield Park (Austen):** Laura moves between two registers. With her family: *lawn, hat, band*. With the workers: she tries to be formal but the Anglo-Saxon slips through. The clash reveals class.
 
-**Achebe – Things Fall Apart:**
-Engelska är erövrarens språk – men Achebe tar det och vrider på det. Igbo-världen beskrivs med anglosaxisk enkelhet (*yam, earth, fire*). Kolonisatörernas värld med latinskt formspråk (*civilisation, administration*).
+**Chinua Achebe:** English is the conqueror's language — but Achebe takes it and bends it. The Igbo world is described with Anglo-Saxon directness. Colonialism is described with Latinate formality. The register choice IS the political argument.
 
-**Morrison – Beloved:**
-Morrison äger båda lagren medvetet. Hon kan skriva *the tree of her back* – rent anglosaxiskt, kroppsligt, omöjligt att titta bort ifrån. Och sedan: *rememory* – ett eget ord för ett erfarenhetsformat som latinet inte har ord för.
+**Toni Morrison:** She owns both layers deliberately. She can write *the tree of her back* — pure Anglo-Saxon, bodily, direct — and she can write *the desolation of her circumstances* — Latinate, abstract, bureaucratic. The shift between them is never neutral.
 
 ---
 
-## Lektionsupplägg
+## A classroom exercise
 
-**Övning:** Ge eleverna en mening med ett latinskt/franskt ord. Be dem skriva om den med ett anglosaxiskt. Vad händer med tonen? Med makten? Med vem som talar?
+**Exercise:** Give students a sentence with a Latinate/French word. Ask them to rewrite it with an Anglo-Saxon word. Then ask:
 
-*"The deceased was found in the residence at approximately 0300 hours."*
-→ *"The dead man was found in the house at three in the morning."*
+- *"Who says version 1? Who says version 2? Why?"*
 
-Vem säger version 1? Vem säger version 2? Varför?
+Example: *"The deceased was found at the residence"* → *"The dead man was found at the house"*
+
+The same event. Completely different social worlds.
+
+---
+
+## Why this matters for writing
+
+When students choose between *arid* and *dry*, between *relentless* and *continuous*, between *testimony* and *story* — they are not choosing style. They are choosing which tradition to speak from. The Archive teaches them to make that choice consciously.

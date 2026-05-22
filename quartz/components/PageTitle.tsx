@@ -10,8 +10,8 @@ const PageTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentP
         <img
           src="/static/ten-logo-monogram.svg"
           alt="TEN"
-          width="240"
-          height="240"
+          width="180"
+          height="180"
           class="ten-monogram"
         />
       </a>
@@ -23,6 +23,8 @@ PageTitle.css = `
 .page-title {
   margin: 0 0 0.5rem 0;
   line-height: 0;
+  display: flex;
+  justify-content: center;
 }
 .page-title a {
   display: inline-block;
@@ -31,8 +33,9 @@ PageTitle.css = `
 }
 .ten-monogram {
   display: block;
-  width: 240px !important;
-  height: 240px !important;
+  width: 180px !important;
+  height: 180px !important;
+  margin: 0 !important;
 }
 `
 

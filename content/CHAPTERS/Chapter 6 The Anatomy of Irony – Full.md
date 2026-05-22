@@ -48,7 +48,7 @@ Write: Which of these three sentences knows something you don't want it to know?
 
 ## Part One — Golding
 
-*Nobel Prize in Literature 1983. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1983. See [[The Gallery – Kapitel 6]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -87,7 +87,7 @@ At the end of the novel, a naval officer arrives and is visibly disturbed by wha
 
 ## Part Two — Munro
 
-*Nobel Prize in Literature 2013. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 2013. See [[The Gallery – Kapitel 6]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -101,7 +101,7 @@ The Nobel Committee described her as "master of the contemporary short story." T
 
 ### Satellite Text 2
 
-**Source:** Alice Munro. *(Lärare: välj en av följande – alla tillgängliga i antologier under Bonus Copyright Access: "The Progress of Love" ur samlingen med samma namn (1986); "Meneseteung" ur Friend of My Youth (1990); "The Bear Came Over the Mountain" ur Hateship, Friendship, Courtship, Loveship, Marriage (2001). Dela ut hela berättelsen – 15–25 sidor beroende på val.)*
+**Source:** Alice Munro. *(Teacher: choose one of the following – all available in anthologies under Bonus Copyright Access: "The Progress of Love" ur samlingen med samma namn (1986); "Meneseteung" ur Friend of My Youth (1990); "The Bear Came Over the Mountain" ur Hateship, Friendship, Courtship, Loveship, Marriage (2001). Dela ut hela berättelsen – 15–25 sidor beroende på val.)*
 
 **Before reading:** Munro's stories often begin at a point that seems arbitrary — not the beginning of the story, not even a dramatically significant moment. She does this on purpose. Keep asking: why does she start here?
 
@@ -132,34 +132,53 @@ These three writers are given shorter treatment here. They extend the chapter's 
 
 ### Saul Bellow
 
-*Nobel Prize in Literature 1976. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1976. See [[The Gallery – Kapitel 6]] for full biographical entry.*
+
+Bellow was born in Montreal in 1915 to Jewish immigrant parents from Russia and grew up in Chicago, a city that gave him both his material and his method: dense, urban, intellectual, relentless. He is the great novelist of the educated man in crisis — specifically, the man who knows too much and understands too little about himself.
 
 Bellow opens *Herzog* with one of the most perfect ironic sentences in English fiction: *"If I am out of my mind, it's all right with me."* This sentence is doing three things simultaneously: it admits to instability, it asserts control, and it performs the exact self-delusion it describes. Moses Herzog is a man who has thought his way into collapse, who believes intelligence is a form of protection, and who is in the process of discovering it is not.
 
-**Reading:** *Herzog*, first chapter (8–10 pages).
+This is Bellow's great subject: the gap between the sophisticated mind and the ordinary life it cannot manage. His characters read Nietzsche, quote Kant, and can't sustain a marriage. The irony is never cruel — Bellow finds this gap both comic and genuinely moving. The diagnosis does not put distance between the doctor and the patient.
 
-**Two questions only:**
-1. Find the sentence where Herzog's self-awareness becomes the problem rather than the solution. What is the irony?
-2. Compare Bellow's voice to Golding's. Both diagnose human weakness. What is different about the doctor's relationship to the patient?
+**Reading:** *Herzog*, first chapter (8–10 pages). Available via library.
+
+**Questions:**
+
+1. Find the sentence where Herzog's self-awareness becomes the problem rather than the solution. Describe the irony precisely.
+
+2. Compare Bellow's voice to Golding's. Both diagnose human weakness. What is different about the doctor's relationship to the patient in each case?
+
+3. The opening sentence of *Herzog* has been called "one of the most perfect ironic sentences in American fiction." What makes it ironic? Break it down: what does it say, what does it mean, and how do those two things differ?
+
+*Archive connection: [[Etymologi – Kapitel 6]] — irony · anatomy*
 
 ---
 
 ### John Galsworthy
 
-*Nobel Prize in Literature 1932. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1932. See [[The Gallery – Kapitel 6]] for full biographical entry.*
 
-Galsworthy never raises his voice. His irony is the irony of the accountant: he simply writes down everything the Forsyte family does and spends and values, and the sum at the bottom of the page is more damning than any editorial comment could be.
+Galsworthy is now less read than the others in this chapter, but he is here for a precise reason: he is the master of the irony that does not announce itself. He writes about the upper-middle-class English family in the late Victorian and Edwardian period with complete seriousness — no winks, no exaggeration — and yet the portrait is devastating.
 
-**Reading:** *The Man of Property* (1906), Chapter 1. Public domain.
+The Forsyte family, whose rise and decline *The Forsyte Saga* (1906–1921) traces across three generations, is concerned above all with property: who owns what, what can be sold, what constitutes a good match, what kind of house signals the right kind of person. Galsworthy is a sociologist who chose the novel form. His irony is the irony of the accountant: he simply writes down everything the Forsytes do and spend and value, and the sum at the bottom of the page is more damning than any editorial comment could be.
 
-**One question only:**
-How does Galsworthy use the word "property" in this chapter — and in how many different senses? What is the irony of the chapter's title?
+He received the Nobel Prize in 1932, the same year he finished *End of the Chapter*, his final Forsyte sequence. He died in January 1933. The citation from the Nobel Committee praised his "distinguished art of narration, which takes its highest form in *The Forsyte Saga*."
+
+**Reading:** *The Man of Property* (1906), Chapter 1 — "At Home." Public domain.
+
+**Questions:**
+
+1. How does Galsworthy use the word "property" in this chapter — in how many different senses? What is the irony of the chapter's title?
+
+2. Galsworthy describes the Forsyte gathering without ever explicitly criticising any of them. How does he make his critique visible without stating it? Find the technique.
+
+*Archive connection: [[Etymologi – Kapitel 6]] — civilised · anatomy · ellipsis*
 
 ---
 
 ### Eugene O'Neill
 
-*Nobel Prize in Literature 1936. See The Gallery for full biographical entry.*
+*Nobel Prize in Literature 1936. See [[The Gallery – Kapitel 6]] for full biographical entry.*
 
 O'Neill wrote *Long Day's Journey into Night* about his own family. He wrote it with instruction that it not be published until twenty-five years after his death, so that everyone involved would be dead. His publisher released it four years after his death. His wife, Carlotta, gave permission.
 
@@ -172,6 +191,8 @@ The family in the play loves each other. They also destroy each other. These are
 2. Is this play ironic? Or is irony the wrong word for it?
 
 ---
+
+*→ Archive for this chapter: [[Etymologi – Kapitel 6]] — *irony · civilised · anatomy · ellipsis**
 
 ## The Writing Task
 
@@ -213,4 +234,4 @@ Write your position before the discussion. The discussion will test it.
 ---
 ---
 
-*Copyright note: Golding died 1993 – kontrollera EU public domain (2064). Munro died 2024 – copyright protected i minst 70 år. Bellow died 2005 – copyright protected. Galsworthy died 1933 – public domain in the EU. O'Neill died 1953 – kontrollera. Bonus Copyright Access applies to allt.*
+*Copyright note: Golding died 1993 – check EU public domain status (2064). Munro died 2024 – copyright protected i minst 70 år. Bellow died 2005 – copyright protected. Galsworthy died 1933 – public domain in the EU. O'Neill died 1953 – check. Bonus Copyright Access applies to allt.*

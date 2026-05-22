@@ -34,78 +34,67 @@ WiktionaryLookup.css = `
 }
 `
 
+// OBS: afterDOMLoaded körs vid varje sidnavigering.
+// window._wiktOK säkerställer att lyssnarna bara läggs till EN GÅNG.
 WiktionaryLookup.afterDOMLoaded = `
 (function () {
-  let tip = null;
-  let hideTimer = null;
+  if (window._wiktOK) return;
+  window._wiktOK = true;
+
   let justShown = false;
 
-  function getTip() {
-    if (!tip) {
-      tip = document.createElement("div");
-      tip.id = "wikt-tip";
-      document.body.appendChild(tip);
-    }
-    return tip;
+  function hide() {
+    const t = document.getElementById("wikt-tip");
+    if (t) t.style.display = "none";
   }
 
-  function show(word, x, y) {
+  function showTip(word, x, y) {
     const clean = word.toLowerCase().replace(/[^a-z'-]/g, "");
     if (clean.length < 3) return;
-    clearTimeout(hideTimer);
+
+    let t = document.getElementById("wikt-tip");
+    if (!t) {
+      t = document.createElement("div");
+      t.id = "wikt-tip";
+      document.body.appendChild(t);
+    }
+
     const url = "https://en.wiktionary.org/wiki/" + encodeURIComponent(clean);
-    const t = getTip();
-    t.innerHTML =
-      '<a href="' + url + '" target="_blank" rel="noopener">' +
-      word + " — Wiktionary ↗</a>";
+    t.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + word + " — Wiktionary ↗</a>";
+    // position: fixed — viewport-koordinater, INGEN scrollX/Y
     t.style.left = x + "px";
-    t.style.top = (y - 48) + "px";
+    t.style.top = (y - 38) + "px";
     t.style.display = "block";
     justShown = true;
-    setTimeout(function() { justShown = false; }, 400);
-    const link = t.querySelector("a");
-    link.onclick = function () {
-      try { window.umami && window.umami.track("wiktionary", { word: clean }); }
-      catch (e) {}
+
+    t.querySelector("a").onclick = function () {
+      try { window.umami && window.umami.track("wiktionary", { word: clean }); } catch(e) {}
     };
   }
 
-  function hide() {
-    if (tip) tip.style.display = "none";
-    justShown = false;
-  }
-
-  function onUp(e) {
-    clearTimeout(hideTimer);
-    const sel = window.getSelection();
-    const word = sel && sel.toString().trim();
-    if (!word || /\\s/.test(word) || word.length < 3 || word.length > 35) {
-      hideTimer = setTimeout(hide, 300);
-      return;
-    }
-    const anchor = sel.anchorNode;
-    const el = anchor && (anchor.nodeType === 3 ? anchor.parentElement : anchor);
-    if (!el || !el.closest("article")) { hideTimer = setTimeout(hide, 300); return; }
+  function tryShow() {
     try {
-      const r = sel.getRangeAt(0).getBoundingClientRect();
-      show(word, r.left + r.width / 2 + window.scrollX, r.top + window.scrollY);
-    } catch (_) {}
+      const sel = window.getSelection();
+      if (!sel || sel.rangeCount === 0) return;
+      const word = sel.toString().trim();
+      if (!word || /\s/.test(word) || word.length < 3 || word.length > 30) return;
+      const rect = sel.getRangeAt(0).getBoundingClientRect();
+      if (!rect || rect.width === 0) return;
+      showTip(word, rect.left + rect.width / 2, rect.top);
+    } catch(e) {}
   }
 
-  document.addEventListener("mouseup", onUp);
-  document.addEventListener("touchend", onUp);
+  document.addEventListener("mouseup", function() { setTimeout(tryShow, 15); });
+  document.addEventListener("touchend", function() { setTimeout(tryShow, 60); });
 
-  document.addEventListener("mousedown", function (e) {
-    if (justShown) return;
-    if (!e.target.closest("#wikt-tip")) {
-      hideTimer = setTimeout(hide, 100);
-    }
+  document.addEventListener("click", function(e) {
+    if (justShown) { justShown = false; return; }
+    if (!e.target.closest("#wikt-tip")) hide();
   });
 
-  document.addEventListener("keydown", function (e) {
+  document.addEventListener("keydown", function(e) {
     if (e.key === "Escape") hide();
   });
-  document.addEventListener("nav", hide);
 })();
 `
 
