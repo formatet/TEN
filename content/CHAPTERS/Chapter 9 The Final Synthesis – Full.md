@@ -222,4 +222,4 @@ There is no correct answer. There is a more honest answer and a less honest one.
 ---
 ---
 
-*Copyright note: Naipaul died 2018 – copyright protected. Ishiguro living – copyright protected. Bonus Copyright Access gäller. Nobelföreläsningarna fritt available på nobelprize.org.*
+*Copyright note: Naipaul died 2018 – copyright protected. Ishiguro living – copyright protected. Bonus Copyright Access galler. Nobelforelasningarna fritt available pa nobelprize.org.*

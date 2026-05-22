@@ -243,4 +243,4 @@ Write one sentence — before the discussion begins — that is your answer. You
 ---
 ---
 
-*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Tagores Gitanjali (1910) är public domain. Yeats' verk publicerade före 1928 är public domain i USA (check svenska regler; kontakta Bonus Copyright Access).*
+*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Tagores Gitanjali (1910) ar public domain. Yeats' verk publicerade fore 1928 ar public domain i USA (check svenska regler; kontakta Bonus Copyright Access).*

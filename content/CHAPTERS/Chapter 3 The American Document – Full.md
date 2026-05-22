@@ -214,4 +214,4 @@ Write one sentence before the discussion begins. Revise it at the end.
 ---
 ---
 
-*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Hemingways verk publicerade 1926–1952, Faulkners 1929–1962, Lewis 1920–1935 – check aktuell upphovsrättsstatus; flera verk kan vara public domain i Sverige/EU 70 år efter upphovsmannens död (Faulkner died 1962, Lewis 1951 – check).*
+*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Hemingways verk publicerade 1926–1952, Faulkners 1929–1962, Lewis 1920–1935 – check aktuell upphovsrattsstatus; flera verk kan vara public domain i Sverige/EU 70 ar efter upphovsmannens dod (Faulkner died 1962, Lewis 1951 – check).*

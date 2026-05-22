@@ -283,3 +283,11 @@ footer {
 .page > #quartz-body .sidebar.left {
   gap: 0.4rem !important;
 }
+
+/* Dölj tom Explorer-titel */
+button.desktop-explorer h2:empty {
+  display: none;
+}
+button.desktop-explorer {
+  padding: 0;
+}

@@ -276,4 +276,4 @@ You have fifteen minutes to prepare a two-minute answer before the class discuss
 ---
 ---
 
-*Copyright note: Satellite texts in this chapter are not reproduced in full in the printed textbook utan tillhandahålls av läraren som kopior. Alla kopieinstruktioner nedan faller inom Bonus Copyright Access (15/15-regeln) som täcker de flesta svenska kommunala och fristående skolor. Morrison pp. 3–5, Disgrace pp. 1–9 och båda Heaney-dikterna ryms sammantaget inom 15 sidor.*
+*Copyright note: Satellite texts in this chapter are not reproduced in full in the printed textbook utan provided by the teacher som kopior. Alla kopieinstruktioner nedan faller inom Bonus Copyright Access (15/15-regeln) som tacker de flesta svenska kommunala och fristaende skolor. Morrison pp. 3–5, Disgrace pp. 1–9 och bada Heaney-dikterna ryms sammantaget inom 15 sidor.*

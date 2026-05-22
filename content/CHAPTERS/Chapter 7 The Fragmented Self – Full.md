@@ -250,4 +250,4 @@ Write a position before the discussion. Be honest about what you don't yet know.
 ---
 ---
 
-*Copyright note: Lessing died 2013 – copyright protected. Beckett died 1989 – check (public domain in the EU 2060). Pinter died 2008 – copyright protected. Brodsky died 1996 – copyright protected. Eliot died 1965 – public domain in the EU (2036). Bonus Copyright Access för allt utom Eliot (fritt). The Waste Land finns i sin helhet på Poetry Foundation och Bartleby.com.*
+*Copyright note: Lessing died 2013 – copyright protected. Beckett died 1989 — check status (possibly public domain EU 2060). Pinterer died 2008 – copyright protected. Brodsky died 1996 – copyright protected. Eliot died 1965 – public domain in the EU (2036). Bonus Copyright Access for allt utom Eliot (fritt). The Waste Land finns i sin helhet pa Poetry Foundation och Bartleby.com.*

@@ -223,4 +223,4 @@ Write a position (one sentence) before the discussion. Defend it. Revise it if t
 ---
 ---
 
-*Copyright note: Churchill's speech (1940) is public domain in the UK/EU (died 1965, 70-year rule elapsed). Russells essäer – check per verk; många is public domain. Shaws Pygmalion – check; died 1950, possibly public domain in the EU. Dylans texter – copyright protectede, kort citat inom fair use. Bonus Copyright Access applies to allt övrigt.*
+*Copyright note: Churchill's speech (1940) is public domain in the UK/EU (died 1965, 70-year rule elapsed). Russell's essays – check per verk; manga is public domain. Shaws Pygmalion – check; died 1950, possibly public domain in the EU. Dylans texter – copyright protectede, kort citat inom fair use. Bonus Copyright Access applies to allt ovrigt.*

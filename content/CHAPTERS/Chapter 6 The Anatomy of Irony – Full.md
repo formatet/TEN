@@ -101,7 +101,7 @@ The Nobel Committee described her as "master of the contemporary short story." T
 
 ### Satellite Text 2
 
-**Source:** Alice Munro. *(Teacher: choose one of the following – all available in anthologies under Bonus Copyright Access: "The Progress of Love" ur samlingen med samma namn (1986); "Meneseteung" ur Friend of My Youth (1990); "The Bear Came Over the Mountain" ur Hateship, Friendship, Courtship, Loveship, Marriage (2001). Dela ut hela berättelsen – 15–25 sidor beroende på val.)*
+**Source:** Alice Munro. *(Teacher: choose one of the following — all available in anthologies under Bonus Copyright Access: "The Progress of Love" from the collection of the same name (1986); "Meneseteung" from Friend of My Youth (1990); "The Bear Came Over the Mountain" from Hateship, Friendship, Courtship, Loveship, Marriage (2001). Provide the full story — 15–25 pages depending on choice.)*
 
 **Before reading:** Munro's stories often begin at a point that seems arbitrary — not the beginning of the story, not even a dramatically significant moment. She does this on purpose. Keep asking: why does she start here?
 
@@ -234,4 +234,4 @@ Write your position before the discussion. The discussion will test it.
 ---
 ---
 
-*Copyright note: Golding died 1993 – check EU public domain status (2064). Munro died 2024 – copyright protected i minst 70 år. Bellow died 2005 – copyright protected. Galsworthy died 1933 – public domain in the EU. O'Neill died 1953 – check. Bonus Copyright Access applies to allt.*
+*Copyright note: Golding died 1993 – check EU public domain status (2064). Munro died 2024 – copyright protected for at least 70 ar. Bellow died 2005 – copyright protected. Galsworthy died 1933 – public domain in the EU. O'Neill died 1953 – check. Bonus Copyright Access applies to allt.*
