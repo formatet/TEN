@@ -34,8 +34,6 @@ WiktionaryLookup.css = `
 }
 `
 
-// OBS: afterDOMLoaded körs vid varje sidnavigering.
-// window._wiktOK säkerställer att lyssnarna bara läggs till EN GÅNG.
 WiktionaryLookup.afterDOMLoaded = `
 (function () {
   if (window._wiktOK) return;
@@ -60,8 +58,7 @@ WiktionaryLookup.afterDOMLoaded = `
     }
 
     const url = "https://en.wiktionary.org/wiki/" + encodeURIComponent(clean);
-    t.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + word + " — Wiktionary ↗</a>";
-    // position: fixed — viewport-koordinater, INGEN scrollX/Y
+    t.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + clean + " — Wiktionary ↗</a>";
     t.style.left = x + "px";
     t.style.top = (y - 38) + "px";
     t.style.display = "block";
@@ -77,9 +74,19 @@ WiktionaryLookup.afterDOMLoaded = `
       const sel = window.getSelection();
       if (!sel || sel.rangeCount === 0) return;
       const word = sel.toString().trim();
-      if (!word || /\s/.test(word) || word.length < 3 || word.length > 30) return;
-      const rect = sel.getRangeAt(0).getBoundingClientRect();
+      if (!word || /\s/.test(word) || word.length < 2 || word.length > 30) return;
+
+      const range = sel.getRangeAt(0);
+
+      // getClientRects() fungerar även på radbrytningar där getBoundingClientRect() ger width=0
+      const rects = range.getClientRects();
+      let rect = null;
+      for (let i = 0; i < rects.length; i++) {
+        if (rects[i].width > 0) { rect = rects[i]; break; }
+      }
+      if (!rect) rect = range.getBoundingClientRect();
       if (!rect || rect.width === 0) return;
+
       showTip(word, rect.left + rect.width / 2, rect.top);
     } catch(e) {}
   }

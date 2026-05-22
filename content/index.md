@@ -31,13 +31,17 @@ The work is dictation, close reading, etymology, and imitation. The method is an
 
 ---
 
-## This site
+## How to move through the course
 
-**[Chapters](/CHAPTERS)** — The nine chapters of the course. Texts, tasks, close-reading questions, and the progression from observation to argument to synthesis.
+The site has three sections. They work together.
 
-**[The Gallery](/THE-GALLERY)** — Short portraits of all thirty-three laureates. Context, vision, syntax, echo. The texts you will read before and after each chapter.
+**Start in [The Gallery](/THE-GALLERY).** Before each chapter, read the short portrait of the author — about 150 words. It gives you context, key words, and a sense of the voice before you encounter the actual texts. The Gallery is preparation, not the destination.
 
-**[The Archive](/THE-ARCHIVE)** — The Etymological Archive. One hundred words from the tradition of literary English, traced to their origins. The vocabulary of the course.
+**Then read the [Chapter](/CHAPTERS).** Each chapter opens with a note and a warm-up exercise. Then three author sections, each with a satellite text and reading questions. The chapter closes with a writing task and a big question for discussion. This is the core of the course.
+
+**Use [The Archive](/THE-ARCHIVE) as you read.** When you encounter a bolded word in the chapter — *relentless*, *stark*, *ellipsis* — find it in the Archive. The Archive explains where the word came from, what it weighs, and what to avoid using instead. It is not a vocabulary list. It is a thinking tool.
+
+The chapters run in order. The Gallery and Archive can be entered from any direction.
 
 ---
 
