@@ -1,4 +1,5 @@
 ---
+slug: the-archive/chapter-5
 title: "Chapter 5"
 order: 5
 publish: true
@@ -26,12 +27,12 @@ The words in this chapter carry a double history: the roots are Latin, French, o
 - Origin: Greek *diaspora* — a scattering; *dia-* (through, in different directions) + *speirein* (to sow, to scatter seeds)
 - Weight: Originally used for the Jewish people's dispersal after the Babylonian captivity. Now: any people living scattered from their country of origin. Gurnah's figures are the diaspora as an existential condition — they carry a homeland they cannot return to and an adoptive country that never quite adopts them.
 - Avoid instead: *exile community, immigrants*
-- Connection: Compare with [[Etymologi – Kapitel 7]] FRAGMENTED — diaspora is external fragmentation (a population scattered), fragmented self is internal. Gurnah's characters experience both simultaneously.
+- Connection: Compare with [[Etymologi – Kapitel 7|Chapter 7]] FRAGMENTED — diaspora is external fragmentation (a population scattered), fragmented self is internal. Gurnah's characters experience both simultaneously.
 - Write: Is diaspora a loss, a freedom, or both? Write a sentence for each possibility.
 
 **TESTIMONY / WITNESS**
 - Origin: Latin *testimonium* — attestation; from *testis* = witness (also = testicle — those who bore witness in Roman law swore on their bodies)
-- Weight: To testify is to carry an event in the body and give it to others. Gordimer witnesses from inside the apartheid society; Soyinka witnesses the dismantled humanitarian claims of colonialism. Testimony is not neutral — it is a bodily and moral commitment. Compare with [[Etymologi – Kapitel 8]] WITNESS for how the concept deepens in Morrison.
+- Weight: To testify is to carry an event in the body and give it to others. Gordimer witnesses from inside the apartheid society; Soyinka witnesses the dismantled humanitarian claims of colonialism. Testimony is not neutral — it is a bodily and moral commitment. Compare with [[Etymologi – Kapitel 8|Chapter 8]] WITNESS for how the concept deepens in Morrison.
 - Avoid instead: *account, story*
 - Write: What is the difference between a witness and an observer? Write a sentence that shows the difference without defining it.
 
@@ -39,6 +40,6 @@ The words in this chapter carry a double history: the roots are Latin, French, o
 
 | Word | Entry in | Connection to Chapter 5 |
 |---|---|---|
-| PERIPHERAL | [[Etymologi – Kapitel 8]] | What colonialism does to the colonised person's position |
-| COMPLICIT | [[Etymologi – Kapitel 8]] | Gordimer and the white South African inside the system |
-| ELEGY | [[Etymologi – Kapitel 8]] | Walcott makes elegy of colonialism's victims and Homer's heroes simultaneously |
+| PERIPHERAL | [[Etymologi – Kapitel 8|Chapter 8]] | What colonialism does to the colonised person's position |
+| COMPLICIT | [[Etymologi – Kapitel 8|Chapter 8]] | Gordimer and the white South African inside the system |
+| ELEGY | [[Etymologi – Kapitel 8|Chapter 8]] | Walcott makes elegy of colonialism's victims and Homer's heroes simultaneously |

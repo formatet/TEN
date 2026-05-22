@@ -1,4 +1,5 @@
 ---
+slug: the-archive/the-norman-shift
 title: "The Norman Shift"
 publish: true
 ---

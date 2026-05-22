@@ -46,7 +46,7 @@ Hold those observations. Return to them at the end of the chapter.
 
 ## Part One — Morrison
 
-*Nobel Prize in Literature 1993. See [[The Gallery – Kapitel 8]] for full biographical entry.*
+*Nobel Prize in Literature 1993. See [[The Gallery – Kapitel 8|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -108,7 +108,7 @@ The Nobel lecture is shorter than you expect and stranger than you expect. It is
 
 ## Part Two — Heaney
 
-*Nobel Prize in Literature 1995. See [[The Gallery – Kapitel 8]] for full biographical entry.*
+*Nobel Prize in Literature 1995. See [[The Gallery – Kapitel 8|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -177,7 +177,7 @@ Write 150 words answering this question. There is no correct answer. There is a 
 
 ## Part Three – J.M. Coetzee (b. 1940)
 
-*Nobel Prize in Literature 2003. See [[The Gallery – Kapitel 8]] for full biographical entry.*
+*Nobel Prize in Literature 2003. See [[The Gallery – Kapitel 8|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -221,7 +221,7 @@ Compare Coetzee's first sentence with Morrison's. Both are short. Both refuse to
 
 ---
 
-*→ Archive for this chapter: [[Etymologi – Kapitel 8]] — *peripheral · weight · neutral · pastoral · complicit · elegy · clinical · scrutiny · incorruptible**
+*→ Archive for this chapter: [[Etymologi – Kapitel 8|Chapter 8]] — *peripheral · weight · neutral · pastoral · complicit · elegy · clinical · scrutiny · incorruptible**
 
 ## The Writing Task
 

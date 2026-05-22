@@ -1,4 +1,5 @@
 ---
+slug: the-archive/register
 title: "Register"
 publish: true
 cssclasses: [teacher]

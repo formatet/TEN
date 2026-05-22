@@ -46,7 +46,7 @@ Write: What does each fragment refuse to give you? Not what it gives — what it
 
 ## Part One — Lessing
 
-*Nobel Prize in Literature 2007. See [[The Gallery – Kapitel 7]] for full biographical entry.*
+*Nobel Prize in Literature 2007. See [[The Gallery – Kapitel 7|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -82,7 +82,7 @@ Lessing described herself as writing a book "that would make its own comment, a 
 
 ## Part Two — Beckett
 
-*Nobel Prize in Literature 1969. See [[The Gallery – Kapitel 7]] for full biographical entry.*
+*Nobel Prize in Literature 1969. See [[The Gallery – Kapitel 7|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -121,7 +121,7 @@ In Chapter 3 you studied the iceberg principle: what is left unsaid holds up wha
 
 ## Part Three — Pinter
 
-*Nobel Prize in Literature 2005. See [[The Gallery – Kapitel 7]] for full biographical entry.*
+*Nobel Prize in Literature 2005. See [[The Gallery – Kapitel 7|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -162,7 +162,7 @@ Both use silence and evasion. But Beckett's silences are existential (about what
 
 ### Joseph Brodsky
 
-*Nobel Prize in Literature 1987. See [[The Gallery – Kapitel 7]] for full biographical entry.*
+*Nobel Prize in Literature 1987. See [[The Gallery – Kapitel 7|Gallery]] for full biographical entry.*
 
 Brodsky was born in Leningrad in 1940 to Jewish parents. He left school at fifteen and educated himself, working odd jobs and reading voraciously. In 1964 he was put on trial in the Soviet Union for "social parasitism" — the charge was that he had no real profession, that his claim to be a poet was fraudulent. The transcript of the trial became famous throughout the Soviet dissident world. The judge asked what had qualified him to call himself a poet. Brodsky answered: "I thought... I thought it came from God."
 
@@ -182,13 +182,13 @@ His essay "In Praise of Boredom" (his 1989 commencement address at Dartmouth Col
 
 3. The judge at Brodsky's trial asked who had granted him the right to call himself a poet. He answered: "I thought it came from God." What does this answer mean? Who has the authority to name a poet?
 
-*Archive connection: [[Etymologi – Kapitel 7]] — exile · lacuna · subtext*
+*Archive connection: [[Etymologi – Kapitel 7|Chapter 7]] — exile · lacuna · subtext*
 
 ---
 
 ## T.S. Eliot and The Waste Land
 
-*Nobel Prize in Literature 1948. See [[The Gallery – Kapitel 7]] for full biographical entry. Entry introduced in Chapter 2.*
+*Nobel Prize in Literature 1948. See [[The Gallery – Kapitel 7|Gallery]] for full biographical entry. Entry introduced in Chapter 2.*
 
 *The Waste Land* (1922) was mentioned in Chapter 2. Here is where you actually read it.
 
@@ -206,7 +206,7 @@ What does it feel like to read a text that knows more than you do? Write that ex
 
 ---
 
-*→ Archive for this chapter: [[Etymologi – Kapitel 7]] — *fragmentation · subtext · lacuna · exile**
+*→ Archive for this chapter: [[Etymologi – Kapitel 7|Chapter 7]] — *fragmentation · subtext · lacuna · exile**
 
 ## The Writing Task
 

@@ -284,10 +284,27 @@ footer {
   gap: 0.4rem !important;
 }
 
-/* Dölj tom Explorer-titel */
-button.desktop-explorer h2:empty {
-  display: none;
-}
+/* Explorer: alltid öppen, ingen Contents-knapp ────────────────────────────*/
 button.desktop-explorer {
-  padding: 0;
+  display: none !important;
+}
+.explorer {
+  overflow: visible !important;
+  flex: 1 1 auto !important;
+}
+.explorer-content {
+  overflow-y: auto;
+}
+
+/* ToC: alltid öppen, ingen Table of Contents-knapp ───────────────────────*/
+button.toc-header {
+  display: none !important;
+}
+.toc {
+  overflow: visible !important;
+  flex: 1 1 auto !important;
+}
+ul.toc-content {
+  max-height: none !important;
+  overflow-y: auto;
 }

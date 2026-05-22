@@ -1,4 +1,5 @@
 ---
+slug: the-archive/chapter-7
 title: "Chapter 7"
 order: 7
 publish: true
@@ -20,7 +21,7 @@ The words in this chapter are about limits — the limit of language, the limit 
 - Weight: Fragments are not the remains of something destroyed — they are units with their own edges. *The Waste Land* is not a failed whole; it is a constellation of fragments that *together* holds something a whole never could. Lessing's four notebooks fragment Anna Wulf's life not because the novel fails to hold it together — but because a whole life cannot be held in a single narrative vessel without being falsified.
 - Avoid instead: *broken, incomplete*
 - Write: Write a paragraph about your day in three separate fragments. Then change the order. What changes? What remains?
-- Cross-reference: Compare [[Etymologi – Kapitel 5]] DIASPORA — external splitting of a people; FRAGMENTATION is internal splitting of a self.
+- Cross-reference: Compare [[Etymologi – Kapitel 5|Chapter 5]] DIASPORA — external splitting of a people; FRAGMENTATION is internal splitting of a self.
 
 **SUBTEXT**
 - Origin: Latin *sub-* (under) + *textus* (weaving, woven cloth, then: writing); *textus* from *texere* = to weave (same root as *textile*, *texture*, *context*)
@@ -33,7 +34,7 @@ The words in this chapter are about limits — the limit of language, the limit 
 - Weight: A lacuna is a hole in a manuscript — a place where the text is missing, perhaps because the parchment decayed, perhaps because it was never written. Beckett builds his plays from lacunae: the Godot who never arrives is a lacuna; the pauses in Pinter's dialogues are lacunae — voids that are not empty but load-bearing. What is absent defines what is present.
 - Avoid instead: *gap, absence*
 - Write: Write a dialogue of four lines. Then remove the third line. What happens? Was the removed line the lacuna, or did it become the lacuna in the act of removal?
-- Cross-reference: [[Etymologi – Kapitel 3]] OBLIQUE — the lacuna is obliqueness taken to the extreme: not even an indirect approach remains, only the hole
+- Cross-reference: [[Etymologi – Kapitel 3|Chapter 3]] OBLIQUE — the lacuna is obliqueness taken to the extreme: not even an indirect approach remains, only the hole
 
 **EXILE**
 - Origin: Latin *exilium* — banishment; from *exul* = one who wanders outside; *ex-* (out) + possibly *al-* (to wander, move) — related to *ambulare*

@@ -48,7 +48,7 @@ Write: Which of these three sentences knows something you don't want it to know?
 
 ## Part One — Golding
 
-*Nobel Prize in Literature 1983. See [[The Gallery – Kapitel 6]] for full biographical entry.*
+*Nobel Prize in Literature 1983. See [[The Gallery – Kapitel 6|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -87,7 +87,7 @@ At the end of the novel, a naval officer arrives and is visibly disturbed by wha
 
 ## Part Two — Munro
 
-*Nobel Prize in Literature 2013. See [[The Gallery – Kapitel 6]] for full biographical entry.*
+*Nobel Prize in Literature 2013. See [[The Gallery – Kapitel 6|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -132,7 +132,7 @@ These three writers are given shorter treatment here. They extend the chapter's 
 
 ### Saul Bellow
 
-*Nobel Prize in Literature 1976. See [[The Gallery – Kapitel 6]] for full biographical entry.*
+*Nobel Prize in Literature 1976. See [[The Gallery – Kapitel 6|Gallery]] for full biographical entry.*
 
 Bellow was born in Montreal in 1915 to Jewish immigrant parents from Russia and grew up in Chicago, a city that gave him both his material and his method: dense, urban, intellectual, relentless. He is the great novelist of the educated man in crisis — specifically, the man who knows too much and understands too little about himself.
 
@@ -150,13 +150,13 @@ This is Bellow's great subject: the gap between the sophisticated mind and the o
 
 3. The opening sentence of *Herzog* has been called "one of the most perfect ironic sentences in American fiction." What makes it ironic? Break it down: what does it say, what does it mean, and how do those two things differ?
 
-*Archive connection: [[Etymologi – Kapitel 6]] — irony · anatomy*
+*Archive connection: [[Etymologi – Kapitel 6|Chapter 6]] — irony · anatomy*
 
 ---
 
 ### John Galsworthy
 
-*Nobel Prize in Literature 1932. See [[The Gallery – Kapitel 6]] for full biographical entry.*
+*Nobel Prize in Literature 1932. See [[The Gallery – Kapitel 6|Gallery]] for full biographical entry.*
 
 Galsworthy is now less read than the others in this chapter, but he is here for a precise reason: he is the master of the irony that does not announce itself. He writes about the upper-middle-class English family in the late Victorian and Edwardian period with complete seriousness — no winks, no exaggeration — and yet the portrait is devastating.
 
@@ -172,13 +172,13 @@ He received the Nobel Prize in 1932, the same year he finished *End of the Chapt
 
 2. Galsworthy describes the Forsyte gathering without ever explicitly criticising any of them. How does he make his critique visible without stating it? Find the technique.
 
-*Archive connection: [[Etymologi – Kapitel 6]] — civilised · anatomy · ellipsis*
+*Archive connection: [[Etymologi – Kapitel 6|Chapter 6]] — civilised · anatomy · ellipsis*
 
 ---
 
 ### Eugene O'Neill
 
-*Nobel Prize in Literature 1936. See [[The Gallery – Kapitel 6]] for full biographical entry.*
+*Nobel Prize in Literature 1936. See [[The Gallery – Kapitel 6|Gallery]] for full biographical entry.*
 
 O'Neill wrote *Long Day's Journey into Night* about his own family. He wrote it with instruction that it not be published until twenty-five years after his death, so that everyone involved would be dead. His publisher released it four years after his death. His wife, Carlotta, gave permission.
 
@@ -192,7 +192,7 @@ The family in the play loves each other. They also destroy each other. These are
 
 ---
 
-*→ Archive for this chapter: [[Etymologi – Kapitel 6]] — *irony · civilised · anatomy · ellipsis**
+*→ Archive for this chapter: [[Etymologi – Kapitel 6|Chapter 6]] — *irony · civilised · anatomy · ellipsis**
 
 ## The Writing Task
 

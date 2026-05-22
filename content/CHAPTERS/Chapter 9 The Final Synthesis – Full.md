@@ -53,7 +53,7 @@ Write: How have three years changed how you read an opening sentence? What do yo
 
 ## Part One – V.S. Naipaul (1932–2018)
 
-*Nobel Prize in Literature 2001. See [[The Gallery – Kapitel 9]] for full biographical entry.*
+*Nobel Prize in Literature 2001. See [[The Gallery – Kapitel 9|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -107,7 +107,7 @@ What does the lecture reveal about the relationship between his life and his *in
 
 ## Part Two – Kazuo Ishiguro (b. 1954)
 
-*Nobel Prize in Literature 2017. See [[The Gallery – Kapitel 9]] for full biographical entry.*
+*Nobel Prize in Literature 2017. See [[The Gallery – Kapitel 9|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 

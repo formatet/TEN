@@ -1,4 +1,5 @@
 ---
+slug: the-archive/chapter-3
 title: "Chapter 3"
 order: 3
 publish: true

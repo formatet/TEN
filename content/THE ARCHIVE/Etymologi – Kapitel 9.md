@@ -1,4 +1,5 @@
 ---
+slug: the-archive/chapter-9
 title: "Chapter 9"
 order: 9
 publish: true
@@ -32,17 +33,17 @@ The words in this chapter are about control and its limits. They reveal themselv
 - Weight: Reticence is not an inability to speak — it is the *choice* not to speak. Stevens is reticent about his feelings. Naipaul is reticent about his judgement — he shows, does not judge. It is the discipline the entire course has been building toward: to say what is necessary and to hold back the rest. It is *laconic* (chapter 3), *impassive* (chapter 3), and *clinical* (chapter 8) synthesised into a single posture.
 - Avoid instead: *silent, reserved*
 - Write: Write a sentence that is reticent about something important. Read it to a classmate. Do they notice what you are not saying?
-- Cross-reference: [[Etymologi – Kapitel 3]] LACONIC · IMPASSIVE — chapter 9 is the year-three version of those words
+- Cross-reference: [[Etymologi – Kapitel 3|Chapter 3]] LACONIC · IMPASSIVE — chapter 9 is the year-three version of those words
 
 **SCRUTINY** *(deepening)*
-- Entry: [[Etymologi – Kapitel 8]]
+- Entry: [[Etymologi – Kapitel 8|Chapter 8]]
 - Year-three deepening: Naipaul's scrutiny is *incorruptible* — it turns on his own roots in Trinidad, on post-colonial India and Africa, and on his own gender and class. It is not a comfortable gaze. It is the question the chapter closes with: can an instrument be used well by a person who is not good? Can scrutiny be ethically valuable and morally compromised at the same time?
 
 ## Cross-references — words with entries in other chapters
 
 | Word | Entry in | Connection to Chapter 9 |
 |---|---|---|
-| LACONIC | [[Etymologi – Kapitel 3]] | Reticence as the cultivated silence of full command |
-| IMPASSIVE | [[Etymologi – Kapitel 3]] | Ishiguro's narrators: feeling held behind an impassive surface |
-| CLINICAL | [[Etymologi – Kapitel 8]] | Naipaul's diagnostic gaze |
-| INCORRUPTIBLE | [[Etymologi – Kapitel 8]] | The integrity of Naipaul's scrutiny and its moral ambiguity |
+| LACONIC | [[Etymologi – Kapitel 3|Chapter 3]] | Reticence as the cultivated silence of full command |
+| IMPASSIVE | [[Etymologi – Kapitel 3|Chapter 3]] | Ishiguro's narrators: feeling held behind an impassive surface |
+| CLINICAL | [[Etymologi – Kapitel 8|Chapter 8]] | Naipaul's diagnostic gaze |
+| INCORRUPTIBLE | [[Etymologi – Kapitel 8|Chapter 8]] | The integrity of Naipaul's scrutiny and its moral ambiguity |

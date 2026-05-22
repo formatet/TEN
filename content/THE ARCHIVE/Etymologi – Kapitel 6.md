@@ -1,4 +1,5 @@
 ---
+slug: the-archive/chapter-6
 title: "Chapter 6"
 order: 6
 publish: true
@@ -26,18 +27,18 @@ The words in this chapter are double. They appear to mean one thing and mean ano
 - Weight: Civilisation is the town-dweller's self-image: we live in cities, we have laws, we are not barbarians. *Lord of the Flies* is an anatomical examination of how thin that self-image is. Golding's irony: the most *civilised* boys — the ones with authority, the well-raised ones — are the most dangerous. Civilisation is a varnish, not a foundation.
 - Avoid instead: *cultured, advanced*
 - Exercise: CIVILISED and COLONIAL share a Latin root via *civitas*. What does that tell you about how colonialism justified itself?
-- Cross-reference: [[Etymologi – Kapitel 5]] COLONIAL
+- Cross-reference: [[Etymologi – Kapitel 5|Chapter 5]] COLONIAL
 
 **ANATOMY**
 - Origin: Greek *anatomia* — dissection; *ana-* (up, through) + *temnein* (to cut)
 - Weight: Anatomy is to cut a thing open in order to see how it works. The ironists of this chapter work anatomically: Galsworthy cuts open the English middle class, O'Neill cuts open the family, Munro cuts open a life. To perform an anatomy of a society requires being close enough to see — and distant enough to cut.
 - Avoid instead: *analysis, examination*
 - Write: Choose a social phenomenon you recognise and write an anatomical sentence about it — a sentence that cuts through the surface to the mechanism.
-- Connection: [[Etymologi – Kapitel 1]] DETACHED — the anatomist's gaze requires the detachment established in year one
+- Connection: [[Etymologi – Kapitel 1|Chapter 1]] DETACHED — the anatomist's gaze requires the detachment established in year one
 
 **ELLIPSIS**
 - Origin: Greek *elleipsis* — deficiency, omission; from *elleipein* = to leave behind, to leave out; *ek-* (out) + *leipein* (to leave)
 - Weight: Ellipsis in grammar = an omitted but implied clause. In Munro's narrative art, the ellipsis is structural: the omitted is the most important. A woman is young, and then she is old, and what happened in between is what the story is really about — but it is told sideways, in a subordinate clause, as though it were not the centre. It is. It always is the centre.
 - Avoid instead: *gap, omission*
 - Exercise: Write three sentences about the same person with an ellipsis in the second: what happens if you fill it in? What happens if you don't?
-- Cross-reference: [[Etymologi – Kapitel 3]] OBLIQUE — the ellipsis is the grammatical form of obliqueness
+- Cross-reference: [[Etymologi – Kapitel 3|Chapter 3]] OBLIQUE — the ellipsis is the grammatical form of obliqueness

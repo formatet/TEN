@@ -42,7 +42,7 @@ Write: What do these three sentences expect of you? What does each one give you,
 
 ## Part One — Hemingway
 
-*Nobel Prize in Literature 1954. See [[The Gallery – Kapitel 3]] for full biographical entry.*
+*Nobel Prize in Literature 1954. See [[The Gallery – Kapitel 3|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -92,13 +92,13 @@ Identify the moment in the story where you feel most certain about what one char
 
 **One question only:** This paragraph describes a landscape during wartime without mentioning war directly. Identify the three words or images that introduce the fact of war without naming it. How does Hemingway make the peaceful landscape carry the weight of violence?
 
-*(This is a dictation text. See The Gallery – Kapitel 3 for the Hemingway entry at dictation level.)*
+*(This is a dictation text. See [[The Gallery – Kapitel 3|Gallery]] for the Hemingway entry at dictation level.)*
 
 ---
 
 ## Part Two — Faulkner
 
-*Nobel Prize in Literature 1949. See [[The Gallery – Kapitel 3]] for full biographical entry.*
+*Nobel Prize in Literature 1949. See [[The Gallery – Kapitel 3|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -134,7 +134,7 @@ This is not Modernist experiment for its own sake. It is a formal argument: the 
 
 ## Part Three — Lewis
 
-*Nobel Prize in Literature 1930. See [[The Gallery – Kapitel 3]] for full biographical entry.*
+*Nobel Prize in Literature 1930. See [[The Gallery – Kapitel 3|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -168,7 +168,7 @@ Lewis's prose is vernacular: it sounds exactly like the people it describes. Tha
 
 ---
 
-*→ Archive for this chapter: [[Etymologi – Kapitel 3]] — *terse · laconic · stark · vernacular · oblique · impassive**
+*→ Archive for this chapter: [[Etymologi – Kapitel 3|Chapter 3]] — *terse · laconic · stark · vernacular · oblique · impassive**
 
 ## The Writing Task
 

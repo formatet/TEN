@@ -1,4 +1,5 @@
 ---
+slug: the-archive
 title: "The Etymological Archive"
 publish: true
 ---
@@ -15,21 +16,21 @@ The Archive teaches students to read and write with this in mind.
 
 Three entry points:
 
-1. [[Etymologi – Det normanska skiftet]] — the most important lesson. Why there are always two words for the same thing in English, and what that gap means.
-2. [[Etymologi – Register]] — formal, informal, literary, academic
+1. [[Etymologi – Det normanska skiftet|The Norman Shift]] — the most important lesson. Why there are always two words for the same thing in English, and what that gap means.
+2. [[Etymologi – Register|Register]] — formal, informal, literary, academic
 3. Per chapter — words drawn from the texts we actually read:
 
 | Chapter | Key words |
 |---|---|
-| [[Etymologi – Kapitel 1]] | relentless · coarse · substantial · arid · horizon · detached |
-| [[Etymologi – Kapitel 2]] | lyric · image · symbol · concrete · economy · elegiac · metaphor |
-| [[Etymologi – Kapitel 3]] | terse · laconic · stark · vernacular · oblique · impassive |
-| [[Etymologi – Kapitel 4]] | rhetoric · inevitable · deliberate |
-| [[Etymologi – Kapitel 5]] | colonial · diaspora · testimony |
-| [[Etymologi – Kapitel 6]] | irony · civilised · anatomy · ellipsis |
-| [[Etymologi – Kapitel 7]] | fragmentation · subtext · lacuna · exile |
-| [[Etymologi – Kapitel 8]] | peripheral · weight · neutral · pastoral · complicit · elegy · clinical · scrutiny · incorruptible |
-| [[Etymologi – Kapitel 9]] | synthesis · unreliable · reticence |
+| [[Etymologi – Kapitel 1|Chapter 1]] | relentless · coarse · substantial · arid · horizon · detached |
+| [[Etymologi – Kapitel 2|Chapter 2]] | lyric · image · symbol · concrete · economy · elegiac · metaphor |
+| [[Etymologi – Kapitel 3|Chapter 3]] | terse · laconic · stark · vernacular · oblique · impassive |
+| [[Etymologi – Kapitel 4|Chapter 4]] | rhetoric · inevitable · deliberate |
+| [[Etymologi – Kapitel 5|Chapter 5]] | colonial · diaspora · testimony |
+| [[Etymologi – Kapitel 6|Chapter 6]] | irony · civilised · anatomy · ellipsis |
+| [[Etymologi – Kapitel 7|Chapter 7]] | fragmentation · subtext · lacuna · exile |
+| [[Etymologi – Kapitel 8|Chapter 8]] | peripheral · weight · neutral · pastoral · complicit · elegy · clinical · scrutiny · incorruptible |
+| [[Etymologi – Kapitel 9|Chapter 9]] | synthesis · unreliable · reticence |
 
 ---
 

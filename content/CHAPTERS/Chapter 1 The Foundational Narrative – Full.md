@@ -65,7 +65,7 @@ Write three sentences — one for each object. No adjectives that describe feeli
 
 ## Part Two — Buck
 
-*Nobel Prize in Literature 1938. See [[The Gallery – Kapitel 1]] for full biographical entry.*
+*Nobel Prize in Literature 1938. See [[The Gallery – Kapitel 1|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -117,7 +117,7 @@ Compare your three opening sentences to the way Buck describes objects. What did
 
 ## Part Three — Steinbeck
 
-*Nobel Prize in Literature 1962. See [[The Gallery – Kapitel 1]] for full biographical entry.*
+*Nobel Prize in Literature 1962. See [[The Gallery – Kapitel 1|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -164,7 +164,7 @@ Both writers describe poor rural people in physical detail without sentimentalit
 
 ---
 
-*→ Archive for this chapter: [[Etymologi – Kapitel 1]] — *relentless · coarse · substantial · arid · horizon · detached**
+*→ Archive for this chapter: [[Etymologi – Kapitel 1|Chapter 1]] — *relentless · coarse · substantial · arid · horizon · detached**
 
 ## The Writing Task
 

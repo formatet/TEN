@@ -46,7 +46,7 @@ Write your answers. You will return to them at the end of this chapter.
 
 ## Part One – Wole Soyinka (b. 1934)
 
-*Nobel Prize in Literature 1986. See [[The Gallery – Kapitel 5]] for full biographical entry.*
+*Nobel Prize in Literature 1986. See [[The Gallery – Kapitel 5|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -84,7 +84,7 @@ Soyinka's Nobel lecture is explicitly political. He uses the platform to speak a
 
 ## Part Two — Gordimer
 
-*Nobel Prize in Literature 1991. See [[The Gallery – Kapitel 5]] for full biographical entry.*
+*Nobel Prize in Literature 1991. See [[The Gallery – Kapitel 5|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -112,7 +112,7 @@ Her moral position was not comfortable. She was criticised by the apartheid gove
 
 ## Part Three — Walcott
 
-*Nobel Prize in Literature 1992. See [[The Gallery – Kapitel 5]] for full biographical entry.*
+*Nobel Prize in Literature 1992. See [[The Gallery – Kapitel 5|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -154,7 +154,7 @@ These two writers are given shorter treatment here. They extend the chapter's re
 
 ### Abdulrazak Gurnah (b. 1948)
 
-*Nobel Prize in Literature 2021. See [[The Gallery – Kapitel 5]] for full biographical entry.*
+*Nobel Prize in Literature 2021. See [[The Gallery – Kapitel 5|Gallery]] for full biographical entry.*
 
 Gurnah was born in Zanzibar in 1948. In 1964, after the revolution that overthrew the sultanate and turned violent against the Arab minority, he left — first as a student, then as an exile who could not return. He arrived in England and has lived there ever since, writing novels about people who live in the gap between worlds: the world they left, the world that doesn't quite receive them.
 
@@ -172,13 +172,13 @@ The key word is *gulf*. Not bridge. Not meeting. Gulf.
 
 2. Compare Gurnah's position to Walcott's. Both write in English about a colonial inheritance. What is different about what the language *means* to each of them?
 
-*Archive connection: [[Etymologi – Kapitel 5]] — diaspora · testimony · colonial*
+*Archive connection: [[Etymologi – Kapitel 5|Chapter 5]] — diaspora · testimony · colonial*
 
 ---
 
 ### Patrick White
 
-*Nobel Prize in Literature 1973. See [[The Gallery – Kapitel 5]] for full biographical entry.*
+*Nobel Prize in Literature 1973. See [[The Gallery – Kapitel 5|Gallery]] for full biographical entry.*
 
 White is the chapter's uncomfortable counterpoint: not the colonised voice reclaiming the language, but the coloniser's descendant discovering that the landscape of his inheritance does not recognise him.
 
@@ -196,11 +196,11 @@ White received the Nobel Prize in 1973. The Swedish Academy called him "an epic 
 
 2. Voss believes his willpower can conquer geography. How does White's syntax embody this belief — and how does it undermine it?
 
-*Archive connection: [[Etymologi – Kapitel 5]] — colonial · peripheral*
+*Archive connection: [[Etymologi – Kapitel 5|Chapter 5]] — colonial · peripheral*
 
 ---
 
-*→ Archive for this chapter: [[Etymologi – Kapitel 5]] — *colonial · diaspora · testimony**
+*→ Archive for this chapter: [[Etymologi – Kapitel 5|Chapter 5]] — *colonial · diaspora · testimony**
 
 ## The Writing Task
 

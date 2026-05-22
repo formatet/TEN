@@ -44,7 +44,7 @@ Write: Which passage changes something in you most strongly? Not which is most b
 
 ## Part One — Churchill
 
-*Nobel Prize in Literature 1953. See [[The Gallery – Kapitel 4]] for full biographical entry.*
+*Nobel Prize in Literature 1953. See [[The Gallery – Kapitel 4|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -83,7 +83,7 @@ Churchill presents surrender as unthinkable. But surrender was, in fact, a live 
 
 ## Part Two — Russell
 
-*Nobel Prize in Literature 1950. See [[The Gallery – Kapitel 4]] for full biographical entry.*
+*Nobel Prize in Literature 1950. See [[The Gallery – Kapitel 4|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -103,7 +103,7 @@ He is in this chapter because he represents the opposite pole from Churchill: wh
 
 1. Identify Russell's central claim in your extract. State it in one sentence.
 
-2. Find one place where Russell uses irony (see [[Etymologi – Kapitel 6]]) to make a point that would be less powerful stated directly. What is the point? Why does irony serve it better than direct statement?
+2. Find one place where Russell uses irony (see [[Etymologi – Kapitel 6|Chapter 6]]) to make a point that would be less powerful stated directly. What is the point? Why does irony serve it better than direct statement?
 
 3. Compare a sentence by Russell with a sentence by Churchill. Both are writing to persuade. Write two sentences describing the difference in how they assume the reader will be persuaded.
 
@@ -119,7 +119,7 @@ He is in this chapter because he represents the opposite pole from Churchill: wh
 
 ## Part Three — Shaw
 
-*Nobel Prize in Literature 1925. See [[The Gallery – Kapitel 4]] for full biographical entry.*
+*Nobel Prize in Literature 1925. See [[The Gallery – Kapitel 4|Gallery]] for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -153,7 +153,7 @@ Shaw understood something Churchill and Russell did not: the most powerful rheto
 
 ## Dylan – The Border Question
 
-*Nobel Prize in Literature 2016. See [[The Gallery – Kapitel 4]] for full biographical entry.*
+*Nobel Prize in Literature 2016. See [[The Gallery – Kapitel 4|Gallery]] for full biographical entry.*
 
 Bob Dylan received the Nobel Prize in 2016 for "having created new poetic expressions within the great American song tradition." The Swedish Academy's decision divided opinion immediately and continues to divide it. Many writers and critics felt it was a category error: Dylan is not a writer of literature, they argued, but a musician who uses words. Others felt the distinction was exactly what was wrong with how literature defines itself.
 
@@ -175,11 +175,11 @@ His Nobel lecture (2017), written but initially delivered as audio, is a meditat
 
 Write 150 words on question 1 before the class discussion. There is no correct answer to any of the three.
 
-*Archive connection: [[Etymologi – Kapitel 4]] — rhetoric · inevitable · deliberate · oblique*
+*Archive connection: [[Etymologi – Kapitel 4|Chapter 4]] — rhetoric · inevitable · deliberate · oblique*
 
 ---
 
-*→ Archive for this chapter: [[Etymologi – Kapitel 4]] — *rhetoric · inevitable · deliberate**
+*→ Archive for this chapter: [[Etymologi – Kapitel 4|Chapter 4]] — *rhetoric · inevitable · deliberate**
 
 ## The Writing Task
 

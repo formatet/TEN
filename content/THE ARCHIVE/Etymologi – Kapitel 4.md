@@ -1,4 +1,5 @@
 ---
+slug: the-archive/chapter-4
 title: "Chapter 4"
 order: 4
 publish: true
@@ -27,7 +28,7 @@ The words in this chapter are not merely words — they are tools people have us
 - Weight: The inevitable is not merely what happens — it is what is *constructed* as inevitable. Political rhetoric makes the improbable unavoidable and the possible impossible. "We shall fight on the beaches" was a choice; Churchill's rhetorical genius was to make it sound as though it were not.
 - Avoid instead: *certain, unavoidable*
 - Exercise: Choose a political statement from the past day. Identify: is something being constructed as inevitable that is actually a choice? How?
-- Cross-reference: Returns in [[Etymologi – Kapitel 5]] (colonialism's "inevitability") and [[Etymologi – Kapitel 6]] (irony's mechanics when the inevitable finally arrives)
+- Cross-reference: Returns in [[Etymologi – Kapitel 5|Chapter 5]] (colonialism's "inevitability") and [[Etymologi – Kapitel 6|Chapter 6]] (irony's mechanics when the inevitable finally arrives)
 
 **DELIBERATE**
 - Origin: Latin *deliberare* — to weigh carefully; *de-* (fully) + *librare* (to weigh, balance) — from *libra* = scale, balance-weight
@@ -39,6 +40,6 @@ The words in this chapter are not merely words — they are tools people have us
 
 | Word | Entry in | Connection to Chapter 4 |
 |---|---|---|
-| VERNACULAR | [[Etymologi – Kapitel 3]] | Dylan and Shaw write in / about the people's language as a political choice |
-| OBLIQUE | [[Etymologi – Kapitel 3]] | Dylan's oblique statements — says one thing, means another |
-| INCORRUPTIBLE | [[Etymologi – Kapitel 8]] | Russell's "incorruptible" reason as counterweight to power's rhetoric |
+| VERNACULAR | [[Etymologi – Kapitel 3|Chapter 3]] | Dylan and Shaw write in / about the people's language as a political choice |
+| OBLIQUE | [[Etymologi – Kapitel 3|Chapter 3]] | Dylan's oblique statements — says one thing, means another |
+| INCORRUPTIBLE | [[Etymologi – Kapitel 8|Chapter 8]] | Russell's "incorruptible" reason as counterweight to power's rhetoric |
