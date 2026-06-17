@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>${page_title} — The English Nobel</title>
+  <link rel="icon" type="image/svg+xml" href="/static/img/favicon.svg">
+  <link rel="stylesheet" href="/static/css/site.css">
+  <link rel="preload" href="/static/fonts/eb-garamond-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/static/fonts/eb-garamond-italic-400.woff2" as="font" type="font/woff2" crossorigin>
+  <script defer src="https://s.kristall.info/script.js" data-website-id="bc585229-b7c7-4acc-946c-ac3973020601"></script>
+</head>
+<body>
+<div class="layout">
+
+  <aside class="sidebar">
+    <div class="site-logo">
+      <a href="/" aria-label="The English Nobel — home">
+        <img src="/static/img/ten-logo-monogram.svg" alt="TEN" width="180" height="180" class="ten-monogram">
+      </a>
+    </div>
+
+    <nav class="site-nav" aria-label="Site navigation">
+${nav_html}
+    </nav>
+  </aside>
+
+  <main class="content">
+    <article>
+      <h1 class="page-title">${page_title}</h1>
+${content_html}
+    </article>
+${toc_html}
+  </main>
+
+</div>
+
+<footer>
+  <p>The English Nobel · Hvitfeldtska gymnasiet</p>
+</footer>
+
+<script src="/static/js/wiktionary.js"></script>
+<script src="/static/js/tracking.js"></script>
+<script src="/static/js/search.js"></script>
+</body>
+</html>

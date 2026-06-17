@@ -1,11 +1,4 @@
+public/
+__pycache__/
+*.pyc
 .DS_Store
-.gitignore
-node_modules
-public
-prof
-tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
-private/
-.replit
-replit.nix
