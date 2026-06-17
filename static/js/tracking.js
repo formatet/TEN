@@ -17,6 +17,7 @@
         track("scroll-depth", { pct: mark, page: location.pathname });
       }
     });
+    if (reached.size === 4) window.removeEventListener("scroll", onScroll);
   }
   window.addEventListener("scroll", onScroll, { passive: true });
 
@@ -40,12 +41,21 @@
     }
   });
 
-  // ── 4. Time on page — fire when leaving ──────────────────────────────
+  // ── 4. Time on page — fire when the page is hidden/closed ────────────
+  //  visibilitychange + pagehide are reliable on Chrome/Chromebook where
+  //  beforeunload is not (bfcache, backgrounded tabs).
   const startTime = Date.now();
-  window.addEventListener("beforeunload", function () {
+  let timeSent = false;
+  function sendTime() {
+    if (timeSent) return;
+    timeSent = true;
     const secs = Math.round((Date.now() - startTime) / 1000);
     if (secs > 5) track("time-on-page", { secs: secs, page: location.pathname });
+  }
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "hidden") sendTime();
   });
+  window.addEventListener("pagehide", sendTime);
 
   // ── 5. Search ─────────────────────────────────────────────────────────
   const searchInput = document.getElementById("search-input");

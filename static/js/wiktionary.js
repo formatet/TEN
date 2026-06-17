@@ -22,9 +22,15 @@
 
     const url = "https://en.wiktionary.org/wiki/" + encodeURIComponent(clean);
     t.innerHTML = '<a href="' + url + '" target="_blank" rel="noopener">' + clean + " — Wiktionary ↗</a>";
-    t.style.left = x + "px";
-    t.style.top = (y - 38) + "px";
     t.style.display = "block";
+
+    // Clamp horizontally so the tooltip never clips off the screen edge
+    // (the tip is centred on x via translateX(-50%)).
+    const halfW = t.offsetWidth / 2;
+    const margin = 8;
+    const clampedX = Math.max(halfW + margin, Math.min(x, window.innerWidth - halfW - margin));
+    t.style.left = clampedX + "px";
+    t.style.top = (y - 38) + "px";
     justShown = true;
 
     t.querySelector("a").onclick = function () {

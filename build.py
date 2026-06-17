@@ -9,7 +9,6 @@ import json
 import os
 import re
 import shutil
-import string
 import sys
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "lib"))
@@ -130,13 +129,14 @@ def render_page(meta, body, current_href, template):
     nav_html      = render_nav(current_href)
     title         = meta.get("title", "")
 
-    return (
+    html = (
         template
         .replace("${page_title}", title)
         .replace("${nav_html}", nav_html)
         .replace("${content_html}", content_html)
         .replace("${toc_html}", toc_html)
     )
+    return html, content_html
 
 
 # ─── Output path ────────────────────────────────────────────────────────────
@@ -205,7 +205,7 @@ def build():
                 continue
 
             current_href = href_for_content_path(rel_path)
-            html = render_page(meta, body, current_href, template)
+            html, content_html = render_page(meta, body, current_href, template)
 
             out = output_path_for_href(current_href)
             os.makedirs(os.path.dirname(out), exist_ok=True)
@@ -214,8 +214,8 @@ def build():
 
             page_count += 1
 
-            # Collect for search index
-            plain = strip_html(markdown2.markdown(body, extras=MARKDOWN_EXTRAS))
+            # Collect for search index (reuse already-rendered HTML)
+            plain = strip_html(content_html)
             search_index.append({
                 "title": meta.get("title", fname),
                 "href": current_href,
