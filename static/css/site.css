@@ -73,20 +73,20 @@ body {
 .content {
   grid-column: 2;
   display: grid;
-  grid-template-columns: min(var(--content-max), 100%) 1fr;
-  column-gap: 3rem;
-  padding: 1.5rem 2.5rem 3rem;
+  grid-template-columns: 1fr min(var(--content-max), 100%) auto 1fr;
+  column-gap: 2.5rem;
+  padding: 1.5rem 1rem 3rem;
   align-content: start;
 }
 
 .content > * {
-  grid-column: 1;
+  grid-column: 2;
   min-width: 0;
 }
 
-/* TOC sits in the right-hand column on wide screens */
+/* TOC sits just right of the centred reading column, as a side-note */
 .toc-aside {
-  grid-column: 2;
+  grid-column: 3;
   grid-row: 1;
   padding: 0.25rem 0 0;
   max-width: 16rem;
@@ -365,15 +365,6 @@ pre code { background: none; padding: 0; }
 .callout-warning { border-left-color: var(--ink); background: rgba(26,26,26,0.06); }
 .callout-tip    { border-left-color: rgba(26,26,26,0.3); }
 .callout-quote  { border-left-color: var(--rule); font-style: italic; }
-
-/* ─── Footer ────────────────────────────────────────────────────────────── */
-footer {
-  font-size: 0.82rem;
-  color: var(--gray);
-  border-top: 1px solid var(--rule-mid);
-  padding: 1.5rem 1rem;
-  flex-shrink: 0;
-}
 
 /* ─── Wiktionary tooltip ────────────────────────────────────────────────── */
 #wikt-tip {
