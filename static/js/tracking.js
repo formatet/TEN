@@ -27,7 +27,7 @@
     if (navLink) {
       track("nav-explorer", { to: navLink.getAttribute("href") });
     }
-    const tocLink = e.target.closest(".toc-aside a");
+    const tocLink = e.target.closest(".toc a");
     if (tocLink) {
       track("nav-toc", { section: tocLink.textContent.trim().slice(0, 40) });
     }
