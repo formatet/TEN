@@ -3,7 +3,7 @@ title: "The American Document"
 order: "3"
 publish: "true"
 ---
-*[Hemingway](/gallery/) · [Faulkner](/gallery/) · [Lewis](/gallery/)*
+*[Hemingway](/gallery/ernest-hemingway/) · [Faulkner](/gallery/william-faulkner/) · [Lewis](/gallery/sinclair-lewis/)*
 
 
 ---
@@ -41,7 +41,7 @@ Write: What do these three sentences expect of you? What does each one give you,
 
 ## Part One — Hemingway
 
-*Nobel Prize in Literature 1954. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1954. See [Gallery](/gallery/ernest-hemingway/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -91,13 +91,13 @@ Identify the moment in the story where you feel most certain about what one char
 
 **One question only:** This paragraph describes a landscape during wartime without mentioning war directly. Identify the three words or images that introduce the fact of war without naming it. How does Hemingway make the peaceful landscape carry the weight of violence?
 
-*(This is a dictation text. See [Gallery](/gallery/) for the Hemingway entry at dictation level.)*
+*(This is a dictation text. See [Gallery](/gallery/ernest-hemingway/) for the Hemingway entry at dictation level.)*
 
 ---
 
 ## Part Two — Faulkner
 
-*Nobel Prize in Literature 1949. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1949. See [Gallery](/gallery/william-faulkner/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -133,7 +133,7 @@ This is not Modernist experiment for its own sake. It is a formal argument: the 
 
 ## Part Three — Lewis
 
-*Nobel Prize in Literature 1930. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1930. See [Gallery](/gallery/sinclair-lewis/) for full biographical entry.*
 
 ### Context for This Chapter
 

@@ -11,12 +11,13 @@
   <script defer src="https://s.kristall.info/script.js" data-website-id="bc585229-b7c7-4acc-946c-ac3973020601"></script>
 </head>
 <body>
+<a class="skip-link" href="#main">Skip to content</a>
 <div class="layout">
 
   <aside class="sidebar">
     <div class="site-logo">
       <a href="/" aria-label="The English Nobel — home">
-        <img src="/static/img/ten-logo-monogram.svg" alt="TEN" width="180" height="180" class="ten-monogram">
+        <img src="/static/img/ten-logo-monogram.svg" alt="TEN" width="180" height="95" class="ten-monogram">
       </a>
     </div>
 
@@ -30,10 +31,10 @@ ${nav_html}
     </nav>
   </aside>
 
-  <main class="content">
+${toc_html}
+  <main class="content" id="main">
     <article>
       <h1 class="page-title">${page_title}</h1>
-${toc_html}
 ${content_html}
     </article>
   </main>

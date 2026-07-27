@@ -3,7 +3,7 @@ title: "The Foundational Narrative"
 order: "1"
 publish: "true"
 ---
-*[Kipling](/gallery/) · [Buck](/gallery/) · [Steinbeck](/gallery/)*
+*[Kipling](/gallery/rudyard-kipling/) · [Buck](/gallery/pearl-s-buck/) · [Steinbeck](/gallery/john-steinbeck/)*
 
 
 ---
@@ -110,7 +110,7 @@ Kipling plainly loves this world: the garden, the animals, the boy with the mong
 
 ## Part Two — Buck
 
-*Nobel Prize in Literature 1938. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1938. See [Gallery](/gallery/pearl-s-buck/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -162,7 +162,7 @@ Compare your three opening sentences to the way Buck describes objects. What did
 
 ## Part Three — Steinbeck
 
-*Nobel Prize in Literature 1962. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1962. See [Gallery](/gallery/john-steinbeck/) for full biographical entry.*
 
 ### Context for This Chapter
 

@@ -76,7 +76,12 @@ def expand_callouts(text):
 # ─── TOC generation ─────────────────────────────────────────────────────────
 
 def build_toc(html):
-    """Extract h2/h3 from rendered HTML and return an inline, collapsible TOC."""
+    """Extract h2/h3 from rendered HTML and return the page-index rail.
+
+    The rail sits in the right column on wide screens and collapses to a
+    Contents box above the article on narrower ones — same markup, placed by
+    the grid in site.css.
+    """
     headings = re.findall(r'<h([23])[^>]*id="([^"]*)"[^>]*>(.*?)</h\1>', html, re.DOTALL)
     if len(headings) < 2:
         return ""
@@ -86,11 +91,13 @@ def build_toc(html):
         cls = "toc-h3" if level == "3" else ""
         items.append(f'<li class="{cls}"><a href="#{hid}">{clean}</a></li>')
     return (
-        '<details class="toc">\n'
+        '  <aside class="toc-rail" aria-label="On this page">\n'
+        '<details class="toc" open>\n'
         '<summary>Contents</summary>\n'
         '<ol>\n'
         + '\n'.join(items) +
         '\n</ol>\n</details>\n'
+        '  </aside>\n'
     )
 
 

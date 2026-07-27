@@ -3,7 +3,7 @@ title: "Clear Sight"
 order: "9"
 publish: "true"
 ---
-*[Naipaul](/gallery/) · [Ishiguro](/gallery/)*
+*[Naipaul](/gallery/vs-naipaul/) · [Ishiguro](/gallery/kazuo-ishiguro/)*
 
 
 ---
@@ -52,7 +52,7 @@ Write: How have three years changed how you read an opening sentence? What do yo
 
 ## Part One – V.S. Naipaul (1932–2018)
 
-*Nobel Prize in Literature 2001. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 2001. See [Gallery](/gallery/vs-naipaul/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -106,7 +106,7 @@ What does the lecture reveal about the relationship between his life and his *in
 
 ## Part Two – Kazuo Ishiguro (b. 1954)
 
-*Nobel Prize in Literature 2017. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 2017. See [Gallery](/gallery/kazuo-ishiguro/) for full biographical entry.*
 
 ### Context for This Chapter
 

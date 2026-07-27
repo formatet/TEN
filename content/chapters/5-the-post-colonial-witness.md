@@ -3,7 +3,7 @@ title: "The Post-Colonial Witness"
 order: "5"
 publish: "true"
 ---
-*[Soyinka](/gallery/) · [Gordimer](/gallery/) · [Walcott](/gallery/) · [Gurnah](/gallery/) · [White](/gallery/)*
+*[Soyinka](/gallery/wole-soyinka/) · [Gordimer](/gallery/nadine-gordimer/) · [Walcott](/gallery/derek-walcott/) · [Gurnah](/gallery/abdulrazak-gurnah/) · [White](/gallery/patrick-white/)*
 
 
 ---
@@ -45,7 +45,7 @@ Write your answers. You will return to them at the end of this chapter.
 
 ## Part One – Wole Soyinka (b. 1934)
 
-*Nobel Prize in Literature 1986. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1986. See [Gallery](/gallery/wole-soyinka/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -83,7 +83,7 @@ Soyinka's Nobel lecture is explicitly political. He uses the platform to speak a
 
 ## Part Two — Gordimer
 
-*Nobel Prize in Literature 1991. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1991. See [Gallery](/gallery/nadine-gordimer/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -111,7 +111,7 @@ Her moral position was not comfortable. She was criticised by the apartheid gove
 
 ## Part Three — Walcott
 
-*Nobel Prize in Literature 1992. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1992. See [Gallery](/gallery/derek-walcott/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -153,7 +153,7 @@ These two writers are given shorter treatment here. They extend the chapter's re
 
 ### Abdulrazak Gurnah (b. 1948)
 
-*Nobel Prize in Literature 2021. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 2021. See [Gallery](/gallery/abdulrazak-gurnah/) for full biographical entry.*
 
 Gurnah was born in Zanzibar in 1948. In 1964, after the revolution that overthrew the sultanate and turned violent against the Arab minority, he left — first as a student, then as an exile who could not return. He arrived in England and has lived there ever since, writing novels about people who live in the gap between worlds: the world they left, the world that doesn't quite receive them.
 
@@ -177,7 +177,7 @@ The key word is *gulf*. Not bridge. Not meeting. Gulf.
 
 ### Patrick White
 
-*Nobel Prize in Literature 1973. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1973. See [Gallery](/gallery/patrick-white/) for full biographical entry.*
 
 White is the chapter's uncomfortable counterpoint: not the colonised voice reclaiming the language, but the coloniser's descendant discovering that the landscape of his inheritance does not recognise him.
 

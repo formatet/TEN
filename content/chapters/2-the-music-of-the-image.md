@@ -3,7 +3,7 @@ title: "The Music of the Image"
 order: "2"
 publish: "true"
 ---
-*[Yeats](/gallery/) · [Tagore](/gallery/) · [Glück](/gallery/) + Eliot (intro)*
+*[Yeats](/gallery/wb-yeats/) · [Tagore](/gallery/rabindranath-tagore/) · [Glück](/gallery/louise-gluck/) + Eliot (intro)*
 
 
 ---
@@ -45,7 +45,7 @@ Write down: Which one do you trust the most? Not which one you *understand* — 
 
 ## Part One – W.B. Yeats (1865–1939)
 
-*Nobel Prize in Literature 1923. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1923. See [Gallery](/gallery/wb-yeats/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -101,7 +101,7 @@ Write one paragraph. This is a hard question for Year One. It is supposed to be 
 
 ## Part Two — Tagore
 
-*Nobel Prize in Literature 1913. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1913. See [Gallery](/gallery/rabindranath-tagore/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -137,7 +137,7 @@ Find one sentence in the verses you have read that follows this pattern. Copy it
 
 ## Part Three – Louise Glück (b. 1943)
 
-*Nobel Prize in Literature 2020. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 2020. See [Gallery](/gallery/louise-gluck/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -242,4 +242,4 @@ Write one sentence — before the discussion begins — that is your answer. You
 ---
 ---
 
-*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Tagores Gitanjali (1910) ar public domain. Yeats' verk publicerade fore 1928 ar public domain i USA (check svenska regler; kontakta Bonus Copyright Access).*
+*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Tagore died 1941 – Gitanjali (1912) är public domain i Sverige/EU. Yeats died 1939 – hela författarskapet är public domain i Sverige/EU sedan 2010. Glück died 2023 – skyddad t.o.m. 31 december 2093; The Wild Iris kopieras under Bonus Copyright Access. Översättningar, redigerade utgåvor och inspelningar kan ha egen skyddstid.*

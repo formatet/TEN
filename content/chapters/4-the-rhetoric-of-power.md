@@ -3,7 +3,7 @@ title: "The Rhetoric of Power"
 order: "4"
 publish: "true"
 ---
-*[Churchill](/gallery/) · [Russell](/gallery/) · [Shaw](/gallery/) · [Dylan](/gallery/)*
+*[Churchill](/gallery/winston-churchill/) · [Russell](/gallery/bertrand-russell/) · [Shaw](/gallery/george-bernard-shaw/) · [Dylan](/gallery/bob-dylan/)*
 
 
 ---
@@ -43,11 +43,11 @@ Write: Which passage changes something in you most strongly? Not which is most b
 
 ## Part One — Churchill
 
-*Nobel Prize in Literature 1953. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1953. See [Gallery](/gallery/winston-churchill/) for full biographical entry.*
 
 ### Context for This Chapter
 
-Churchill received the Nobel Prize not for a novel or a poem but for his historical writing and his speeches. The Nobel Committee called him a "defender of exalted human values." The speech we study in this chapter was delivered on 4 June 1940 to the House of Commons. France had fallen. The British Expeditionary Force had just been evacuated from Dunkirk. The German army was forty kilometres from England. Most of Churchill's Cabinet believed that peace negotiations were the only rational option.
+Churchill received the Nobel Prize not for a novel or a poem but for his historical writing and his speeches. The Nobel Committee called him a "defender of exalted human values." The speech we study in this chapter was delivered on 4 June 1940 to the House of Commons. France had fallen. The British Expeditionary Force had just been evacuated from Dunkirk. The German army was forty kilometres from England. In the last days of May, the War Cabinet had seriously debated whether to explore terms through Italian mediation. Churchill argued against that course, and prevailed.
 
 Churchill stood up and spoke for forty-five minutes. The last two paragraphs of that speech did not reverse the military situation. They reversed what the British believed about the military situation. That is the power of rhetoric properly understood: not manipulation, but the construction of a possible world.
 
@@ -55,7 +55,7 @@ The key to the speech's architecture is this: it is written in Anglo-Saxon Engli
 
 ### Satellite Text 1
 
-**Source:** Winston Churchill, speech to the House of Commons, 4 June 1940. Public domain. Full text available at winstonchurchill.org.
+**Source:** Winston Churchill, speech to the House of Commons, 4 June 1940. Full text available at winstonchurchill.org. Copyright status: see the note at the end of the chapter.
 
 **Before reading:** Churchill was not a natural orator. He prepared obsessively. Every sentence in this passage was written, revised, read aloud, and revised again. The spontaneity is constructed. Keep that in mind as you read.
 
@@ -82,7 +82,7 @@ Churchill presents surrender as unthinkable. But surrender was, in fact, a live 
 
 ## Part Two — Russell
 
-*Nobel Prize in Literature 1950. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1950. See [Gallery](/gallery/bertrand-russell/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -118,7 +118,7 @@ He is in this chapter because he represents the opposite pole from Churchill: wh
 
 ## Part Three — Shaw
 
-*Nobel Prize in Literature 1925. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1925. See [Gallery](/gallery/george-bernard-shaw/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -152,7 +152,7 @@ Shaw understood something Churchill and Russell did not: the most powerful rheto
 
 ## Dylan – The Border Question
 
-*Nobel Prize in Literature 2016. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 2016. See [Gallery](/gallery/bob-dylan/) for full biographical entry.*
 
 Bob Dylan received the Nobel Prize in 2016 for "having created new poetic expressions within the great American song tradition." The Swedish Academy's decision divided opinion immediately and continues to divide it. Many writers and critics felt it was a category error: Dylan is not a writer of literature, they argued, but a musician who uses words. Others felt the distinction was exactly what was wrong with how literature defines itself.
 
@@ -222,4 +222,6 @@ Write a position (one sentence) before the discussion. Defend it. Revise it if t
 ---
 ---
 
-*Copyright note: Churchill's speech (1940) is public domain in the UK/EU (died 1965, 70-year rule elapsed). Russell's essays – check per verk; manga is public domain. Shaws Pygmalion – check; died 1950, possibly public domain in the EU. Dylans texter – copyright protectede, kort citat inom fair use. Bonus Copyright Access applies to allt ovrigt.*
+*Copyright note (kontrollerad 2026-07-27): Churchill died 1965 – hans tal är skyddade i Sverige/EU t.o.m. 31 december 2035, förvaltas av dödsboet. Russell died 1970 – skyddad t.o.m. 31 december 2040. Shaw died 1950 – Pygmalion (1913) är public domain i Sverige/EU. Dylans texter – skyddade; korta citat inom citaträtten. Bonus Copyright Access (15/15-regeln) gäller för lärarkopior av allt skyddat material. Översättningar, redigerade utgåvor och inspelningar kan ha egen skyddstid.*
+
+*TODO (källa): den brittiska krigskabinettets överläggningar 26–28 maj 1940 behöver en angiven källa i lärarhandledningen.*

@@ -26,6 +26,7 @@
   --text-hl:     rgba(218, 196, 128, 0.28);
   --font-body:   'EB Garamond', Georgia, serif;
   --sidebar-w:   300px;
+  --rail-w:      16rem;
   --content-max: 65ch;
   --bp-mobile:   800px;
   --bp-desktop:  1200px;
@@ -52,12 +53,14 @@ body {
 /* ─── Layout ────────────────────────────────────────────────────────────── */
 .layout {
   display: grid;
-  grid-template-columns: var(--sidebar-w) 1fr;
+  grid-template-columns: var(--sidebar-w) minmax(0, 1fr);
+  grid-template-rows: auto 1fr;
   flex: 1 0 auto;
 }
 
 .sidebar {
   grid-column: 1;
+  grid-row: 1 / -1;
   position: sticky;
   top: 0;
   max-height: 100vh;
@@ -70,10 +73,12 @@ body {
   gap: 0.4rem;
 }
 
-/* Single centred reading column at every width — no side rail, no dead
-   gutters. The Contents box (below) lives inline at the top of the article. */
+/* Reading column, centred in the middle track. The page index (.toc-rail) takes
+   a third column from --bp-desktop up; below that it stacks above the article
+   as a Contents box, sharing the reading column's width. */
 .content {
   grid-column: 2;
+  grid-row: 2;
   display: grid;
   grid-template-columns: minmax(0, var(--content-max));
   justify-content: center;
@@ -86,7 +91,16 @@ body {
   min-width: 0;
 }
 
-/* ─── Contents box (inline, collapsible) ────────────────────────────────── */
+/* ─── Page index (right rail on desktop, Contents box below that) ───────── */
+.toc-rail {
+  grid-column: 2;
+  grid-row: 1;
+  display: grid;
+  grid-template-columns: minmax(0, var(--content-max));
+  justify-content: center;
+  padding: 1.5rem 2rem 0;
+}
+
 .toc {
   margin: 0 0 2rem;
   padding: 0.6rem 1rem;
@@ -126,6 +140,41 @@ body {
 
 .toc a:hover { color: var(--ink); }
 .toc .toc-h3 { padding-left: 1rem; font-size: 0.86rem; }
+
+/* Below the desktop breakpoint the index opens above the article, so cap it
+   rather than pushing the first paragraph off the screen. */
+@media (max-width: 1199px) {
+  .toc ol { max-height: 40vh; overflow-y: auto; }
+}
+
+/* --bp-desktop (1200px) — the index moves out into its own column. */
+@media (min-width: 1200px) {
+  .layout {
+    grid-template-columns: var(--sidebar-w) minmax(0, 1fr) var(--rail-w);
+  }
+
+  .content { grid-row: 1 / -1; }
+
+  .toc-rail {
+    grid-column: 3;
+    grid-row: 1 / -1;
+    align-self: start;
+    position: sticky;
+    top: 0;
+    max-height: 100vh;
+    overflow-y: auto;
+    display: block;
+    padding: 1.9rem 1.5rem 2rem 0;
+  }
+
+  .toc {
+    margin: 0;
+    padding: 0 0 0 1rem;
+    border: 0;
+    border-left: 1px solid var(--rule-mid);
+    border-radius: 0;
+  }
+}
 
 /* ─── Site logo ─────────────────────────────────────────────────────────── */
 .site-logo {
@@ -404,10 +453,11 @@ pre code { background: none; padding: 0; }
 @media (max-width: 800px) {
   .layout {
     grid-template-columns: 1fr;
-    grid-template-rows: auto 1fr;
+    grid-template-rows: auto auto 1fr;
   }
 
   .sidebar {
+    grid-row: 1;
     position: static;
     max-height: none;
     overflow-y: visible;
@@ -429,11 +479,75 @@ pre code { background: none; padding: 0; }
 
   .site-nav { flex: 1; min-width: 0; margin-top: 0; }
 
+  .toc-rail {
+    grid-column: 1;
+    grid-row: 2;
+    grid-template-columns: 1fr;
+    padding: 1rem 1rem 0;
+  }
+
   .content {
     grid-column: 1;
+    grid-row: 3;
     grid-template-columns: 1fr;
     padding: 1rem;
   }
 
   article { font-size: 1.125rem; line-height: 1.75; }
+}
+
+/* ─── Accessibility ─────────────────────────────────────────────────────── */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+  padding: 0.5rem 1rem;
+  background: var(--paper);
+  border: 1px solid var(--ink);
+  color: var(--ink);
+}
+
+.skip-link:focus {
+  left: 0.5rem;
+  top: 0.5rem;
+}
+
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ─── Print ─────────────────────────────────────────────────────────────── */
+@media print {
+  .sidebar,
+  .toc-rail,
+  .skip-link,
+  .site-search { display: none; }
+
+  .layout {
+    display: block;
+  }
+
+  .content {
+    display: block;
+    padding: 0;
+  }
+
+  article { max-width: none; font-size: 11pt; line-height: 1.45; }
+
+  h2, h3 { break-after: avoid; }
+  table, figure, blockquote, .callout { break-inside: avoid; }
+
+  a { text-decoration: underline; }
+  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: 9pt; }
 }

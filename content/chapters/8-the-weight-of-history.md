@@ -3,7 +3,7 @@ title: "The Weight of History"
 order: "8"
 publish: "true"
 ---
-*[Morrison](/gallery/) · [Heaney](/gallery/) · [Coetzee](/gallery/)*
+*[Morrison](/gallery/toni-morrison/) · [Heaney](/gallery/seamus-heaney/) · [Coetzee](/gallery/jm-coetzee/)*
 
 
 ---
@@ -45,7 +45,7 @@ Hold those observations. Return to them at the end of the chapter.
 
 ## Part One — Morrison
 
-*Nobel Prize in Literature 1993. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1993. See [Gallery](/gallery/toni-morrison/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -107,7 +107,7 @@ The Nobel lecture is shorter than you expect and stranger than you expect. It is
 
 ## Part Two — Heaney
 
-*Nobel Prize in Literature 1995. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1995. See [Gallery](/gallery/seamus-heaney/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -176,7 +176,7 @@ Write 150 words answering this question. There is no correct answer. There is a 
 
 ## Part Three – J.M. Coetzee (b. 1940)
 
-*Nobel Prize in Literature 2003. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 2003. See [Gallery](/gallery/jm-coetzee/) for full biographical entry.*
 
 ### Context for This Chapter
 

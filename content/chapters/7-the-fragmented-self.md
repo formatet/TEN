@@ -3,7 +3,7 @@ title: "The Fragmented Self"
 order: "7"
 publish: "true"
 ---
-*[Lessing](/gallery/) · [Beckett](/gallery/) · [Pinter](/gallery/) · [Brodsky](/gallery/) · [Eliot](/gallery/)*
+*[Lessing](/gallery/doris-lessing/) · [Beckett](/gallery/samuel-beckett/) · [Pinter](/gallery/harold-pinter/) · [Brodsky](/gallery/joseph-brodsky/) · [Eliot](/gallery/ts-eliot/)*
 
 
 ---
@@ -45,7 +45,7 @@ Write: What does each fragment refuse to give you? Not what it gives — what it
 
 ## Part One — Lessing
 
-*Nobel Prize in Literature 2007. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 2007. See [Gallery](/gallery/doris-lessing/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -81,7 +81,7 @@ Lessing described herself as writing a book "that would make its own comment, a 
 
 ## Part Two — Beckett
 
-*Nobel Prize in Literature 1969. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1969. See [Gallery](/gallery/samuel-beckett/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -120,7 +120,7 @@ In Chapter 3 you studied the iceberg principle: what is left unsaid holds up wha
 
 ## Part Three — Pinter
 
-*Nobel Prize in Literature 2005. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 2005. See [Gallery](/gallery/harold-pinter/) for full biographical entry.*
 
 ### Context for This Chapter
 
@@ -161,7 +161,7 @@ Both use silence and evasion. But Beckett's silences are existential (about what
 
 ### Joseph Brodsky
 
-*Nobel Prize in Literature 1987. See [Gallery](/gallery/) for full biographical entry.*
+*Nobel Prize in Literature 1987. See [Gallery](/gallery/joseph-brodsky/) for full biographical entry.*
 
 Brodsky was born in Leningrad in 1940 to Jewish parents. He left school at fifteen and educated himself, working odd jobs and reading voraciously. In 1964 he was put on trial in the Soviet Union for "social parasitism" — the charge was that he had no real profession, that his claim to be a poet was fraudulent. The transcript of the trial became famous throughout the Soviet dissident world. The judge asked what had qualified him to call himself a poet. Brodsky answered: "I thought... I thought it came from God."
 
@@ -187,7 +187,7 @@ His essay "In Praise of Boredom" (his 1989 commencement address at Dartmouth Col
 
 ## T.S. Eliot and The Waste Land
 
-*Nobel Prize in Literature 1948. See [Gallery](/gallery/) for full biographical entry. Entry introduced in Chapter 2.*
+*Nobel Prize in Literature 1948. See [Gallery](/gallery/ts-eliot/) for full biographical entry. Entry introduced in Chapter 2.*
 
 *The Waste Land* (1922) was mentioned in Chapter 2. Here is where you actually read it.
 
@@ -249,4 +249,4 @@ Write a position before the discussion. Be honest about what you don't yet know.
 ---
 ---
 
-*Copyright note: Lessing died 2013 – copyright protected. Beckett died 1989 — check status (possibly public domain EU 2060). Pinterer died 2008 – copyright protected. Brodsky died 1996 – copyright protected. Eliot died 1965 – public domain in the EU (2036). Bonus Copyright Access for allt utom Eliot (fritt). The Waste Land finns i sin helhet pa Poetry Foundation och Bartleby.com.*
+*Copyright note (kontrollerad 2026-07-27): Lessing died 2013 – skyddad t.o.m. 31 december 2083. Beckett died 1989 – skyddad t.o.m. 31 december 2059. Pinter died 2008 – skyddad t.o.m. 31 december 2078. Brodsky died 1996 – skyddad t.o.m. 31 december 2066. Eliot died 1965 – **skyddad i Sverige/EU t.o.m. 31 december 2035**, blir fri först 1 januari 2036. Bonus Copyright Access (15/15-regeln) gäller lärarkopior av allt i kapitlet, Eliot inkluderad. Att The Waste Land ligger fritt på Poetry Foundation och Bartleby.com beror på att dikten (1922) är public domain i USA – det gäller inte här. Översättningar, redigerade utgåvor och inspelningar kan ha egen skyddstid.*
