@@ -21,7 +21,7 @@ Now something harder.
 
 Chapter Six is not about making arguments. It is about what happens when an argument is true and still not enough. The writers here are not optimists. They look at human beings — at societies, at families, at a single man waking up in a comfortable house — and they see something that optimism cannot explain away.
 
-They see the gap. Between what people believe about themselves and what they actually are. Between the civilization that is supposed to hold, and the thing underneath it that is always waiting.
+They see the gap. Between what people believe about themselves and what they actually are. Between the civilisation that is supposed to hold, and the thing underneath it that is always waiting.
 
 This is called irony in literary criticism. But that makes it sound like a technique. It is more like a diagnosis.
 
@@ -59,11 +59,11 @@ The novel is not nihilistic. Golding is not saying human beings are evil. He is 
 
 ### Satellite Text 1
 
-**Source:** William Golding, *Lord of the Flies* (1954). Chapter 1 (opening 5–6 pages) and Chapter 8 ("Gift for the Darkness"), approximately 6–8 pages.
+**Source:** William Golding, *Lord of the Flies* (1954). Chapter 1 (opening 5–6 pages), Chapter 8 ("Gift for the Darkness") and the closing pages of Chapter 12, approximately 10–12 pages in all.
 
 **Before reading:** The novel opens with beauty — the lagoon, the light, the sense of freedom. Golding gives you the paradise before he shows you what happens in it. Pay attention to how long the paradise lasts.
 
-**Read the opening chapter.** Then the beast scene in Chapter 8. Then:
+**Read the opening chapter.** Then the beast scene in Chapter 8, then the closing pages of Chapter 12. Then:
 
 1. In the opening chapter, the boys organise themselves. They establish rules, elect a leader, form committees. What is Golding's argument, embedded in the *way* this happens, about the relationship between instinct and civilisation?
 
@@ -73,13 +73,13 @@ The novel is not nihilistic. Golding is not saying human beings are evil. He is 
 
 **Close Reading: The Allegory's Mechanics**
 
-*Step 1 – The allegorical system.*
+*Step 1 — The allegorical system.*
 Map the major symbols: the conch, the fire, the pig's head, Piggy's glasses. For each, write: what it represents in the world of civilisation, and what happens to it in the novel.
 
-*Step 2 – The grammar of deterioration.*
-Compare a paragraph from Chapter 1 with a paragraph from Chapter 11. What changes in the prose? Sentence length? Vocabulary? The relationship between action and explanation? What does the shift in grammar argue?
+*Step 2 — The grammar of deterioration.*
+Compare a paragraph from Chapter 1 with a paragraph from Chapter 8. What changes in the prose? Sentence length? Vocabulary? The relationship between action and explanation? What does the shift in grammar argue?
 
-*Step 3 – The irony of rescue.*
+*Step 3 — The irony of rescue.*
 At the end of the novel, a naval officer arrives and is visibly disturbed by what he sees. He says: *"I should have thought that a pack of British boys would have been able to put up a better show than that."* What is the irony? What does the officer represent — and what does his reaction reveal about the world outside the island?
 
 ---
@@ -90,17 +90,17 @@ At the end of the novel, a naval officer arrives and is visibly disturbed by wha
 
 ### Context for This Chapter
 
-Alice Munro is the master of the contemporary short story and one of the most formally radical writers in the English language — which is easy to miss because her surface is so calm.
+Alice Munro was the master of the contemporary short story and one of the most formally radical writers in the English language — which is easy to miss because her surface is so calm.
 
 Her stories are set in small towns in Ontario, Canada. They are about women: growing up, marrying, not marrying, working, leaving, staying, ageing. They seem, on first encounter, to be quiet. They are not. They fold time. A story will proceed along its apparent surface — a woman driving somewhere, thinking about something — and then, in the middle of a sentence, will drop fifteen years, and you realise that the thing the woman is driving toward is the consequence of a choice made fifteen years ago that we have only just been told about. And then the story continues.
 
 Munro's irony is structural rather than rhetorical. She does not mock her characters. She shows you the shape of a life from a sufficient distance to see what the person living it cannot see: that it was going to go this way, and the character never quite made the decision for it to go this way, and there is no one to blame, and here they are.
 
-The Nobel Committee described her as "master of the contemporary short story." That is an understatement. She is a master of time.
+The Nobel Committee described her as "master of the contemporary short story." That is an understatement. She was a master of time.
 
 ### Satellite Text 2
 
-**Source:** Alice Munro. *(Teacher: choose one of the following — all available in anthologies under Bonus Copyright Access: "The Progress of Love" from the collection of the same name (1986); "Meneseteung" from Friend of My Youth (1990); "The Bear Came Over the Mountain" from Hateship, Friendship, Courtship, Loveship, Marriage (2001). Provide the full story — 15–25 pages depending on choice.)*
+**Source:** Alice Munro — one full story, provided by your teacher: "The Progress of Love", from the collection of the same name (1986); "Meneseteung", from *Friend of My Youth* (1990); or "The Bear Came Over the Mountain", from *Hateship, Friendship, Courtship, Loveship, Marriage* (2001). Between 15 and 25 pages, depending on the story.
 
 **Before reading:** Munro's stories often begin at a point that seems arbitrary — not the beginning of the story, not even a dramatically significant moment. She does this on purpose. Keep asking: why does she start here?
 
@@ -114,18 +114,18 @@ The Nobel Committee described her as "master of the contemporary short story." T
 
 **Close Reading: The Architecture of Indirection**
 
-*Step 1 – The temporal structure.*
+*Step 1 — The temporal structure.*
 Draw a timeline of the story's actual events. Then draw a timeline of when the reader learns those events. Why is the order different? What does the gap between the two timelines do?
 
-*Step 2 – The oblique sentence.*
+*Step 2 — The oblique sentence.*
 Find a sentence where Munro says something important by appearing to say something else. What is she actually saying? How does she say it without saying it?
 
-*Step 3 – Golding and Munro.*
+*Step 3 — Golding and Munro.*
 Both writers examine a gap between what people believe about themselves and what is actually true. But their approaches are opposite: Golding is explicit and allegorical; Munro is indirect and specific. Write two sentences comparing their methods.
 
 ---
 
-## Bellow, Galsworthy, O'Neill
+## Bellow, Galsworthy and O'Neill: Three Shorter Studies
 
 These three writers are given shorter treatment here. They extend the chapter's range without requiring full close-reading apparatus.
 
@@ -147,7 +147,7 @@ This is Bellow's great subject: the gap between the sophisticated mind and the o
 
 2. Compare Bellow's voice to Golding's. Both diagnose human weakness. What is different about the doctor's relationship to the patient in each case?
 
-3. The opening sentence of *Herzog* has been called "one of the most perfect ironic sentences in American fiction." What makes it ironic? Break it down: what does it say, what does it mean, and how do those two things differ?
+3. This chapter calls the opening sentence of *Herzog* one of the most perfect ironic sentences in English fiction. What makes it ironic? Break it down: what does it say, what does it mean, and how do those two things differ?
 
 *Archive connection: [Chapter 6](/archive/chapter-6/) — irony · anatomy*
 
@@ -161,7 +161,7 @@ Galsworthy is now less read than the others in this chapter, but he is here for 
 
 The Forsyte family, whose rise and decline *The Forsyte Saga* (1906–1921) traces across three generations, is concerned above all with property: who owns what, what can be sold, what constitutes a good match, what kind of house signals the right kind of person. Galsworthy is a sociologist who chose the novel form. His irony is the irony of the accountant: he simply writes down everything the Forsytes do and spend and value, and the sum at the bottom of the page is more damning than any editorial comment could be.
 
-He received the Nobel Prize in 1932, the same year he finished *End of the Chapter*, his final Forsyte sequence. He died in January 1933. The citation from the Nobel Committee praised his "distinguished art of narration, which takes its highest form in *The Forsyte Saga*."
+He received the Nobel Prize in 1932. He was too ill to attend the ceremony that December, and died a few weeks later, in January 1933. The citation from the Nobel Committee praised his "distinguished art of narration, which takes its highest form in *The Forsyte Saga*."
 
 **Reading:** *The Man of Property* (1906), Chapter 1 — "At Home." Public domain.
 
@@ -179,7 +179,7 @@ He received the Nobel Prize in 1932, the same year he finished *End of the Chapt
 
 *Nobel Prize in Literature 1936. See [Gallery](/gallery/eugene-oneill/) for full biographical entry.*
 
-O'Neill wrote *Long Day's Journey into Night* about his own family. He wrote it with instruction that it not be published until twenty-five years after his death, so that everyone involved would be dead. His publisher released it four years after his death. His wife, Carlotta, gave permission.
+O'Neill wrote *Long Day's Journey into Night* about his own family. He wrote it with the instruction that it not be published until twenty-five years after his death, so that everyone involved would be dead. It appeared in 1956, a little over two years after he died, because his widow, Carlotta, gave permission.
 
 The family in the play loves each other. They also destroy each other. These are not two things: they are the same thing.
 
@@ -211,7 +211,7 @@ Your diagnosis must:
 
 4. **One final sentence** — about what the diagnosis tells us that goes beyond this individual character. What does it say about the world the character inhabits?
 
-**Note:** A diagnosis is not a condemnation. The goal is precision, not judgment. The best diagnoses in this chapter's literature are written with a kind of terrible sympathy. Aim for that.
+**Note:** A diagnosis is not a condemnation. The goal is precision, not judgement. The best diagnoses in this chapter's literature are written with a kind of terrible sympathy. Aim for that.
 
 ---
 
@@ -230,7 +230,5 @@ The person who uses irony has decided that the gap between what is believed and 
 Write your position before the discussion. The discussion will test it.
 
 ---
----
----
 
-*Copyright note: Golding died 1993 – check EU public domain status (2064). Munro died 2024 – copyright protected for at least 70 ar. Bellow died 2005 – copyright protected. Galsworthy died 1933 – public domain in the EU. O'Neill died 1953 – check. Bonus Copyright Access applies to allt.*
+*Copyright note (checked 27 July 2026): Golding died 1993 — in copyright in Sweden and the EU until 31 December 2063. Munro died 2024 — until 31 December 2094. Bellow died 2005 — until 31 December 2075. Galsworthy died 1933 and O'Neill died 1953 — both public domain in Sweden and the EU. Bonus Copyright Access (the 15/15 rule) covers teacher copies of everything still protected.*

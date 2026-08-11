@@ -19,9 +19,9 @@ Year Two begins here. You have spent a year learning to see the world as it is, 
 
 Now the world asks something back: *What do you think? And can you make someone else think it too?*
 
-Chapter Four is about language as architecture for persuasion. The four writers here understood – each in a different register – that a sentence is not neutral. It is always asking something of its listener. It is always reaching for a particular effect. The question is whether the effect is earned.
+Chapter Four is about language as architecture for persuasion. The four writers here understood — each in a different register — that a sentence is not neutral. It is always asking something of its listener. It is always reaching for a particular effect. The question is whether the effect is earned.
 
-Churchill knew that the right sentence at the right moment could change what a nation believed was possible. Russell knew that clear prose was not a style – it was a moral obligation. Shaw knew that your accent was your class, and your class was your politics, and your politics could be taken apart with a well-placed line of dialogue. Dylan knew that a question nobody can answer is sometimes more powerful than any statement.
+Churchill knew that the right sentence at the right moment could change what a nation believed was possible. Russell knew that clear prose was not a style — it was a moral obligation. Shaw knew that your accent was your class, and your class was your politics, and your politics could be taken apart with a well-placed line of dialogue. Dylan knew that a question nobody can answer is sometimes more powerful than any statement.
 
 They are four different architects working with the same material: language as the technology of persuasion.
 
@@ -37,7 +37,7 @@ Read these three passages without context.
 
 > *"How many roads must a man walk down / Before you call him a man?"*
 
-Write: Which passage changes something in you most strongly? Not which is most beautiful or most correct – which changes something. And: what exactly does it change?
+Write: Which passage changes something in you most strongly? Not which is most beautiful or most correct — which changes something. And: what exactly does it change?
 
 ---
 
@@ -51,7 +51,7 @@ Churchill received the Nobel Prize not for a novel or a poem but for his histori
 
 Churchill stood up and spoke for forty-five minutes. The last two paragraphs of that speech did not reverse the military situation. They reversed what the British believed about the military situation. That is the power of rhetoric properly understood: not manipulation, but the construction of a possible world.
 
-The key to the speech's architecture is this: it is written in Anglo-Saxon English inside a formal periodic structure. Short words – *fight*, *beach*, *hill*, *sea*, *never* – with Latin grammar holding them in place. The short word is the emotion; the long structure is the control. Together they create the impression of a man who is both feeling what he says and thinking it.
+The key to the speech's architecture is this: it is written in Anglo-Saxon English inside a formal periodic structure. Short words — *fight*, *beach*, *hill*, *sea*, *never* — with Latin grammar holding them in place. The short word is the emotion; the long structure is the control. Together they create the impression of a man who is both feeling what he says and thinking it.
 
 ### Satellite Text 1
 
@@ -61,21 +61,21 @@ The key to the speech's architecture is this: it is written in Anglo-Saxon Engli
 
 **Read the passage.** Then:
 
-1. The passage contains one of the most famous uses of anaphora in English oratory – the repetition of a phrase at the beginning of successive clauses. Identify it. Count the repetitions. Then ask: why does Churchill stop when he does?
+1. The passage contains one of the most famous uses of anaphora in English oratory — the repetition of a phrase at the beginning of successive clauses. Identify it. Count the repetitions. Then ask: why does Churchill stop when he does?
 
 2. Find the one sentence where Churchill shifts from describing what *will* happen to describing what *must* happen. That shift is the rhetorical hinge of the entire passage. What is the grammatical difference between the two modes?
 
-3. Churchill uses almost no adjectives in this passage. Go back and list them. Why are there so few – and why are these specific ones chosen?
+3. Churchill uses almost no adjectives in this passage. Go back and list them. Why are there so few — and why are these specific ones chosen?
 
 **Close Reading: The Architecture of the Inevitable**
 
-*Step 1 – Word origin audit.*
-Take the last paragraph. For each noun and verb, classify it: Anglo-Saxon or Latinate origin? (Use your archive – RHETORIC, DELIBERATE – or a dictionary.) What pattern emerges? What does Churchill's word-choice argue?
+*Step 1 — Word origin audit.*
+Take the last paragraph. For each noun and verb, classify it: Anglo-Saxon or Latinate origin? (Use your archive — RHETORIC, DELIBERATE — or a dictionary.) What pattern emerges? What does Churchill's word-choice argue?
 
-*Step 2 – The periodic sentence.*
+*Step 2 — The periodic sentence.*
 The passage ends with a very long sentence. Identify the main clause. How many subordinate clauses precede it? What is the rhetorical effect of making the reader wait for the main verb?
 
-*Step 3 – Construction of inevitability.*
+*Step 3 — Construction of inevitability.*
 Churchill presents surrender as unthinkable. But surrender was, in fact, a live option being discussed in Cabinet. Identify three specific grammatical or rhetorical choices that make resistance feel inevitable rather than chosen. What does this tell you about the relationship between rhetoric and reality?
 
 ---
@@ -88,7 +88,7 @@ Churchill presents surrender as unthinkable. But surrender was, in fact, a live 
 
 Russell's Nobel Prize was for "his varied and significant writings in which he champions humanitarian ideals and freedom of thought." He was a philosopher, a mathematician, a pacifist, and a writer whose prose is one of the most precise in English non-fiction.
 
-His argument for clarity was itself a moral argument: vague language produces vague thinking, and vague thinking kills people. The vagueness of political language – its management of abstraction, its preference for the impressive formula over the accurate one – was for Russell not a stylistic failure but an ethical one.
+His argument for clarity was itself a moral argument: vague language produces vague thinking, and vague thinking kills people. The vagueness of political language — its management of abstraction, its preference for the impressive formula over the accurate one — was for Russell not a stylistic failure but an ethical one.
 
 He is in this chapter because he represents the opposite pole from Churchill: where Churchill's rhetoric assembles conviction through emotion and rhythm, Russell's argument dismantles assumption through logic and precision. Both are rhetoricians. Their methods are as different as possible. Their subject is the same: what a sentence owes to its reader.
 
@@ -102,7 +102,7 @@ He is in this chapter because he represents the opposite pole from Churchill: wh
 
 1. Identify Russell's central claim in your extract. State it in one sentence.
 
-2. Find one place where Russell uses irony (see [Chapter 6](/archive/chapter-6/)) to make a point that would be less powerful stated directly. What is the point? Why does irony serve it better than direct statement?
+2. Find one place where Russell uses irony (see [Chapter 6](/chapters/6-the-anatomy-of-irony/)) to make a point that would be less powerful stated directly. What is the point? Why does irony serve it better than direct statement?
 
 3. Compare a sentence by Russell with a sentence by Churchill. Both are writing to persuade. Write two sentences describing the difference in how they assume the reader will be persuaded.
 
@@ -110,7 +110,7 @@ He is in this chapter because he represents the opposite pole from Churchill: wh
 
 *Step 1:* Russell often begins with a statement that appears simple and is not. Find such a statement in your extract. Unpack it: what work is the apparent simplicity doing?
 
-*Step 2:* Find the moment in the extract where Russell's argument is strongest. What makes it strong – evidence, logic, irony, something else?
+*Step 2:* Find the moment in the extract where Russell's argument is strongest. What makes it strong — evidence, logic, irony, something else?
 
 *Step 3:* Russell and Churchill are both trying to change what you think. Write one sentence explaining *how* each one is trying to do it. What is the essential difference?
 
@@ -122,9 +122,9 @@ He is in this chapter because he represents the opposite pole from Churchill: wh
 
 ### Context for This Chapter
 
-Shaw understood something Churchill and Russell did not: the most powerful rhetoric is the kind the audience doesn't recognise as rhetoric. When Professor Higgins talks to Eliza Doolittle, he is not making a speech. He is explaining phonetics. But everything he says is an argument about class, language, and power – and the argument is more persuasive for being embedded in character rather than stated.
+Shaw understood something Churchill and Russell did not: the most powerful rhetoric is the kind the audience doesn't recognise as rhetoric. When Professor Higgins talks to Eliza Doolittle, he is not making a speech. He is explaining phonetics. But everything he says is an argument about class, language, and power — and the argument is more persuasive for being embedded in character rather than stated.
 
-*Pygmalion* is a play about a woman who is transformed by being taught to speak differently. It is also a play about who decides what "correct" language is, and what that decision costs. Shaw's sharpest irony is this: Eliza masters the accent, speaks better than her teachers, and is rewarded not with acceptance but with the realisation that she is now homeless in both languages – not belonging to the class she came from, not belonging to the class she was trained to imitate.
+*Pygmalion* is a play about a woman who is transformed by being taught to speak differently. It is also a play about who decides what "correct" language is, and what that decision costs. Shaw's sharpest irony is this: Eliza masters the accent, speaks better than her teachers, and is rewarded not with acceptance but with the realisation that she is now homeless in both languages — not belonging to the class she came from, not belonging to the class she was trained to imitate.
 
 ### Satellite Text 3
 
@@ -136,7 +136,7 @@ Shaw understood something Churchill and Russell did not: the most powerful rheto
 
 1. Higgins speaks of his work as scientific. Find two speeches where his language reveals it is also political. What does the political content reveal that the scientific language conceals?
 
-2. The language Eliza speaks at the start of Act II is working-class London English. Shaw represents it phonetically (*ow*, *garn*, *blimey*). What rhetorical effect does this orthographic choice create for the reader? Is it sympathetic, comic, distancing – or all three?
+2. The language Eliza speaks at the start of Act II is working-class London English. Shaw represents it phonetically (*ow*, *garn*, *blimey*). What rhetorical effect does this orthographic choice create for the reader? Is it sympathetic, comic, distancing — or all three?
 
 3. Compare Higgins's rhetoric with Churchill's. Both are trying to change someone's mind. What is the key difference in their relationship to the person they are trying to persuade?
 
@@ -146,11 +146,11 @@ Shaw understood something Churchill and Russell did not: the most powerful rheto
 
 *Step 2:* Find one speech by Higgins that performs the same function for him. What does his language reveal that he doesn't know it reveals?
 
-*Step 3 – The political reading:* Shaw's title refers to the Greek myth of a sculptor who falls in love with his statue. Higgins creates a version of Eliza. Whose interests does this creation serve – Higgins's, Eliza's, or society's? Support your answer with specific reference to the text.
+*Step 3 — The political reading:* Shaw's title refers to the Greek myth of a sculptor who falls in love with his statue. Higgins creates a version of Eliza. Whose interests does this creation serve — Higgins's, Eliza's, or society's? Support your answer with specific reference to the text.
 
 ---
 
-## Dylan – The Border Question
+## Part Four — Dylan: The Border Question
 
 *Nobel Prize in Literature 2016. See [Gallery](/gallery/bob-dylan/) for full biographical entry.*
 
@@ -158,7 +158,7 @@ Bob Dylan received the Nobel Prize in 2016 for "having created new poetic expres
 
 Dylan belongs in this chapter not as a resolved case but as an open question about what rhetoric is and what it can be. His work is rhetorical in the precise sense: it is constructed to persuade, and it uses every tool rhetoric has — repetition, anaphora, the rhetorical question, the prophetic imperative, the oblique image that makes you feel you understand something you couldn't quite define.
 
-*Blowin' in the Wind* is twelve rhetorical questions that refuse to answer themselves. *The Times They Are A-Changin'* is an imperative disguised as a prophecy. *Like a Rolling Stone* is a six-minute anatomy of humiliation that never once says the word. These are not songs that happen to use rhetorical devices. They *are* rhetorical devices — they just happen to use melody.
+*Blowin' in the Wind* is nine rhetorical questions that refuse to answer themselves. *The Times They Are A-Changin'* is an imperative disguised as a prophecy. *Like a Rolling Stone* is a six-minute anatomy of humiliation that never once says the word. These are not songs that happen to use rhetorical devices. They *are* rhetorical devices — they just happen to use melody.
 
 His Nobel lecture (2017), written but initially delivered as audio, is a meditation on what literature is. It is written by a man who spent his career refusing to define himself as anything. The lecture discusses *Moby Dick*, *All Quiet on the Western Front* and Homer's *Odyssey* as if they were songs. This is either a provocation or a serious claim. Possibly both.
 
@@ -174,27 +174,23 @@ His Nobel lecture (2017), written but initially delivered as audio, is a meditat
 
 Write 150 words on question 1 before the class discussion. There is no correct answer to any of the three.
 
-*Archive connection: [Chapter 4](/archive/chapter-4/) — rhetoric · inevitable · deliberate · oblique*
-
----
-
 *→ Archive for this chapter: [Chapter 4](/archive/chapter-4/) — *rhetoric · inevitable · deliberate**
 
 ## The Writing Task
 
-This is a Year Two writing task. It requires you to analyse how an argument is built – not what it argues.
+This is a Year Two writing task. It requires you to analyse how an argument is built — not what it argues.
 
 **Your task:**
 
 Choose one passage (100–150 words) from any of the satellite texts in this chapter. Write a 300–350 word rhetorical analysis answering this question:
 
-*How does this passage achieve its effect? What specific choices – of syntax, vocabulary, structure, repetition, or tone – create the response it creates in the reader?*
+*How does this passage achieve its effect? What specific choices — of syntax, vocabulary, structure, repetition, or tone — create the response it creates in the reader?*
 
 **Rules:**
 - Do not summarise what the passage says. Analyse *how* it says it.
 - Identify at least three specific techniques by name (anaphora, periodic sentence, irony, rhetorical question, etc.)
 - Each technique must be linked to a specific quotation and a specific effect.
-- End with one sentence about what the passage *does not* do – what it omits or refuses – and why that omission matters.
+- End with one sentence about what the passage *does not* do — what it omits or refuses — and why that omission matters.
 
 **Model structure:**
 > [Quotation]. Churchill achieves X by doing Y. The effect on the reader is Z. By contrast, he avoids [technique], which would [alternative effect].
@@ -219,9 +215,6 @@ Is there such a thing as rhetoric that is both effective *and* honest? Or does e
 Write a position (one sentence) before the discussion. Defend it. Revise it if the discussion earns a revision.
 
 ---
----
----
 
-*Copyright note (kontrollerad 2026-07-27): Churchill died 1965 – hans tal är skyddade i Sverige/EU t.o.m. 31 december 2035, förvaltas av dödsboet. Russell died 1970 – skyddad t.o.m. 31 december 2040. Shaw died 1950 – Pygmalion (1913) är public domain i Sverige/EU. Dylans texter – skyddade; korta citat inom citaträtten. Bonus Copyright Access (15/15-regeln) gäller för lärarkopior av allt skyddat material. Översättningar, redigerade utgåvor och inspelningar kan ha egen skyddstid.*
+*Copyright note (checked 27 July 2026): Churchill died 1965 — his speeches are in copyright in Sweden and the EU until 31 December 2035 and are administered by his estate. Russell died 1970 — until 31 December 2040. Shaw died 1950 — Pygmalion (1913) is public domain in Sweden and the EU. Dylan's lyrics are in copyright; short quotations fall under the right of quotation. Bonus Copyright Access (the 15/15 rule) covers teacher copies of everything still protected. Translations, edited editions and recordings may carry terms of their own.*
 
-*TODO (källa): den brittiska krigskabinettets överläggningar 26–28 maj 1940 behöver en angiven källa i lärarhandledningen.*

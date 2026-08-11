@@ -8,7 +8,7 @@ publish: "true"
 
 ---
 
-> *"I must not, not ever, let myself think that this is a waste of time."*
+> *"The point is, that as far as I can see, everything's cracking up."*
 > — Doris Lessing, *The Golden Notebook*
 
 ---
@@ -33,7 +33,7 @@ You have been given a difficult gift. Use it carefully.
 
 Do not look for connections between them yet.
 
-> *"The two women stood side by side, staring at the manuscript. Then Anna said: I'm going to burn it, and Molly said: Yes, burn it, it's better."*
+> *"The two women were alone in the London flat."*
 
 > *"Nothing to be done."*
 
@@ -65,7 +65,7 @@ Lessing described herself as writing a book "that would make its own comment, a 
 
 1. Lessing opens with Anna and Molly talking. They are described as "free women." What does that mean — and what does the text suggest the costs of that freedom are?
 
-2. Anna says at one point that she "must not let herself think this is a waste of time." She does not explain what she is referring to. What might she mean? Why does Lessing withhold the explanation?
+2. Anna's first substantial statement is that "everything's cracking up." She does not say what *everything* is, and Molly does not ask. What might she mean? Why does Lessing withhold the explanation?
 
 3. The novel is told partly by a narrator and partly by Anna directly. Find a moment where the two voices create a gap — where what the narrator presents and what Anna thinks or says do not fully align. What is in the gap?
 
@@ -101,19 +101,19 @@ Beckett's Nobel Prize was awarded in 1969 for "his writing, which — in new for
 
 1. Estragon's first line is "Nothing to be done." Vladimir's response is to interpret this philosophically — as if Estragon had said something meaningful. What is the gap between what Estragon meant and what Vladimir hears? What does that gap establish about how language functions in this play?
 
-2. Vladimir and Estragon repeatedly consider leaving and decide not to. They cannot explain why they stay. What does their inability to leave or explain their staying tell you about what the play is saying about human condition?
+2. Vladimir and Estragon repeatedly consider leaving and decide not to. They cannot explain why they stay. What does their inability to leave or explain their staying tell you about what the play is saying about the human condition?
 
-3. The tree is the only set element. At the end of Act I, Estragon says "Pity we haven't got a bit of rope." What does the tree represent in context? Why a tree specifically?
+3. The tree is the only set element, and in Act I the two men consider hanging themselves from it before deciding to wait another day. What does the tree represent in context? Why a tree specifically?
 
 **Close Reading: Silence as Architecture**
 
-*Step 1 – The pause.*
+*Step 1 — The pause.*
 Beckett specifies pauses in the stage directions. Find two pauses and write what each one contains. Not what comes before or after — what is *in* the pause.
 
-*Step 2 – The repetition.*
+*Step 2 — The repetition.*
 Vladimir and Estragon repeat phrases across the opening scene. Find one repeated exchange. What changes each time the phrase recurs? What does repetition do that a single statement cannot?
 
-*Step 3 – Beckett and Hemingway.*
+*Step 3 — Beckett and Hemingway.*
 In Chapter 3 you studied the iceberg principle: what is left unsaid holds up what is said. Compare Beckett's use of silence with Hemingway's. Both are about what is withheld. What is different about the nature of the withholding?
 
 ---
@@ -152,14 +152,12 @@ Stanley lives in a seaside boarding house run by Meg and Petey. Two strangers, G
 
 *Step 2:* Pinter's dialogue has rhythms — the short line, the non-answer, the apparent change of subject. Transcribe five consecutive exchanges and mark the rhythm. What does the rhythm do?
 
-*Step 3 – Compare Pinter and Beckett.*
+*Step 3 — Compare Pinter and Beckett.*
 Both use silence and evasion. But Beckett's silences are existential (about what language cannot hold) while Pinter's are political (about what language is used to conceal). Write two sentences making this distinction precise.
 
 ---
 
-## Brodsky and the Exile Voice
-
-### Joseph Brodsky
+## Part Four — Brodsky: The Exile Voice
 
 *Nobel Prize in Literature 1987. See [Gallery](/gallery/joseph-brodsky/) for full biographical entry.*
 
@@ -185,7 +183,7 @@ His essay "In Praise of Boredom" (his 1989 commencement address at Dartmouth Col
 
 ---
 
-## T.S. Eliot and The Waste Land
+## Part Five — Eliot: The Waste Land
 
 *Nobel Prize in Literature 1948. See [Gallery](/gallery/ts-eliot/) for full biographical entry. Entry introduced in Chapter 2.*
 
@@ -213,11 +211,11 @@ This is a Year Three writing task. It draws on all five writers.
 
 **The task has two parts that are submitted together.**
 
-**Part 1 – The Analysis (250 words):**
+**Part 1 — The Analysis (250 words):**
 
 Choose one passage from any of this chapter's texts. Identify the thing the passage is trying to say that language — as normally used — cannot quite say. Be specific: what is the precise nature of the inadequacy? Is it the linearity of syntax? The fixedness of vocabulary? The inadequacy of the first person? Something else?
 
-**Part 2 – The Response (300 words):**
+**Part 2 — The Response (300 words):**
 
 Write something of your own that shares the formal problem of your chosen passage. You do not need to solve the problem. You need to demonstrate that you understand what the problem is.
 
@@ -246,7 +244,5 @@ This is not a rhetorical question. There is an answer. But the answer is not eas
 Write a position before the discussion. Be honest about what you don't yet know.
 
 ---
----
----
 
-*Copyright note (kontrollerad 2026-07-27): Lessing died 2013 – skyddad t.o.m. 31 december 2083. Beckett died 1989 – skyddad t.o.m. 31 december 2059. Pinter died 2008 – skyddad t.o.m. 31 december 2078. Brodsky died 1996 – skyddad t.o.m. 31 december 2066. Eliot died 1965 – **skyddad i Sverige/EU t.o.m. 31 december 2035**, blir fri först 1 januari 2036. Bonus Copyright Access (15/15-regeln) gäller lärarkopior av allt i kapitlet, Eliot inkluderad. Att The Waste Land ligger fritt på Poetry Foundation och Bartleby.com beror på att dikten (1922) är public domain i USA – det gäller inte här. Översättningar, redigerade utgåvor och inspelningar kan ha egen skyddstid.*
+*Copyright note (checked 27 July 2026): Lessing died 2013 — in copyright until 31 December 2083. Beckett died 1989 — until 31 December 2059. Pinter died 2008 — until 31 December 2078. Brodsky died 1996 — until 31 December 2066. Eliot died 1965 — **in copyright in Sweden and the EU until 31 December 2035**, and free only from 1 January 2036. Bonus Copyright Access (the 15/15 rule) covers teacher copies of everything in this chapter, Eliot included. The Waste Land is freely readable on the Poetry Foundation and Bartleby.com because the poem (1922) is public domain in the United States — that does not apply here. Translations, edited editions and recordings may carry terms of their own.*

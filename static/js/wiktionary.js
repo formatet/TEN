@@ -10,7 +10,9 @@
   }
 
   function showTip(word, x, y) {
-    const clean = word.toLowerCase().replace(/[^a-z'-]/g, "");
+    // Keep every letter, not just a-z — stripping diacritics turned
+    // "Glück" into "glck" and sent the reader to a 404.
+    const clean = word.toLowerCase().replace(/[^\p{L}'-]/gu, "");
     if (clean.length < 3) return;
 
     let t = document.getElementById("wikt-tip");

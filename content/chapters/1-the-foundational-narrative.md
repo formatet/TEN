@@ -47,7 +47,7 @@ Write three sentences — one for each object. No adjectives that describe feeli
 
 ## Part One — Kipling
 
-*Nobel Prize in Literature 1907. See [Gallery](/gallery/) for the full biographical entry; [Rudyard Kipling](/gallery/rudyard-kipling/) holds the teacher's own materials.*
+*Nobel Prize in Literature 1907. See [Gallery](/gallery/rudyard-kipling/) for the full biographical entry.*
 
 ### Context for This Chapter
 
@@ -55,7 +55,7 @@ Rudyard Kipling was born in Bombay in 1865, sent to England at the age of six, a
 
 He is the great poet of the empire. *The White Man's Burden.* *Send forth the best ye breed.* The idea that ruling other people was a duty, even a kindness — and we are not going to pretend he didn't mean it. He looked at India with real love and real precision, and he looked at it as a man who believed the British belonged on top. Both things are true at once, and the contradiction does not dissolve no matter how long you stare at it. Hold it open. That is the work.
 
-But the contradiction is only one reason to read him. The other reason is range. Kipling was not one kind of writer. He wrote children's stories: *Just So Stories* (1902), where the elephant gets its trunk and the leopard gets its spots, told with a sly comic voice that sounds like someone making things up on the spot for a child who is far too sharp to be fooled. He wrote *Kim* (1901), a novel about a half-Irish orphan boy who moves through India as a spy, shifting identities, belonging nowhere and everywhere — one of the strangest and most alive picaresque novels in English. He wrote *If—* (1910), which you have already read because it opens this chapter: twelve lines that have been printed on more motivational posters than any other poem in the language, and which are genuinely good despite that. He wrote stories about soldiers in the mud, engineers building bridges across rivers, clerks dying of fever at their posts. He wrote about the sea and the jungle and the barrack-room and the machinery rooms of steamships.
+But the contradiction is only one reason to read him. The other reason is range. Kipling was not one kind of writer. He wrote children's stories: *Just So Stories* (1902), where the elephant gets its trunk and the leopard gets its spots, told with a sly comic voice that sounds like someone making things up on the spot for a child who is far too sharp to be fooled. He wrote *Kim* (1901), a novel about a half-Irish orphan boy who moves through India as a spy, shifting identities, belonging nowhere and everywhere — one of the strangest and most alive picaresque novels in English. He wrote *If—* (1910), which you have already read because it opens this chapter: thirty-two lines that have been printed on more motivational posters than any other poem in the language, and which are genuinely good despite that. He wrote stories about soldiers in the mud, engineers building bridges across rivers, clerks dying of fever at their posts. He wrote about the sea and the jungle and the barrack-room and the machinery rooms of steamships.
 
 What connects all of it? Attention. Kipling looks. He looks at the specific weight of a rope, the particular smell of an Indian summer night, the way a cobra moves when it is building to a strike. He does not describe feelings and call them objects. He finds the object and trusts you to feel it yourself. That looking — patient, exact, ahead of any judgement — is the skill the whole first year stands on. Chapter One begins here because Kipling earns it.
 
@@ -94,15 +94,15 @@ This is not the only Kipling story in the course — *Kim* will return in Chapte
 
 ### Close Reading: The Exact Animal
 
-*Step 1 – Looking before judging.*
+*Step 1 — Looking before judging.*
 Find five physical details Kipling gives about Rikki-tikki before his first fight with Nag. For each: what is the detail, and what does it show about the animal *without telling you*? This is the same muscle you used on your three objects at the start of the chapter — Kipling is just stronger at it.
 
-*Step 2 – The box and the garden.*
+*Step 2 — The box and the garden.*
 The story never says a single political word. But look at how its world is built: an English house, ordered and lamplit, with bathrooms and a veranda and a child asleep inside — and around it a garden, half-wild, thick with grass and danger, where the old owners still live underground. Inside, civilisation. Outside, the thing civilisation is afraid of. And between them, one small creature whose entire purpose is to keep the outside out. Describe that arrangement plainly: who is inside, who is outside, who protects whom. Then ask the question the story never asks itself — *who is the garden for?*
 
 Now consider: in *Kim*, Kipling's hero is a child who belongs to *both* worlds — European by blood, Indian by upbringing, trusted by neither side, essential to both. What would change in *Rikki-Tikki-Tavi* if the mongoose could ask the same question Kim asks: *Who is my father?* What kind of story would it become?
 
-*Step 3 – Love and the contradiction.*
+*Step 3 — Love and the contradiction.*
 Kipling plainly loves this world: the garden, the animals, the boy with the mongoose asleep on his pillow. He also believed empire was a duty. The word *respect* comes from the Latin for *looking back, looking again* — and the whole story turns on quickness of eye, on who manages to see whom in time. So look again. Can a story be tender, exact, beautifully observed — and carry an empire's assumptions inside it at the very same time? Write the beginning of your answer here. You will need it for The Big Question — and again, three years from now, in Chapter Five.
 
 
@@ -110,7 +110,7 @@ Kipling plainly loves this world: the garden, the animals, the boy with the mong
 
 ## Part Two — Buck
 
-*Nobel Prize in Literature 1938. See [Gallery](/gallery/pearl-s-buck/) for full biographical entry.*
+*Nobel Prize in Literature 1938. See [Gallery](/gallery/pearl-s-buck/) for the full biographical entry.*
 
 ### Context for This Chapter
 
@@ -149,24 +149,24 @@ The novel opens on Wang Lung's wedding day. He is a poor farmer who is to marry 
 
 **Close Reading: The Substantial World**
 
-*Step 1 – The physical inventory.*
+*Step 1 — The physical inventory.*
 Buck describes objects with precise physical detail. Find five objects described in these chapters. For each: what is the object, and what does the way Buck describes it reveal about the person who owns or uses it?
 
-*Step 2 – Silence as character.*
+*Step 2 — Silence as character.*
 O-Lan does not explain herself. She does not speak about her feelings. Yet by the end of Chapter 3 the reader has a clear impression of who she is. How does Buck build character without interiority?
 
-*Step 3 – Return to your three objects.*
+*Step 3 — Return to your three objects.*
 Compare your three opening sentences to the way Buck describes objects. What did she do that you did not do? What specific technique could you borrow?
 
 ---
 
 ## Part Three — Steinbeck
 
-*Nobel Prize in Literature 1962. See [Gallery](/gallery/john-steinbeck/) for full biographical entry.*
+*Nobel Prize in Literature 1962. See [Gallery](/gallery/john-steinbeck/) for the full biographical entry.*
 
 ### Context for This Chapter
 
-John Steinbeck grew up in the Salinas Valley of California and spent time working as a laborer — picking fruit, working construction — before he became a writer. He knew what physical work felt like in the body. He knew what it felt like to be poor in a country that told you poverty was a personal failure.
+John Steinbeck grew up in the Salinas Valley of California and spent time working as a labourer — picking fruit, working construction — before he became a writer. He knew what physical work felt like in the body. He knew what it felt like to be poor in a country that told you poverty was a personal failure.
 
 *The Grapes of Wrath* (1939) follows the Joad family as they drive from Oklahoma to California. The Dust Bowl has destroyed their farm. California is supposed to be better. It is not. The novel documents, with documentary precision and biblical rhythm, what displacement actually looks like — not as a political abstraction but as a specific family in a specific truck on a specific road.
 
@@ -198,13 +198,13 @@ Steinbeck received the Nobel Prize in 1962. The Nobel Committee cited "his reali
 
 **Close Reading: The Documentary Sentence**
 
-*Step 1 – Observation without comment.*
+*Step 1 — Observation without comment.*
 Steinbeck describes poverty without telling the reader how to feel about it. Find a sentence that describes something terrible without using an evaluative adjective. Rewrite the sentence with an evaluative adjective (*devastating, heartbreaking, tragic*). What changes?
 
-*Step 2 – The turtle as method.*
+*Step 2 — The turtle as method.*
 Steinbeck uses the turtle to carry something larger. Describe precisely what the turtle carries — what it represents — without just saying "the Joads" or "hope." What specific aspect of the Joads' situation does the turtle's journey map?
 
-*Step 3 – Buck and Steinbeck.*
+*Step 3 — Buck and Steinbeck.*
 Both writers describe poor rural people in physical detail without sentimentality. But Buck's world is China in the 1920s and Steinbeck's is America in the 1930s. Find one specific technique they share. Find one thing each does that the other does not.
 
 ---
@@ -217,7 +217,7 @@ This is the first major writing task of the course. It is designed to feel achie
 
 **The task:**
 
-Choose one person from your own life — not a family member — whom you have watched doing something. It could be anyone: a neighbor, a teacher, a stranger on a bus, someone at work.
+Choose one person from your own life — not a family member — whom you have watched doing something. It could be anyone: a neighbour, a teacher, a stranger on a bus, someone at work.
 
 Write 150–200 words describing them doing the thing you watched. The rules:
 
@@ -249,7 +249,5 @@ Does it matter where you stand when you look?
 Write a position before the discussion begins. You will return to it in Chapter Five.
 
 ---
----
----
 
-*Copyright note: Kipling died 1936 – public domain in the EU. Buck died 1973 – copyright protected. Steinbeck died 1968 – copyright protected. Bonus Copyright Access applies to Buck och Steinbeck. Kipling's works available free on Project Gutenberg.*
+*Copyright note: Kipling died 1936 — public domain in Sweden and the EU. Buck died 1973 and Steinbeck died 1968 — both still in copyright. Teacher copies of both fall under the school's Bonus Copyright Access agreement (the 15/15 rule). Kipling's works are freely available on Project Gutenberg.*

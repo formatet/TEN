@@ -1,5 +1,5 @@
 ---
-title: "Clear Sight"
+title: "The Final Synthesis"
 order: "9"
 publish: "true"
 ---
@@ -8,8 +8,8 @@ publish: "true"
 
 ---
 
-> *"I'm a writer, not a reader of my work once it's done."*
-> — V.S. Naipaul
+> *"Everything of value about me is in my books."*
+> — V.S. Naipaul, Nobel Lecture, 2001
 
 > *"Memory, I realise, can be an unreliable thing; often it is heavily coloured by the circumstances in which one remembers."*
 > — Kazuo Ishiguro, *The Remains of the Day*
@@ -40,7 +40,7 @@ In Chapter One, you read Kipling's opening sentences. In Chapter Two, you read Y
 
 Now read these two:
 
-> *"In the multitude of my days, strength and cunning have availed me nothing."*
+> *"Ten weeks before he died, Mr Mohun Biswas, a journalist of Sikkim Street, St James, Port of Spain, was sacked."*
 > — V.S. Naipaul, *A House for Mr Biswas*
 
 > *"It seems increasingly likely that I really will undertake the expedition that has been preoccupying my imagination now for some days."*
@@ -50,7 +50,7 @@ Write: How have three years changed how you read an opening sentence? What do yo
 
 ---
 
-## Part One – V.S. Naipaul (1932–2018)
+## Part One — Naipaul
 
 *Nobel Prize in Literature 2001. See [Gallery](/gallery/vs-naipaul/) for full biographical entry.*
 
@@ -68,7 +68,7 @@ The question this chapter asks is whether these two things — the greatness of 
 
 **Source:** V.S. Naipaul, *A House for Mr Biswas* (1961). Opening chapter (approximately 8–10 pages).
 
-*A House for Mr Biswas* is a novel about a man who spends his life trying to own a house. Mr Biswas is Trinidadian Indian, born into poverty, marriage into a family that swallows him, and a series of failures that he somehow manages to survive with most of his dignity intact. The house is what he cannot quite have but cannot stop wanting. It is the self, made physical.
+*A House for Mr Biswas* is a novel about a man who spends his life trying to own a house. Mr Biswas is Trinidadian Indian, born into poverty, married into a family that swallows him, and carried through a series of failures that he somehow survives with most of his dignity intact. The house is what he cannot quite have but cannot stop wanting. It is the self, made physical.
 
 **Before reading:** The novel opens with Mr Biswas's death — before telling his story. Keep asking why.
 
@@ -104,7 +104,7 @@ What does the lecture reveal about the relationship between his life and his *in
 
 ---
 
-## Part Two – Kazuo Ishiguro (b. 1954)
+## Part Two — Ishiguro
 
 *Nobel Prize in Literature 2017. See [Gallery](/gallery/kazuo-ishiguro/) for full biographical entry.*
 
@@ -118,7 +118,7 @@ Stevens narrates this journey. He narrates it with complete grammatical control,
 
 ### Satellite Text 3
 
-**Source:** Kazuo Ishiguro, *The Remains of the Day* (1989), Faber & Faber. Opening pages and a scene approximately halfway through (identified by teacher). *(Teacher: kopiera opening (6–8 pages) + one later scene under Bonus Copyright Access.)*
+**Source:** Kazuo Ishiguro, *The Remains of the Day* (1989), Faber & Faber. The opening pages (6–8 pages) and one later scene from roughly halfway through, both provided by your teacher.
 
 **Before reading:** Stevens narrates everything from inside his own perspective. He never lies. He always tells the truth as he understands it. The reader understands more than he does. Keep asking: how does Ishiguro engineer that?
 
@@ -132,13 +132,13 @@ Stevens narrates this journey. He narrates it with complete grammatical control,
 
 **Close Reading: The Unreliable Sentence**
 
-*Step 1 – Free indirect discourse:*
-Ishiguro uses free indirect discourse — the narration stays close to Stevens's perspective without being formal first-person interiority. Find a sentence where the FID creates a gap between Stevens's interpretation and the reality it describes.
+*Step 1 — The unreliable first person:*
+Stevens narrates in the first person, and everything reaches you through him. This is the opposite of Coetzee's method in Chapter 8, where free indirect discourse lets a third-person narrator stand just behind Lurie. Find a sentence where Stevens's own account opens a gap between his interpretation and the reality he is describing — and say what makes the gap visible when the only voice you have is his.
 
-*Step 2 – The word that doesn't quite fit:*
+*Step 2 — The word that doesn't quite fit:*
 Stevens occasionally chooses a word that reveals more than he intends. Find one such word in the opening pages. What does it reveal?
 
-*Step 3 – The last chapter (without reading it):*
+*Step 3 — The last chapter (without reading it):*
 Based on everything you now know about Stevens, write two sentences predicting what he will realise at the end of the novel — and whether he will be able to hold that realisation.
 
 *(After writing: your teacher may choose to share the last pages. Or not. Both choices are pedagogically defensible.)*
@@ -151,11 +151,11 @@ You have now read every writer in this course.
 
 **One question only, with four parts:**
 
-1. What has Kipling (Chapter 1) and Ishiguro (Chapter 9) in common? (Think about what each cannot see in himself.)
+1. What do Kipling (Chapter 1) and Ishiguro (Chapter 9) have in common? (Think about what each cannot see in himself.)
 
-2. What has Morrison (Chapter 8) and Naipaul (Chapter 9) in common? (Think about the nature of their scrutiny.)
+2. What do Morrison (Chapter 8) and Naipaul (Chapter 9) have in common? (Think about the nature of their scrutiny.)
 
-3. What has Beckett (Chapter 7) and Hemingway (Chapter 3) in common? (Think about what each writer refuses to give the reader.)
+3. What do Beckett (Chapter 7) and Hemingway (Chapter 3) have in common? (Think about what each writer refuses to give the reader.)
 
 4. Choose one writer from Year One and one from Year Three. Write two sentences connecting them: what question were they each trying to answer — and did they answer it the same way?
 
@@ -218,7 +218,5 @@ This is not a rhetorical question. It is the only test that matters. Write it as
 There is no correct answer. There is a more honest answer and a less honest one.
 
 ---
----
----
 
-*Copyright note: Naipaul died 2018 – copyright protected. Ishiguro living – copyright protected. Bonus Copyright Access galler. Nobelforelasningarna fritt available pa nobelprize.org.*
+*Copyright note (checked 27 July 2026): Naipaul died 2018 — in copyright until 31 December 2088. Ishiguro is living — in copyright. Bonus Copyright Access (the 15/15 rule) covers teacher copies. The Nobel lectures are freely available at nobelprize.org.*

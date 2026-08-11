@@ -21,7 +21,7 @@ Chapter Two asks something harder: what happens to language when it has to hold 
 
 That is what a poem is for. Not to *say* what the poet feels. To *show* something so precisely that the feeling arrives in the reader without being announced.
 
-The three poets in this chapter lived on different continents and wrote in different centuries. Yeats wrote from the edge of empire, watching Ireland try to become itself. Tagore wrote from Bengal, translating his own Bengali poems into English for a world that barely knew his country existed. Glück writes from the interior of a single life, finding in a garden the architecture of mortality.
+The three poets in this chapter lived on different continents and wrote in different centuries. Yeats wrote from the edge of empire, watching Ireland try to become itself. Tagore wrote from Bengal, translating his own Bengali poems into English for a world that barely knew his country existed. Glück wrote from the interior of a single life, finding in a garden the architecture of mortality.
 
 None of them explains. All of them show.
 
@@ -43,7 +43,7 @@ Write down: Which one do you trust the most? Not which one you *understand* — 
 
 ---
 
-## Part One – W.B. Yeats (1865–1939)
+## Part One — Yeats
 
 *Nobel Prize in Literature 1923. See [Gallery](/gallery/wb-yeats/) for full biographical entry.*
 
@@ -57,7 +57,7 @@ His early poetry is dreamlike and decorative. His later poetry — the work that
 
 ### Satellite Text 1
 
-**Source:** W.B. Yeats, *Michael Robartes and the Dancer* (1921). Public domain.
+**Source:** W.B. Yeats, "The Second Coming", from *Michael Robartes and the Dancer* (1921). Public domain.
 
 This poem was written in 1919, immediately after the First World War and the Russian Revolution. Yeats believed history moved in two-thousand-year spirals — *gyres* — and that one age was ending and another, darker one beginning.
 
@@ -71,15 +71,15 @@ This poem was written in 1919, immediately after the First World War and the Rus
 
 **Close Reading: The Image as Argument**
 
-*Step 1 – Concrete vs. abstract.*
+*Step 1 — Concrete vs. abstract.*
 Make two lists from the poem: (a) concrete nouns and verbs — things you can touch, see, or hear; (b) abstract nouns — words for ideas, qualities, or states.
 Which list is longer? Which carries more power?
 
-*Step 2 – The falcon and the falconer.*
+*Step 2 — The falcon and the falconer.*
 The poem opens with a falcon that "cannot hear the falconer." This is an image — not a statement. Rewrite the same idea as a direct statement: what is Yeats actually saying about the world?
 Now ask: which version is stronger? What does the image give that the statement takes away?
 
-*Step 3 – What the poem does not tell us.*
+*Step 3 — What the poem does not tell us.*
 The "rough beast" is one of the most famous images in twentieth-century poetry. It has been interpreted as communism, fascism, the Antichrist, and many other things. Yeats does not specify.
 Write two sentences: (a) what is lost by the ambiguity, and (b) what is gained.
 
@@ -87,7 +87,7 @@ Write two sentences: (a) what is lost by the ambiguity, and (b) what is gained.
 
 ### Satellite Text 2
 
-**Source:** W.B. Yeats, *Michael Robartes and the Dancer* (1921). Public domain.
+**Source:** W.B. Yeats, "Easter, 1916", from *Michael Robartes and the Dancer* (1921). Public domain.
 
 **Before reading:** The Easter Rising was a failed rebellion. Most of the leaders were executed by the British. Yeats had known some of them personally and had not thought highly of them. After the executions, he was forced to reconsider.
 
@@ -135,23 +135,23 @@ Find one sentence in the verses you have read that follows this pattern. Copy it
 
 ---
 
-## Part Three – Louise Glück (b. 1943)
+## Part Three — Glück
 
 *Nobel Prize in Literature 2020. See [Gallery](/gallery/louise-gluck/) for full biographical entry.*
 
 ### Context for This Chapter
 
-Louise Glück was born in New York in 1943. She has published twelve collections of poetry over fifty years. Her work is sparse, precise, and uncomfortable in a way that is hard to name: she writes about small things — a garden, a family, a season — and by the end of the poem the small thing has become the whole of existence.
+Louise Glück was born in New York in 1943 and died in 2023. She published twelve collections of poetry over fifty years. Her work is sparse, precise, and uncomfortable in a way that is hard to name: she writes about small things — a garden, a family, a season — and by the end of the poem the small thing has become the whole of existence.
 
-She uses the second-person *you* in ways that collapse the distance between the poem and the reader. When Glück says *"you"*, it is not entirely clear who she is addressing — the reader, God, the dead, or herself. That ambiguity is structural, not accidental.
+She uses the second-person *you* in ways that collapse the distance between the poem and the reader. When Glück says *"you"*, it is not entirely clear who is being addressed — the reader, God, the dead, or herself. That ambiguity is structural, not accidental.
 
 She received the Nobel Prize in 2020. The committee described her voice as "unmistakable." It is. Within two lines of a Glück poem, you know whose language you are in.
 
 ### Satellite Text 4
 
-**Source:** Louise Glück, *The Wild Iris* (1992), Ecco/HarperCollins.
+**Source:** Louise Glück, "The Wild Iris", the title poem of *The Wild Iris* (1992), Ecco/HarperCollins.
 
-**Before reading:** The poem is spoken by an iris — a flower — in the first person. It is not a metaphor. The flower is the speaker. Glück does not explain or apologize for this.
+**Before reading:** The poem is spoken by an iris — a flower — in the first person. It is not a metaphor. The flower is the speaker. Glück does not explain or apologise for this.
 
 **Read the poem** once silently, then once aloud.
 
@@ -173,13 +173,13 @@ Glück's *you* is one of the most studied features of her work. It creates intim
 
 ---
 
-## Eliot – An Introduction
+## Eliot — An Introduction
 
 T.S. Eliot (1888–1965) received the Nobel Prize in 1948. He appears properly in Chapter Seven as the author of *The Waste Land*. He is introduced here because Chapter Two — the image, the line, the poem's refusal to explain — is impossible to understand without knowing what Modernism did to English poetry.
 
 Before Eliot (and Yeats, and Pound, who shaped them both), English poetry was expected to be decorative, melodic, and reassuring. After Eliot, a poem could be fragmentary, allusive, and deliberately difficult — and this would be understood as honesty, not failure.
 
-**One passage only.** The opening six lines of *The Love Song of J. Alfred Prufrock* (1915):
+**One passage only.** The opening three lines of *The Love Song of J. Alfred Prufrock* (1915):
 
 > *Let us go then, you and I,*
 > *When the evening is spread out against the sky*
@@ -193,7 +193,7 @@ Eliot compares the evening sky to a patient under anaesthesia. This is not beaut
 
 ---
 
-*→ Archive for this chapter: [Chapter 2](/archive/chapter-2/) — *lyric · image · symbol · concrete · economy · elegiac · metaphor**
+*→ Archive for this chapter: [Chapter 2](/archive/chapter-2/) — *austere · elegy · lyric · threshold · ephemeral · luminous**
 
 ## The Writing Task
 
@@ -239,7 +239,5 @@ What is that thing?
 Write one sentence — before the discussion begins — that is your answer. You will have the chance to change it at the end of the lesson.
 
 ---
----
----
 
-*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (15/15-regeln). Tagore died 1941 – Gitanjali (1912) är public domain i Sverige/EU. Yeats died 1939 – hela författarskapet är public domain i Sverige/EU sedan 2010. Glück died 2023 – skyddad t.o.m. 31 december 2093; The Wild Iris kopieras under Bonus Copyright Access. Översättningar, redigerade utgåvor och inspelningar kan ha egen skyddstid.*
+*Copyright note: Satellite texts are provided by the teacher as copies under the school's Bonus Copyright Access agreement (the 15/15 rule). Tagore died 1941 — Gitanjali (1912) is public domain in Sweden and the EU. Yeats died 1939 — his whole body of work has been public domain in Sweden and the EU since 2010. Glück died 2023 — in copyright until 31 December 2093; The Wild Iris is copied under Bonus Copyright Access. Translations, edited editions and recordings may carry terms of their own.*

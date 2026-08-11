@@ -221,12 +221,14 @@ def build():
 
             page_count += 1
 
-            # Collect for search index (reuse already-rendered HTML)
-            plain = strip_html(content_html)
+            # Collect for search index (reuse already-rendered HTML).
+            # The whole page is indexed — truncating meant a search for a word
+            # in the second half of a chapter returned nothing.
+            plain = re.sub(r'\s+', ' ', strip_html(content_html))
             search_index.append({
                 "title": meta.get("title", fname),
                 "href": current_href,
-                "text": plain[:2000],
+                "text": plain,
             })
 
     # Write search index

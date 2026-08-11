@@ -43,7 +43,7 @@ Write your answers. You will return to them at the end of this chapter.
 
 ---
 
-## Part One – Wole Soyinka (b. 1934)
+## Part One — Soyinka
 
 *Nobel Prize in Literature 1986. See [Gallery](/gallery/wole-soyinka/) for full biographical entry.*
 
@@ -103,7 +103,7 @@ Her moral position was not comfortable. She was criticised by the apartheid gove
 
 1. Identify the central character's moral blind spot — the thing they cannot see about themselves. Find a moment in the text where this is visible to the reader but not to the character.
 
-2. Gordimer uses the term "complicit" (see your archive) in her own critical writing about white South Africans. Find a moment in the text where a character is complicit in a system they might sincerely believe they oppose. What makes the complicity visible?
+2. Gordimer uses the term "complicit" (see the cross-references at the end of your [Chapter 5 archive](/archive/chapter-5/)) in her own critical writing about white South Africans. Find a moment in the text where a character is complicit in a system they might sincerely believe they oppose. What makes the complicity visible?
 
 3. Compare Gordimer's narrative position with Soyinka's. Both are witnesses. But they are witnessing from different positions. Describe the difference — and what each position can and cannot see.
 
@@ -123,7 +123,7 @@ His is one of the most powerful answers to the question of what you do with a co
 
 ### Satellite Text 3
 
-**Source:** Derek Walcott, *In a Green Night* (1962).
+**Source:** Derek Walcott, "A Far Cry from Africa", from *In a Green Night* (1962).
 
 This poem was written in response to the Mau Mau Uprising in Kenya (1952–1960), during which Kenyan freedom fighters and British colonial forces committed atrocities against each other. Walcott, as a Caribbean man of mixed African and European descent writing in English, found himself unable to take a simple side.
 
@@ -143,7 +143,7 @@ This poem was written in response to the Mau Mau Uprising in Kenya (1952–1960)
 
 *Step 2:* The poem ends with a question. Walcott does not answer it. Compare this with Yeats's ending in "The Second Coming" (Chapter 2). Why do certain poets end with unanswered questions? What does the refusal to answer do?
 
-*Step 3:* Return to your archive: COLONIAL, TESTIMONY, DIASPORA, ELEGIAC. Choose two and show how each one illuminates a different aspect of this poem.
+*Step 3:* Return to your archive: COLONIAL, TESTIMONY, DIASPORA. Choose two and show how each one illuminates a different aspect of this poem.
 
 ---
 
@@ -159,11 +159,11 @@ Gurnah was born in Zanzibar in 1948. In 1964, after the revolution that overthre
 
 He writes in English about East Africa, about the Indian Ocean trade routes, about the layered colonial history of a region most English readers know nothing about. His prose is measured and precise, like someone who learned the language not as a child but as a survival strategy.
 
-His Nobel Prize in 2021 surprised many readers who had never heard of him. Gurnah said in response that he had always known there were readers who hadn't read him. He kept writing anyway. The Nobel Committee cited his "uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents."
+His Nobel Prize in 2021 surprised many readers who had never heard of him. Gurnah said in response that he had always known his readers were out there, whether or not the prize lists had found them. He kept writing anyway. The Nobel Committee cited his "uncompromising and compassionate penetration of the effects of colonialism and the fate of the refugee in the gulf between cultures and continents."
 
 The key word is *gulf*. Not bridge. Not meeting. Gulf.
 
-**Reading:** *By the Sea* (2001), opening pages — available via library. *(Also: Paradise, 1994, Chapter 1 — public domain in many regions.)*
+**Reading:** *By the Sea* (2001), opening pages — available via library. *(Also possible: Paradise, 1994, Chapter 1, as a teacher copy under Bonus Copyright Access.)*
 
 **Questions:**
 
@@ -185,7 +185,7 @@ White was born in England in 1912, raised in Australia, educated at Cambridge, a
 
 *Voss* (1957) follows a German explorer who attempts to cross Australia in 1845 and dies. The novel is less interested in the journey than in the psychology of someone who believes he can impose himself on a landscape that does not need him. The Australia of *Voss* is not backdrop — it is character, and it resists the protagonist's will with the patient indifference of something that existed long before Europeans arrived and will exist long after they are gone.
 
-White received the Nobel Prize in 1973. The Swedish Academy called him "an epic and psychological narrative art which has introduced a new continent into literature." That phrase — "a new continent" — carries the problem. It was not new. It was very old.
+White received the Nobel Prize in 1973, awarded "for an epic and psychological narrative art which has introduced a new continent into literature." That phrase — "a new continent" — carries the problem. It was not new. It was very old.
 
 **Reading:** Excerpt from *Voss* (1957), opening chapters — the departure from Sydney. Available via library.
 
@@ -195,7 +195,7 @@ White received the Nobel Prize in 1973. The Swedish Academy called him "an epic 
 
 2. Voss believes his willpower can conquer geography. How does White's syntax embody this belief — and how does it undermine it?
 
-*Archive connection: [Chapter 5](/archive/chapter-5/) — colonial · peripheral*
+*Archive connection: [Chapter 5](/archive/chapter-5/) — colonial · testimony*
 
 ---
 
@@ -238,7 +238,5 @@ Five writers. Five relationships to English. One question:
 Write a position before the discussion begins. Be specific: what would it mean for them to be writing the same language? What would it mean for them not to be?
 
 ---
----
----
 
-*Copyright note: Soyinka's Nobel lecture (1986) freely available at nobelprize.org. Gordimer's short stories — Bonus Copyright Access. Walcott's poems — copyright protected, short quotations within fair use. Gurnah — copyright protected, Bonus Copyright Access. Patrick White — check status; died 1990, possibly public domain in the EU 2061.*
+*Copyright note (checked 27 July 2026): Soyinka's Nobel lecture (1986) is freely available at nobelprize.org. Gordimer died 2014 and Walcott died 2017 — both in copyright; classroom copies fall under Bonus Copyright Access and short quotations under the right of quotation. Gurnah is living — in copyright, Bonus Copyright Access. White died 1990 — in copyright in Sweden and the EU until 31 December 2060.*

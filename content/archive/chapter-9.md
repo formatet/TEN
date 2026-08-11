@@ -3,7 +3,7 @@ title: "Chapter 9"
 order: "9"
 publish: "true"
 ---
-## Clear Sight: Naipaul, Ishiguro
+## The Final Synthesis: Naipaul, Ishiguro
 
 *Part of [The Etymological Archive](/archive/) | Chapter thread: complete command — the control that reveals more than it conceals*
 

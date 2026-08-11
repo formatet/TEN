@@ -3,7 +3,7 @@ title: "Chapter 7"
 order: "7"
 publish: "true"
 ---
-## The Fragmented Self: Lessing, Beckett, Pinter, Brodsky
+## The Fragmented Self: Lessing, Beckett, Pinter, Brodsky, Eliot
 
 *Part of [The Etymological Archive](/archive/) | Chapter thread: what happens to language when what must be said cannot be said?*
 

@@ -36,9 +36,9 @@ The site has three sections. They work together.
 
 **Start in [The Gallery](/gallery/).** Before each chapter, read the short portrait of the author — about 150 words. It gives you context, key words, and a sense of the voice before you encounter the actual texts. The Gallery is preparation, not the destination.
 
-**Then read the [Chapter](/chapters/1-the-foundational-narrative/).** Each chapter opens with a note and a warm-up exercise. Then three author sections, each with a satellite text and reading questions. The chapter closes with a writing task and a big question for discussion. This is the core of the course.
+**Then read the [Chapter](/chapters/1-the-foundational-narrative/).** Each chapter opens with a note and a warm-up exercise. Then three to five author sections, each with a satellite text and reading questions. The chapter closes with a writing task and a big question for discussion. This is the core of the course.
 
-**Use [The Archive](/archive/) as you read.** When you encounter a bolded word in the chapter — *relentless*, *stark*, *ellipsis* — find it in the Archive. The Archive explains where the word came from, what it weighs, and what to avoid using instead. It is not a vocabulary list. It is a thinking tool.
+**Use [The Archive](/archive/) as you read.** Every Gallery portrait carries a few words in bold — *relentless*, *stark*, *ellipsis* — and every chapter ends with a link to its own Archive page. The Archive explains where each word came from, what it weighs, and what to avoid using instead. It is not a vocabulary list. It is a thinking tool.
 
 The chapters run in order. The Gallery and Archive can be entered from any direction.
 

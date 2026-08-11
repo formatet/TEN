@@ -4,13 +4,27 @@
   if (!input || !results) return;
 
   let index = null;
+  let loading = null;
 
-  fetch("/static/search-index.json")
-    .then(function (r) { return r.json(); })
-    .then(function (data) { index = data; })
-    .catch(function () {});
+  // The index holds every page in full, so it is only fetched once the
+  // reader actually goes near the search box.
+  function loadIndex() {
+    if (loading) return loading;
+    loading = fetch("/static/search-index.json")
+      .then(function (r) { return r.json(); })
+      .then(function (data) { index = data; })
+      .catch(function () {});
+    return loading;
+  }
+
+  input.addEventListener("focus", loadIndex);
 
   input.addEventListener("input", function () {
+    if (!index) { loadIndex().then(render); return; }
+    render();
+  });
+
+  function render() {
     const q = input.value.trim().toLowerCase();
     results.innerHTML = "";
     if (!index || q.length < 2) return;
@@ -32,7 +46,7 @@
       li.appendChild(a);
       results.appendChild(li);
     });
-  });
+  }
 
   document.addEventListener("click", function (e) {
     if (!input.contains(e.target) && !results.contains(e.target)) {

@@ -44,16 +44,18 @@
   // ── 4. Time on page — fire when the page is hidden/closed ────────────
   //  visibilitychange + pagehide are reliable on Chrome/Chromebook where
   //  beforeunload is not (bfcache, backgrounded tabs).
-  const startTime = Date.now();
-  let timeSent = false;
+  //  Each hidden/close reports the time since the last report, so a reader
+  //  who switches tabs and comes back is still measured for the rest of
+  //  the visit instead of being counted once and then dropped.
+  let lastMark = Date.now();
   function sendTime() {
-    if (timeSent) return;
-    timeSent = true;
-    const secs = Math.round((Date.now() - startTime) / 1000);
+    const secs = Math.round((Date.now() - lastMark) / 1000);
+    lastMark = Date.now();
     if (secs > 5) track("time-on-page", { secs: secs, page: location.pathname });
   }
   document.addEventListener("visibilitychange", function () {
     if (document.visibilityState === "hidden") sendTime();
+    else lastMark = Date.now();
   });
   window.addEventListener("pagehide", sendTime);
 
