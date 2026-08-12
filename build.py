@@ -221,6 +221,10 @@ def build():
 
             page_count += 1
 
+            # The 404 page is a destination, not content — keep it out of search.
+            if current_href == "/404/":
+                continue
+
             # Collect for search index (reuse already-rendered HTML).
             # The whole page is indexed — truncating meant a search for a word
             # in the second half of a chapter returned nothing.
