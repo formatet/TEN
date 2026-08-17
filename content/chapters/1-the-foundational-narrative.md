@@ -83,7 +83,7 @@ He received the Nobel Prize in 1907, the first writer in English to win it and, 
 
 A flood washes a young mongoose out of his burrow and leaves him half-drowned on the path of an English family's bungalow in India. They dry him; he stays. In the garden live two cobras, Nag and Nagaina, who have killed before and mean to go on killing. Rikki-tikki fights them — single-handed, through the bathrooms of the big bungalow — and saves the family. Read it once and it is one of the best adventure stories ever written. Read it twice and it is a story about who a garden belongs to.
 
-This is not the only Kipling story in the course — *Kim* will return in Chapter Five, and the poems appear throughout — but it is the right place to start. *Rikki-Tikki-Tavi* is short enough to read in a single sitting and precise enough to reward careful study. And the question it quietly carries — *whose side are you on, and why does that seem so obvious?* — is the question that runs through all three parts of this chapter.
+This is not the only Kipling you will meet, but it is the right place to start. *Rikki-Tikki-Tavi* is short enough to read in a single sitting and precise enough to reward careful study. And the question it quietly carries — *whose side are you on, and why does that seem so obvious?* — is the question that runs through all three parts of this chapter.
 
 **Before reading:** Go slowly through the second paragraph, the description of the mongoose, before any danger starts. Kipling is teaching you how to look at a living thing. Notice exactly what he notices.
 
@@ -111,7 +111,7 @@ Now consider: in *Kim*, Kipling's hero is a child who belongs to *both* worlds �
 Step 2 asked who the garden is for. Now count who is actually in it. Make a list of every human being in this story — everyone, named or not — and write down beside each one what they do. Two are easy to miss. One appears twice, and both times he is carrying Nag's body out to the rubbish-heap: the story calls him *the sweeper* and gives him no name, no line, and no place in Darzee's victory song, which hands the credit to "the big man" with the gun and to Rikki. The other is not in the garden at all. Read again the sentence about Rikki's mother on the morning of the first breakfast — where she used to live, and what she had carefully taught her son to do if he ever came across white men. A mongoose is not born a house-mongoose. He is raised into it, one generation after the last. Now look at your list, and ask who does the work in this house, who gets the song, and who taught whom to belong.
 
 *Step 4 — Love and the contradiction.*
-Kipling plainly loves this world: the garden, the animals, the boy with the mongoose asleep on his pillow. He also believed empire was a duty. The word *respect* comes from the Latin for *looking back, looking again* — and the whole story turns on quickness of eye, on who manages to see whom in time. So look again. Can a story be tender, exact, beautifully observed — and carry an empire's assumptions inside it at the very same time? Write the beginning of your answer here. You will need it for The Big Question — and again, three years from now, in Chapter Five.
+Kipling plainly loves this world: the garden, the animals, the boy with the mongoose asleep on his pillow. He also believed empire was a duty. The word *respect* comes from the Latin for *looking back, looking again* — and the whole story turns on quickness of eye, on who manages to see whom in time. So look again. Can a story be tender, exact, beautifully observed — and carry an empire's assumptions inside it at the very same time? Write the beginning of your answer here. You will need it for The Big Question — and again, three years from now.
 
 
 ---
@@ -254,7 +254,7 @@ Kipling looked at India and loved it and also represented the empire that was de
 
 Does it matter where you stand when you look?
 
-Write a position before the discussion begins. You will return to it in Chapter Five.
+Write a position before the discussion begins. You will return to it.
 
 ---
 

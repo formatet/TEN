@@ -175,7 +175,7 @@ Glück's *you* is one of the most studied features of her work. It creates intim
 
 ## Eliot — An Introduction
 
-T.S. Eliot (1888–1965) received the Nobel Prize in 1948. He appears properly in Chapter Seven as the author of *The Waste Land*. He is introduced here because Chapter Two — the image, the line, the poem's refusal to explain — is impossible to understand without knowing what Modernism did to English poetry.
+T.S. Eliot (1888–1965) received the Nobel Prize in 1948. He appears properly later in the course as the author of *The Waste Land*. He is introduced here because Chapter Two — the image, the line, the poem's refusal to explain — is impossible to understand without knowing what Modernism did to English poetry.
 
 Before Eliot (and Yeats, and Pound, who shaped them both), English poetry was expected to be decorative, melodic, and reassuring. After Eliot, a poem could be fragmentary, allusive, and deliberately difficult — and this would be understood as honesty, not failure.
 
@@ -189,7 +189,7 @@ Eliot compares the evening sky to a patient under anaesthesia. This is not beaut
 
 **One question:** What does the evening sky look like when compared to this? Can you see it? If you can, Eliot has done his work.
 
-*(We will return to Eliot in Chapter Seven. Keep this image.)*
+*(We will return to Eliot. Keep this image.)*
 
 ---
 
