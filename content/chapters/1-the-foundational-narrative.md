@@ -47,6 +47,11 @@ Write three sentences — one for each object. No adjectives that describe feeli
 
 ## Part One — Kipling
 
+<figure>
+  <img src="/static/img/rikki-nagaina.png" alt="Pen-and-ink drawing: a cobra reared and hooded on the left, a thick clump of grass between, and a mongoose crouched low on the right.">
+  <figcaption>Nagaina and Rikki-tikki, from an early illustrated edition of <em>The Jungle Book</em>. Public domain.</figcaption>
+</figure>
+
 *Nobel Prize in Literature 1907. See [Gallery](/gallery/rudyard-kipling/) for the full biographical entry.*
 
 ### Context for This Chapter
@@ -69,12 +74,12 @@ He received the Nobel Prize in 1907, the first writer in English to win it and, 
 > **cantonment** — a permanent military station for troops, especially in British India
 > **bungalow** — a single-storey house of the kind the British built across colonial India
 > **veranda** — a roofed, open porch running along the outside of a house
+> **sweeper** — in British India, a household servant who cleaned and carried away refuse; the work was fixed by caste
 > **providence** — protective care from God or fate; a sign that you have been watched over
-> **naturalist** — someone who observes animals and plants closely and describes them exactly
 > **picaresque** — a kind of story that follows a clever, resourceful outsider moving through a society, surviving by wit rather than belonging
 > **contradiction** — two things that are both true at once and cannot be made to agree
 
-**Source:** Rudyard Kipling, *Rikki-Tikki-Tavi*, from *The Jungle Book* (1894). Public domain — full text free on Project Gutenberg and held in the course archive.
+**Source:** Rudyard Kipling, *Rikki-Tikki-Tavi*, from *The Jungle Book* (1894). Public domain — the full text is here: **[read Rikki-Tikki-Tavi](/gallery/rikki-tikki-tavi/)**. The paragraphs there are numbered, so *§42* means the same sentence for everyone, on paper or on a screen.
 
 A flood washes a young mongoose out of his burrow and leaves him half-drowned on the path of an English family's bungalow in India. They dry him; he stays. In the garden live two cobras, Nag and Nagaina, who have killed before and mean to go on killing. Rikki-tikki fights them — single-handed, through the bathrooms of the big bungalow — and saves the family. Read it once and it is one of the best adventure stories ever written. Read it twice and it is a story about who a garden belongs to.
 
@@ -102,7 +107,10 @@ The story never says a single political word. But look at how its world is built
 
 Now consider: in *Kim*, Kipling's hero is a child who belongs to *both* worlds — European by blood, Indian by upbringing, trusted by neither side, essential to both. What would change in *Rikki-Tikki-Tavi* if the mongoose could ask the same question Kim asks: *Who is my father?* What kind of story would it become?
 
-*Step 3 — Love and the contradiction.*
+*Step 3 — The people in the garden.*
+Step 2 asked who the garden is for. Now count who is actually in it. Make a list of every human being in this story — everyone, named or not — and write down beside each one what they do. Two are easy to miss. One appears twice, and both times he is carrying Nag's body out to the rubbish-heap: the story calls him *the sweeper* and gives him no name, no line, and no place in Darzee's victory song, which hands the credit to "the big man" with the gun and to Rikki. The other is not in the garden at all. Read again the sentence about Rikki's mother on the morning of the first breakfast — where she used to live, and what she had carefully taught her son to do if he ever came across white men. A mongoose is not born a house-mongoose. He is raised into it, one generation after the last. Now look at your list, and ask who does the work in this house, who gets the song, and who taught whom to belong.
+
+*Step 4 — Love and the contradiction.*
 Kipling plainly loves this world: the garden, the animals, the boy with the mongoose asleep on his pillow. He also believed empire was a duty. The word *respect* comes from the Latin for *looking back, looking again* — and the whole story turns on quickness of eye, on who manages to see whom in time. So look again. Can a story be tender, exact, beautifully observed — and carry an empire's assumptions inside it at the very same time? Write the beginning of your answer here. You will need it for The Big Question — and again, three years from now, in Chapter Five.
 
 

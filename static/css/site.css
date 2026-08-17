@@ -346,6 +346,21 @@ blockquote {
 
 blockquote p { margin-bottom: 0.5em; }
 
+img { max-width: 100%; height: auto; }
+
+figure { margin: 1.75rem 0; }
+
+/* Line art is scanned on white; multiply drops it onto the paper tone. */
+figure img { display: block; width: 100%; mix-blend-mode: multiply; }
+
+figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.82rem;
+  line-height: 1.4;
+  color: var(--gray);
+  font-style: italic;
+}
+
 hr {
   border: none;
   border-top: 1px solid var(--rule-mid);

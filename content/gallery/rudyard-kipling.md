@@ -9,3 +9,5 @@ In *Rikki-Tikki-Tavi* he watches a mongoose the way a naturalist watches: the pi
 But look to the **horizon** of this world and it is an imperial one. An English family in a bungalow. An Indian garden, half-wild and **arid** in the heat, full of danger. A small loyal creature who keeps the danger out. Kipling saw India exactly — and he saw it from above.
 
 He won the Nobel Prize in 1907, the first writer in English to do so.
+
+*Read the story: [Rikki-Tikki-Tavi](/gallery/rikki-tikki-tavi/).*
