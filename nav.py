@@ -42,6 +42,7 @@ NAV = [
             {"title": "Pearl S. Buck",        "href": "/gallery/pearl-s-buck/"},
             {"title": "Rabindranath Tagore",  "href": "/gallery/rabindranath-tagore/"},
             {"title": "Rudyard Kipling",      "href": "/gallery/rudyard-kipling/"},
+            {"title": "— If—",                "href": "/gallery/if/"},
             {"title": "— Rikki-Tikki-Tavi",   "href": "/gallery/rikki-tikki-tavi/"},
             {"title": "Samuel Beckett",       "href": "/gallery/samuel-beckett/"},
             {"title": "Saul Bellow",          "href": "/gallery/saul-bellow/"},
