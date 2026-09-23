@@ -10,7 +10,7 @@ Inga HTTPS/TLS — trafiken termineras upstream (Cloudflare Tunnel / proxy).
 
 ## Quartz config (quartz.config.ts)
 
-- Umami: websiteId `bc585229-b7c7-4acc-946c-ac3973020601`, host `https://s.kristall.info`
+- Umami: websiteId `bc585229-b7c7-4acc-946c-ac3973020601`, host `https://umami.formatet.se` (före 2026-09-23: `s.kristall.info`)
 - Typografi: EB Garamond (header + body), JetBrains Mono (code) — self-hosted woff2
 - Färger: light mode tvingat (`saved-theme="dark"` overrideas). Papper `#F4EFE3`, bläck `#1a1a1a`.
 - SPA aktivt i Quartz (enableSPA: true) — i nya sajten ingen SPA, vanliga sidladdningar.
