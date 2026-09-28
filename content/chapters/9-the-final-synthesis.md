@@ -1,7 +1,7 @@
 ---
 title: "The Final Synthesis"
 order: "9"
-publish: "true"
+publish: "false"
 ---
 *[Naipaul](/gallery/vs-naipaul/) · [Ishiguro](/gallery/kazuo-ishiguro/)*
 

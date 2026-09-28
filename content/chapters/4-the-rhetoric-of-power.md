@@ -1,7 +1,7 @@
 ---
 title: "The Rhetoric of Power"
 order: "4"
-publish: "true"
+publish: "false"
 ---
 *[Churchill](/gallery/winston-churchill/) · [Russell](/gallery/bertrand-russell/) · [Shaw](/gallery/george-bernard-shaw/) · [Dylan](/gallery/bob-dylan/)*
 

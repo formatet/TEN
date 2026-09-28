@@ -1,7 +1,7 @@
 ---
 title: "The American Document"
 order: "3"
-publish: "true"
+publish: "false"
 ---
 *[Hemingway](/gallery/ernest-hemingway/) · [Faulkner](/gallery/william-faulkner/) · [Lewis](/gallery/sinclair-lewis/)*
 

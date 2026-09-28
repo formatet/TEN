@@ -1,7 +1,7 @@
 ---
 title: "The Weight of History"
 order: "8"
-publish: "true"
+publish: "false"
 ---
 *[Morrison](/gallery/toni-morrison/) · [Heaney](/gallery/seamus-heaney/) · [Coetzee](/gallery/jm-coetzee/)*
 

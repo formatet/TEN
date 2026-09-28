@@ -1,7 +1,7 @@
 ---
 title: "The Music of the Image"
 order: "2"
-publish: "true"
+publish: "false"
 ---
 *[Yeats](/gallery/wb-yeats/) · [Tagore](/gallery/rabindranath-tagore/) · [Glück](/gallery/louise-gluck/) + Eliot (intro)*
 

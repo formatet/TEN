@@ -1,7 +1,7 @@
 ---
 title: "The Fragmented Self"
 order: "7"
-publish: "true"
+publish: "false"
 ---
 *[Lessing](/gallery/doris-lessing/) · [Beckett](/gallery/samuel-beckett/) · [Pinter](/gallery/harold-pinter/) · [Brodsky](/gallery/joseph-brodsky/) · [Eliot](/gallery/ts-eliot/)*
 

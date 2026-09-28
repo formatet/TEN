@@ -1,7 +1,7 @@
 ---
 title: "The Anatomy of Irony"
 order: "6"
-publish: "true"
+publish: "false"
 ---
 *[Golding](/gallery/william-golding/) · [Munro](/gallery/alice-munro/) · [Bellow](/gallery/saul-bellow/) · [Galsworthy](/gallery/john-galsworthy/) · [O'Neill](/gallery/eugene-oneill/)*
 

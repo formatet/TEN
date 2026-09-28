@@ -1,7 +1,7 @@
 ---
 title: "The Post-Colonial Witness"
 order: "5"
-publish: "true"
+publish: "false"
 ---
 *[Soyinka](/gallery/wole-soyinka/) · [Gordimer](/gallery/nadine-gordimer/) · [Walcott](/gallery/derek-walcott/) · [Gurnah](/gallery/abdulrazak-gurnah/) · [White](/gallery/patrick-white/)*
 

@@ -6,14 +6,14 @@ NAV = [
         "title": "CHAPTERS",
         "items": [
             {"title": "1. The Foundational Narrative",  "href": "/chapters/1-the-foundational-narrative/"},
-            {"title": "2. The Music of the Image",       "href": "/chapters/2-the-music-of-the-image/"},
-            {"title": "3. The American Document",        "href": "/chapters/3-the-american-document/"},
-            {"title": "4. The Rhetoric of Power",        "href": "/chapters/4-the-rhetoric-of-power/"},
-            {"title": "5. The Post-Colonial Witness",    "href": "/chapters/5-the-post-colonial-witness/"},
-            {"title": "6. The Anatomy of Irony",         "href": "/chapters/6-the-anatomy-of-irony/"},
-            {"title": "7. The Fragmented Self",          "href": "/chapters/7-the-fragmented-self/"},
-            {"title": "8. The Weight of History",        "href": "/chapters/8-the-weight-of-history/"},
-            {"title": "9. The Final Synthesis",          "href": "/chapters/9-the-final-synthesis/"},
+            # {"title": "2. The Music of the Image",       "href": "/chapters/2-the-music-of-the-image/"},  # dold t.o.m. kapitlet startar (2026-09-28)
+            # {"title": "3. The American Document",        "href": "/chapters/3-the-american-document/"},  # dold t.o.m. kapitlet startar (2026-09-28)
+            # {"title": "4. The Rhetoric of Power",        "href": "/chapters/4-the-rhetoric-of-power/"},  # dold t.o.m. kapitlet startar (2026-09-28)
+            # {"title": "5. The Post-Colonial Witness",    "href": "/chapters/5-the-post-colonial-witness/"},  # dold t.o.m. kapitlet startar (2026-09-28)
+            # {"title": "6. The Anatomy of Irony",         "href": "/chapters/6-the-anatomy-of-irony/"},  # dold t.o.m. kapitlet startar (2026-09-28)
+            # {"title": "7. The Fragmented Self",          "href": "/chapters/7-the-fragmented-self/"},  # dold t.o.m. kapitlet startar (2026-09-28)
+            # {"title": "8. The Weight of History",        "href": "/chapters/8-the-weight-of-history/"},  # dold t.o.m. kapitlet startar (2026-09-28)
+            # {"title": "9. The Final Synthesis",          "href": "/chapters/9-the-final-synthesis/"},  # dold t.o.m. kapitlet startar (2026-09-28)
         ],
     },
     {
