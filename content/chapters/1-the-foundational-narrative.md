@@ -124,47 +124,56 @@ Kipling plainly loves this world: the garden, the animals, the boy with the mong
 
 Pearl Buck grew up in China. Her parents were missionaries. She learned Chinese before she learned English. She played in the same streets, ate the same food, and lived among the same people whose lives she would later describe in her novels.
 
-When she wrote *The Good Earth* (1931), she was describing people and places she had known for thirty years — not as an observer studying a foreign culture, but as someone who had grown up inside it. Wang Lung, the farmer who is the novel's subject, is not exotic to Buck. He is familiar.
+She made her name with *The Good Earth* (1931), a novel about a Chinese farmer and his land, and in 1938 she became the first American woman to win the Nobel Prize, "for her rich and truly epic descriptions of peasant life in China". But the story you are going to read is not set in China. It is set in New York — and that is not an accident. In 1934 Buck left China for good. After the revolution of 1949 the new government would not let her back in, and it never did. The woman who had written China for the whole English-speaking world spent the rest of her life remembering a country she could not return to.
 
-This matters for the novel's quality. Buck writes about Chinese peasant life in the 1920s with the specificity of direct knowledge: the smell of the soil, the weight of a harvest, the particular way poverty works on a family over years. She does not explain or interpret Chinese culture for a Western reader. She simply shows it.
+So did thousands of others. In 1949 the Communists won China's civil war, and in the years that followed, landowners and their families were hunted down in their own villages. Old Mrs. Pan, the widow of a landowner, has been rescued by her son and carried across the Pacific to New York's Chinatown. She is safe. She is also dying — not of illness, but of uselessness.
 
-She received the Nobel Prize in 1938. She was the first American woman to win it. The Nobel Committee cited her "rich and genuine epic portrayals of Chinese peasant life."
+What do you do with a person nobody needs? That is the question Buck asks, twice, about two women. Her answer is a comedy.
+
+The title is worth a moment. A *deed* is simply a thing done — the word is a close relative of *do*. Not a thing felt, not a thing meant: done. Like Kipling's mongoose, Buck's people are what they do.
+
+---
 
 ### Satellite Text 1
 
 > [!note] Before you read — key words
-> **sentimentality** — expressing feeling more strongly than the situation warrants
-> **condescension** — treating someone as less intelligent or capable than you
-> **portrayal** — the way someone or something is described or represented
-> **specificity** — precise, exact detail; the quality of being specific
-> **exotic** — seeming to come from somewhere unfamiliar or foreign
-> **peasant** — a poor farmer who works the land, usually in a historical context
+> **ancestral** — belonging to your family's past; your *ancestral village* is where your family has always lived
+> **filial** — belonging to a son or daughter; *filial duty* is what a child owes its parents. An *unfilial* son fails that duty
+> **go-between** — a person who carries messages between two families arranging a marriage
+> **merit** — in Mrs. Pan's belief, the credit a good action earns you in the next world
+> **barbarous** — uncivilised; what everyone calls the customs of people they do not understand
+> **courtesy** — polite, considerate behaviour; from *court*, where manners were learned
+> **tentative** — careful and uncertain; testing the ground before you step on it
 
+**Source:** Pearl S. Buck, "The Good Deed" (1953). The full story is in your text booklet — on paper only, because it is still in copyright. The paragraphs are numbered, so *§73* means the same sentence for everyone.
 
-**Source:** Pearl S. Buck, *The Good Earth* (1931). Opening three chapters (approximately 15 pages).
+Mr. Pan has saved his mother's life and cannot make her want it. She will not eat. She cannot tell the hot tap from the cold. She sits all day where she cannot see out. In desperation his wife calls a friend, Lili Yang — a social worker who speaks Chinese, twenty-seven years old and unmarried. Mrs. Pan is horrified. In this barbarous country, it seems, nobody arranges anything. So she decides to arrange it herself. Read it once and it is a comedy about a meddling old woman. Read it twice and it is a story about a woman who learns to look out of the window.
 
-The novel opens on Wang Lung's wedding day. He is a poor farmer who is to marry a slave from a wealthy house. He is nervous about whether she will be acceptable — whether she will be ugly or marked or broken. The novel opens on this anxiety, and moves, in the first three chapters, through the wedding day and the first days of the marriage.
+**Before reading:** Buck is quieter than Kipling. She does not build a creature in front of you; she lets you sit in a room with one. Watch the window. Every time someone looks out of it — or refuses to — make a mark in the margin.
 
-**Before reading:** Buck writes about rural poverty without sentimentality and without condescension. Pay attention to what she notices.
+**Read the story.** Then:
 
-**Read the opening chapters.** Then:
+1. Buck names Mrs. Pan's feelings only once or twice (*haunted with homesickness*, §4; *lonely*, §15). Most of the time she gives you things instead: ivory chopsticks brought from home, water that "tastes of metal and not of earth", two taps she cannot tell apart, a seat where she cannot see out (§7–16). List every such thing you can find. What does each one show that *she was homesick* cannot?
 
-1. Buck opens with Wang Lung preparing for his wedding. She describes his house, his father, his routine. What is the first object Buck describes? What does the choice of first object tell you about what this novel is going to be about?
+2. In §71 Mrs. Pan studies Lili's face: "This was not a pretty girl." In §167 James Lim looks at the same face and thinks the old woman "had not done her justice". Put the two looks side by side. What does each of them see — and what does each of them *want* while looking? Is anyone in this story interested in what Lili sees?
 
-2. O-Lan, Wang Lung's new wife, barely speaks in these opening chapters. She acts. Find three specific actions O-Lan takes that tell you who she is without Buck telling you directly. What does each action show?
+3. The title says *the* good deed, as if there were only one. Count them. Mrs. Pan's plan. Mr. Pan's secret telephone call (§154). Lili's first visit. Old Mr. Lim's last word (§189). Which one is the good deed? And is arranging another person's marriage a good deed at all — or does it depend on where you stand?
 
-3. Wang Lung thinks about the earth — his land — repeatedly in these chapters. Find his first description of it. What does the land mean to him? How does Buck show this without stating it?
+---
 
-**Close Reading: The Substantial World**
+### Close Reading: The Window
 
-*Step 1 — The physical inventory.*
-Buck describes objects with precise physical detail. Find five objects described in these chapters. For each: what is the object, and what does the way Buck describes it reveal about the person who owns or uses it?
+*Step 1 — The inventory of a room.*
+Find five objects in Mrs. Pan's room or the apartment around her: the satin coat, the magazine, the quilt, the curtain, the two bowls she brings home. For each: what is the object, and what does the way Buck places it show about the woman who owns it or refuses it? Then take out your three sentences from the start of the chapter. What did Buck do with her objects that you did not do with yours?
 
-*Step 2 — Silence as character.*
-O-Lan does not explain herself. She does not speak about her feelings. Yet by the end of Chapter 3 the reader has a clear impression of who she is. How does Buck build character without interiority?
+*Step 2 — The window.*
+In §16 Mrs. Pan sits "where she could not see out". In §114 she gazes into the street "really for the first time since she came". In §128 she crosses that street with her eyes shut tight; in §149 she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her. Trace the window through the story, paragraph by paragraph, and describe the change yourself — using only what she does.
 
-*Step 3 — Return to your three objects.*
-Compare your three opening sentences to the way Buck describes objects. What did she do that you did not do? What specific technique could you borrow?
+*Step 3 — Two languages in one room.*
+Mrs. Pan speaks no English. When her son and his wife quarrel in English (§113), she understands only that there is a quarrel. When the young people talk in English at the tea table (§168), she watches them and thinks: "So this was the way it was." A woman who cannot follow the words has to read the faces — the way Kipling reads a mongoose. Find one moment where Mrs. Pan reads a situation correctly without understanding a word of it. How does she do it?
+
+*Step 4 — The box and the garden, again.*
+Go back to *Rikki-Tikki-Tavi*: a house kept safe by a creature whose purpose is to keep the outside out. Now look at §116. Mrs. Pan asks for her window to be opened — the window she had kept shut "for fear she might be assailed by the foreign winds". Kipling's story protects a house from the world outside it. What does Buck's story do with the world outside? And notice what Nagaina and Mrs. Pan have in common: both have lost a home to strangers (§26). Nagaina fights to get hers back. What does Mrs. Pan do instead?
 
 ---
 
@@ -174,46 +183,58 @@ Compare your three opening sentences to the way Buck describes objects. What did
 
 ### Context for This Chapter
 
-John Steinbeck grew up in the Salinas Valley of California and spent time working as a labourer — picking fruit, working construction — before he became a writer. He knew what physical work felt like in the body. He knew what it felt like to be poor in a country that told you poverty was a personal failure.
+John Steinbeck grew up in the Salinas Valley of California and worked on its ranches before he became a writer. He knew what physical work felt like in the body — and he knew the valley the way you know the street you grew up on: every fence, every road along the river, every kind of weather.
 
-*The Grapes of Wrath* (1939) follows the Joad family as they drive from Oklahoma to California. The Dust Bowl has destroyed their farm. California is supposed to be better. It is not. The novel documents, with documentary precision and biblical rhythm, what displacement actually looks like — not as a political abstraction but as a specific family in a specific truck on a specific road.
+He is most famous for *The Grapes of Wrath* (1939), about a family driven off their farm by drought and poverty. He received the Nobel Prize in 1962, "for his realistic and imaginative writings, combining as they do sympathetic humour and keen social perception". But the story you are going to read has no poverty in it. Elisa Allen and her husband run a working ranch. They have enough. What Elisa does not have is harder to name — and Steinbeck, famously, never names it.
 
-Steinbeck received the Nobel Prize in 1962. The Nobel Committee cited "his realistic and imaginative writing, combining as it does sympathetic humour and keen social perception."
+"The Chrysanthemums" was first published in 1937 and collected a year later in *The Long Valley*. It is set on a single December afternoon, in the valley where Steinbeck grew up. Almost nothing happens. Read it slowly anyway.
+
+The flower in the title is worth a moment. *Chrysanthemum* comes from the Greek *chrysos*, gold, and *anthemon*, flower: the golden flower. Elisa grows hers enormous, ten inches across, bigger than anybody around. Watch how the people in the story describe them — and what each description is *for*.
+
+---
 
 ### Satellite Text 2
 
 > [!note] Before you read — key words
-> **displacement** — being forced to leave the place where you belong
-> **intercalary** — a chapter that pauses the story to describe general conditions (landscape, weather, society) rather than following the characters; Steinbeck uses these throughout *The Grapes of Wrath*
-> **biblical** — resembling the language or gravity of the Bible; solemn, rhythmic, carrying weight
-> **documentary** — recording actual events with precise, factual detail
-> **abstraction** — an idea not tied to any specific thing; something general and theoretical
+> **chrysanthemum** — a large autumn flower, from the Greek for *golden flower*
+> **stubble** — the short stalks left in a field after the harvest; also the short hairs on an unshaven face
+> **sets** — young shoots cut from a plant so they can grow roots and be planted on their own
+> **prairie schooner** — the covered wagon of American settlers; *schooner* is a sailing ship, and the wagon's white canvas looked like a sail
+> **teamster** — a man who drives a team of horses or mules for a living
+> **asperity** — harshness in the voice; a sharp, rough edge
+> **roadster** — a small open car with two seats
 
+**Source:** John Steinbeck, "The Chrysanthemums" (1937). The full story is in your text booklet — on paper only, because it is still in copyright. The paragraphs are numbered.
 
-**Source:** John Steinbeck, *The Grapes of Wrath* (1939). Chapter 1 (the Dust Bowl) and Chapter 3 (the turtle). Approximately 8 pages.
+A December afternoon on a ranch in the Salinas Valley. Elisa Allen, thirty-five, is cutting down last year's chrysanthemum stalks while her husband sells thirty head of cattle to two men in suits. He offers to take her into town for dinner. Then a wagon comes up the river road, driven by a big man who mends pots and sharpens scissors. He is off his road and short of money. She has no work for him — until he asks about her flowers. Read it once and it is a story in which almost nothing happens. Read it twice and it is a story about a woman who is seen, for twenty minutes, and then finds out what that was worth.
 
-*The Grapes of Wrath* has an unusual structure: intercalary chapters that describe the general landscape, weather, and social conditions alternate with chapters that follow the Joads specifically. Chapter 1 is an intercalary chapter. Chapter 3 is one of the most famous: a turtle crossing a road.
+**Before reading:** The first three paragraphs contain no people at all. Read them twice, slowly, before you go on. Before this chapter is over you will write a paragraph like them yourself.
 
-**Before reading:** The turtle chapter (Chapter 3) is not about the Joads. It is about a turtle. Read it as if it is only about a turtle. Then read it again.
+**Read the story.** Then:
 
-**Read both chapters.** Then:
+1. In §1–3 no person appears. List everything the fog, the plows, the willows and the wind *do*. Only two words in these paragraphs name a feeling: the farmers are "mildly hopeful", and the air is "cold and tender". One feeling belongs to people. Steinbeck gives the other to the air. Why would a writer this careful break his own rule — and why *there*?
 
-1. In Chapter 1, Steinbeck describes the Dust Bowl. He does not say it is terrible. He does not say it is wrong. He describes it. Find three specific physical details from this chapter. What do they show without saying?
+2. The man at the fence has come to sell a service. He looks at Elisa, then at the ground, then at the chrysanthemum bed (§51). He calls the flowers "a quick puff of colored smoke", and Elisa answers, "What a nice way to describe them" (§53–54). Now read §92: "Sand, ma'am?... Sand? Oh, sure." What did he actually see when he looked at the flowers? Is his looking a form of respect, or a form of power?
 
-2. The turtle in Chapter 3 is trying to cross a road. It is almost hit by a truck. A woman swerves to miss it. A man swerves to hit it. It keeps going. What does this chapter mean? Write your interpretation — and then: how does Steinbeck achieve that meaning without ever stating it?
+3. "Far ahead on the road Elisa saw a dark speck. She knew." (§110) What did she know? Steinbeck never uses the word *chrysanthemums* in the rest of the story. How does he make sure you know anyway — and what would be lost if he had said it?
 
-3. Steinbeck's prose has a biblical rhythm — long sentences that use repetition and *and*, like the King James Bible. Find a sentence that has this rhythm. Read it aloud. What does the rhythm do to the way the sentence feels?
+---
 
-**Close Reading: The Documentary Sentence**
+### Close Reading: The Fence
 
-*Step 1 — Observation without comment.*
-Steinbeck describes poverty without telling the reader how to feel about it. Find a sentence that describes something terrible without using an evaluative adjective. Rewrite the sentence with an evaluative adjective (*devastating, heartbreaking, tragic*). What changes?
+*Step 1 — Looking before judging.*
+Go through §5–8, before anyone speaks to Elisa. Find five physical details: her clothes, her hands, her tools, her house. For each: what is the detail, and what does it show about her *without telling you*? Steinbeck calls her fingers "terrier fingers" (§8). What does a terrier do?
 
-*Step 2 — The turtle as method.*
-Steinbeck uses the turtle to carry something larger. Describe precisely what the turtle carries — what it represents — without just saying "the Joads" or "hope." What specific aspect of the Joads' situation does the turtle's journey map?
+*Step 2 — The fence.*
+A wire fence "protected her flower garden from cattle and dogs and chickens" (§9). Henry leans over it. The stranger draws a finger down it "and made it sing" (§41), then comes through into the yard (§65). At the end, Elisa stands in front of it, watching the wagon go (§93). Map every crossing of the fence: who is inside, who is outside, who is let in, and by whom. Then ask Kipling's question of this garden too — *who is the garden for?*
 
-*Step 3 — Buck and Steinbeck.*
-Both writers describe poor rural people in physical detail without sentimentality. But Buck's world is China in the 1920s and Steinbeck's is America in the 1930s. Find one specific technique they share. Find one thing each does that the other does not.
+*Step 3 — Two words.*
+When Henry sees Elisa dressed for town, he has two words for her: *nice* and *strong* (§101–104). She throws both back at him. Why do two harmless words make her angry? Rewrite Henry's line so that he says what he actually sees in front of him — the way Steinbeck would have written it.
+
+*Step 4 — Two women, two crossings.*
+Old Mrs. Pan crosses a street with her eyes shut and comes back with them open. Elisa, in the car, "swung full around toward her husband so she could not see" — and "She did not look back" (§112–113). One woman learns to look; the other learns not to. What has each of them seen? And look at the very last words of Steinbeck's story (§124). Who is the old woman in *these* two stories — and who is weak?
+
+Then step back across the whole chapter. Kipling, Buck, Steinbeck: find one technique all three share. Find one thing each of them does that the other two do not.
 
 ---
 
