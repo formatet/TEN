@@ -25,7 +25,7 @@ Chapter One teaches you one thing: how to look.
 
 Not how to feel. Not how to interpret. How to *look* — at a physical object, at a face, at a landscape, at a moment — and describe what is actually there without decoration, sentimentality, or the distortion that comes from wanting the world to confirm what you already believe.
 
-The three writers in this chapter built their careers on looking. Kipling looked at an empire with love and clear eyes and described both the beauty and the damage, without fully resolving the contradiction. Buck looked at Chinese peasants at a time when no English-language writer had thought their lives were worth a novel. Steinbeck looked at American poverty and described it with the dignity it deserved.
+The three writers in this chapter built their careers on looking. Kipling looked at an empire with love and clear eyes and described both the beauty and the damage, without fully resolving the contradiction. Buck wrote about an old woman who will not look out of her window, and about the day she does. Steinbeck wrote about a woman who looks at a stranger across a fence, and who at the end turns her head so that she will not see.
 
 They are very different writers. They agree on one thing: the world outside your own experience deserves exact, patient attention — and that attention is the beginning of writing.
 
