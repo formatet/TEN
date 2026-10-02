@@ -36,7 +36,7 @@
     justShown = true;
 
     t.querySelector("a").onclick = function () {
-      try { window.umami && window.umami.track("wiktionary", { word: clean }); } catch (e) {}
+      try { window.umami && window.umami.track("wiktionary", { word: clean, page: location.pathname }); } catch (e) {}
     };
   }
 

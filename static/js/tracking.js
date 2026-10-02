@@ -41,6 +41,14 @@
     }
   });
 
+  // ── 3b. Internal link clicks — chapter → archive, chapter → gallery ──
+  document.addEventListener("click", function (e) {
+    const a = e.target.closest("article a[href^='/']");
+    if (a) {
+      track("internal-link", { from: location.pathname, to: a.getAttribute("href") });
+    }
+  });
+
   // ── 4. Time on page — fire when the page is hidden/closed ────────────
   //  visibilitychange + pagehide are reliable on Chrome/Chromebook where
   //  beforeunload is not (bfcache, backgrounded tabs).

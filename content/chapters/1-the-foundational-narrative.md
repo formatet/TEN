@@ -292,7 +292,7 @@ Three writers. Three different parts of the world. One shared conviction: that t
 
 Is looking — really looking, without sentiment — an act of respect? Or is it neutral? Or can looking be a form of power too?
 
-Kipling looked at India and loved it and also represented the empire that was destroying it. Buck looked at China as an outsider who had grown up inside it. Steinbeck looked at poor Americans as someone who had worked beside them.
+Kipling looked at India and loved it and also represented the empire that was destroying it. Buck, who had grown up in China and could never go back, looked at an old woman who could not go back either. Steinbeck looked at a woman on a ranch in the valley where he had grown up — and let a stranger at the fence do the looking for him.
 
 Does it matter where you stand when you look?
 
