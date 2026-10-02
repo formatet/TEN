@@ -10,4 +10,6 @@ She understood that language is not **neutral** — that every sentence inherits
 
 She received the Nobel Prize in 1993. In her Nobel Lecture, she said: *"Narrative is radical, creating us at the very moment it is being created."*
 
+***
+
 Her Nobel Lecture (1993) begins: "Once upon a time there was an old woman. Blind but wise." Read it, or hear her give it, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1993/morrison/lecture/).

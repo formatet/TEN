@@ -8,4 +8,6 @@ Doris Lessing grew up in Southern Rhodesia, the daughter of a farmer who had bee
 
 Lessing received the Nobel Prize in 2007, at eighty-seven. She heard the news on her doorstep and said, flatly: "Oh Christ." It is a sentence worth examining.
 
+***
+
 At eighty-eight she did not travel to Stockholm. Her Nobel Lecture (2007) was read there by her British publisher, Nicholas Pearson. It is called "On not winning the Nobel Prize", and it begins in a doorway in Zimbabwe, among people hungry for books. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2007/lessing/lecture/).

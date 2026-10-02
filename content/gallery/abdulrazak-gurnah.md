@@ -10,4 +10,6 @@ The **peripheral** experience — the refugee, the immigrant, the one who arrive
 
 He received the Nobel Prize in 2021. Many readers had never heard of him. The surprise was a form of proof.
 
+***
+
 His Nobel Lecture (2021) is called "Writing", and it begins: "Writing has always been a pleasure." It ends up somewhere harder — in what it meant to grow up with a colonised education in Zanzibar. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2021/gurnah/lecture/).

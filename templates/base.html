@@ -35,6 +35,16 @@
 ${nav_html}
     </nav>
   </aside>
+  <script>
+    // Keep the sidebar's scroll position between pages, so it does not jump to the top
+    (function () {
+      var s = document.querySelector(".sidebar");
+      try { var y = sessionStorage.getItem("sidebar-scroll"); if (y) s.scrollTop = +y; } catch (e) {}
+      window.addEventListener("pagehide", function () {
+        try { sessionStorage.setItem("sidebar-scroll", s.scrollTop); } catch (e) {}
+      });
+    })();
+  </script>
 
 ${toc_html}
   <main class="content" id="main">

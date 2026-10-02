@@ -8,4 +8,6 @@ His prose is **clinical** in the most precise sense of that word: the detachment
 
 He received the Nobel Prize in 2003. The year before, he had emigrated to Australia without public explanation. His **scrutiny**, which was always **incorruptible**, had always included himself.
 
+***
+
 His Nobel Lecture (2003) is not a lecture. It is a story, "He and His Man", about Robinson Crusoe and the writer who invented him. Coetzee read it aloud in Stockholm. Read it, or watch him, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2003/coetzee/lecture/).

@@ -10,4 +10,6 @@ His characters carry their history in their blood and their grammar. The way Ben
 
 He received the Nobel Prize in 1949. In his acceptance speech, he said a writer must never be afraid to write about courage, honour, hope, pride, compassion, pity, sacrifice. He said these are the old universal truths. He spent his life proving they were not simple.
 
+***
+
 He gave no Nobel Lecture, but his banquet speech (1950) is one of the most famous ever given there. It contains the sentence: "I decline to accept the end of man." Read it, or hear him, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/).

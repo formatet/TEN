@@ -10,4 +10,6 @@ Buck understood that the poor are not **peripheral**. They are the centre. The e
 
 She received the Nobel Prize in 1938. She was the first American woman to win it.
 
+***
+
 Her Nobel Lecture (1938) is called "The Chinese Novel". An American, speaking to the Swedish Academy, said that it was the Chinese novel, not the American one, that had made her a writer. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1938/buck/lecture/).

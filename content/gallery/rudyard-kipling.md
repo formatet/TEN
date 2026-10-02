@@ -12,4 +12,6 @@ He won the Nobel Prize in 1907, the first writer in English to do so.
 
 *Read the texts: [If—](/gallery/rudyard-kipling/if/) · [Rikki-Tikki-Tavi](/gallery/rudyard-kipling/rikki-tikki-tavi/).*
 
+***
+
 He gave no Nobel Lecture. NobelPrize.org notes that as a child he spoke English, Hindi and Portuguese — worth knowing when you meet the word *veranda*. Read about his prize at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1907/kipling/facts/).

@@ -10,4 +10,6 @@ Beckett said: *"Ever tried. Ever failed. No matter. Try again. Fail again. Fail 
 
 He received the Nobel Prize in 1969 "for his writing, which — in new forms for the novel and drama — in the destitution of modern man acquires its elevation."
 
+***
+
 He gave no Nobel Lecture and did not go to Stockholm; his publisher collected the prize. When the news came, his wife is said to have called it a catastrophe. Read about it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1969/beckett/facts/).

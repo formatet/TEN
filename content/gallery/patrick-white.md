@@ -10,4 +10,6 @@ He felt he had returned to a country that did not have the literary language to 
 
 He received the Nobel Prize in 1973, the only Australian to do so. He used the prize money to establish a literary award for young Australian writers.
 
+***
+
 He gave no Nobel Lecture and did not come to Stockholm. The painter Sidney Nolan read his speech (1973), which remembers a visit to the city at sixteen — where, he admits, he drank his first glass of wine. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1973/white/speech/).

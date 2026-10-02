@@ -8,4 +8,6 @@ The Forsytes do not do wrong in dramatic ways. They do wrong in the small, accum
 
 He received the Nobel Prize in 1932, awarded "for his distinguished art of narration which takes its highest form in *The Forsyte Saga*." He was too ill to attend the ceremony, and died a few weeks later, in January 1933.
 
+***
+
 He gave no Nobel Lecture. He was too ill to travel, and died seven weeks after the ceremony. Read about the prize, and *The Forsyte Saga* it was given for, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1932/galsworthy/facts/).
