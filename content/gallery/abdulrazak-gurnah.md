@@ -9,3 +9,5 @@ His novels are written in the **neutral** English of an educated man who learned
 The **peripheral** experience — the refugee, the immigrant, the one who arrived from somewhere else — is not peripheral in his work. It is where the twentieth century is most honestly visible.
 
 He received the Nobel Prize in 2021. Many readers had never heard of him. The surprise was a form of proof.
+
+*The Nobel Lecture (2021) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2021/gurnah/lecture/).*

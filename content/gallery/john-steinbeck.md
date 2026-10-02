@@ -9,3 +9,5 @@ John Steinbeck grew up in the Salinas Valley of California. He picked fruit as a
 Steinbeck's sentences are **stark**. They do not ask for your pity. They show you the turtle crossing the road and let you watch. They show you the dog killed by a car and move on. The world in this book has weight. It does not stop for grief.
 
 He received the Nobel Prize in 1962. He said: *"A writer who does not passionately believe in the perfectibility of man has no dedication nor any membership in literature."*
+
+*No Nobel Lecture was given. The banquet speech (1962) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1962/steinbeck/speech/).*

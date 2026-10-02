@@ -9,3 +9,5 @@ His novels are full of men who are too intelligent for their own happiness. They
 Bellow understood that the American intellectual comedy — the immigrant who mastered the culture and then found the culture insufficient — was one of the defining stories of the twentieth century. He told it with density, speed, and the rhythms of a mind that never stopped working.
 
 He received the Nobel Prize in 1976. The committee cited his "human understanding and subtle analysis of contemporary culture."
+
+*The Nobel Lecture (1976) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1976/bellow/lecture/).*

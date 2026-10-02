@@ -9,3 +9,5 @@ His most celebrated novel, *The Remains of the Day*, is narrated by Stevens, an 
 This is Ishiguro's central technique: the narrator who does not know what they are telling you. Stevens describes his own life with perfect grammar and total incomprehension of what he is describing, and you read both things simultaneously — the surface account and the subterranean truth — without his permission. It is the hardest effect in fiction to produce and one of the most devastating to experience.
 
 He received the Nobel Prize in 2017, awarded to a writer "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world."
+
+*The Nobel Lecture (2017) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2017/ishiguro/lecture/).*

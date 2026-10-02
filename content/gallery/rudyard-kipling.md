@@ -11,3 +11,5 @@ But look to the **horizon** of this world and it is an imperial one. An English 
 He won the Nobel Prize in 1907, the first writer in English to do so.
 
 *Read the texts: [If—](/gallery/rudyard-kipling/if/) · [Rikki-Tikki-Tavi](/gallery/rudyard-kipling/rikki-tikki-tavi/).*
+
+*No Nobel Lecture was given. The prize (1907) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1907/kipling/facts/).*

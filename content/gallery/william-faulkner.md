@@ -9,3 +9,5 @@ His sentences do not end. They fold back on themselves, accumulate, spiral. A si
 His characters carry their history in their blood and their grammar. The way Benjy Compson speaks in *The Sound and the Fury* is not a style choice. It is what trauma does to time.
 
 He received the Nobel Prize in 1949. In his acceptance speech, he said a writer must never be afraid to write about courage, honour, hope, pride, compassion, pity, sacrifice. He said these are the old universal truths. He spent his life proving they were not simple.
+
+*No Nobel Lecture was given. The banquet speech (1949) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/).*

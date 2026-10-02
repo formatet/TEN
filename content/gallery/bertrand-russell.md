@@ -7,3 +7,5 @@ Bertrand Russell was one of the most important philosophers of the twentieth cen
 His essays move with the ease of a mind that has genuinely understood something and wants you to understand it too. He does not condescend. He does not simplify. He trusts the reader to follow an argument if it is built carefully enough, and he builds his arguments with the patience of a mathematician who knows that one skipped step undoes everything.
 
 He was a pacifist, a campaigner for nuclear disarmament, and an atheist who wrote about religion with respect and without belief. He received the Nobel Prize in Literature in 1950 — not for philosophy, but for his writing on behalf of "humanitarian ideals and freedom of thought."
+
+*The Nobel Lecture (1950) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1950/russell/lecture/).*

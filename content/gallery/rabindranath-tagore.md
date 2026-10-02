@@ -9,3 +9,5 @@ In 1910 he began translating some of his own poems into English. He chose prose,
 His English is unlike any other English poet's. It sounds like a man speaking carefully in a language that was not built for what he needs to say. The images are concrete — vessels, rivers, lamps, dust — but they hold something **substantial** that the words only point toward.
 
 He received the Nobel Prize in 1913. He was the first non-European laureate. He later returned his British knighthood in protest against the Amritsar massacre of 1919.
+
+*No Nobel Lecture was given. The telegram read at the banquet (1913) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1913/tagore/speech/).*

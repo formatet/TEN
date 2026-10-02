@@ -9,3 +9,5 @@ Her novels do not offer the reader a comfortable distance. The white characters 
 She understood that **colonial** power does not only deform the colonised. It deforms the coloniser in quieter, harder-to-name ways. Her characters carry that deformation in the way they speak, the parties they attend, the silences they keep at dinner tables.
 
 She received the Nobel Prize in 1991. The apartheid government had banned several of her books. She kept writing.
+
+*The Nobel Lecture (1991) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1991/gordimer/lecture/).*

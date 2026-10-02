@@ -7,3 +7,5 @@ Winston Churchill saved his country with sentences. This is not a metaphor. In t
 His prose is **deliberate** architecture: Anglo-Saxon simplicity inside a formal Latinate frame, the short word beside the long, the plain statement beside the periodic sentence. He understood, as few politicians have, that rhetoric is not decoration but decision — that the sentence which cannot be doubted creates the action it describes.
 
 He received the Nobel Prize in Literature in 1953, for his historical writings. The committee praised his "mastery of historical and biographical description as well as for brilliant oratory." He was the only British prime minister to win it.
+
+*No Nobel Lecture was given. The banquet speech (1953) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1953/churchill/speech/).*

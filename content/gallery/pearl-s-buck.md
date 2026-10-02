@@ -9,3 +9,5 @@ When she wrote *The Good Earth*, she did not write about China from the outside.
 Buck understood that the poor are not **peripheral**. They are the centre. The earth they work is the **relentless** fact that everything else grows from.
 
 She received the Nobel Prize in 1938. She was the first American woman to win it.
+
+*The Nobel Lecture (1938) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1938/buck/lecture/).*

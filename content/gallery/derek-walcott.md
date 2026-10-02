@@ -7,3 +7,5 @@ Derek Walcott was born on the small Caribbean island of Saint Lucia, son of a ci
 He decided his island was the centre of the world and Homer was a local poet. *Omeros* — his most ambitious work — retells the *Iliad* and *Odyssey* with Saint Lucian fishermen as its heroes, the Caribbean Sea as its wine-dark water, the history of slavery as its wound that will not close. He did not borrow from Homer. He claimed him.
 
 His Nobel Prize in 1992 was awarded for "a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment." He was the first writer born in the English-speaking Caribbean to win it.
+
+*The Nobel Lecture (1992) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1992/walcott/lecture/).*

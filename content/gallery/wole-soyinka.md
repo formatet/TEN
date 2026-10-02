@@ -9,3 +9,5 @@ He writes in English because Nigeria gave him English as the language of educati
 He was imprisoned for two years during the Nigerian civil war for attempting to negotiate peace. He wrote poems in prison on toilet paper with a homemade pen. When the colonial rhetoric of civilisation and order is examined closely enough, it reveals itself as a system that imprisoned a man for trying to stop a war.
 
 He received the Nobel Prize in 1986, the first African to do so. The prize was awarded to a writer "who in a wide cultural perspective and with poetic overtones fashions the drama of existence."
+
+*The Nobel Lecture (1986) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1986/soyinka/lecture/).*

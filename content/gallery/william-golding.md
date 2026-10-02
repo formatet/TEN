@@ -9,3 +9,5 @@ A group of British schoolboys are stranded on an uninhabited island during a war
 Golding's great irony is that the novel makes this collapse feel **inevitable** — not because human beings are evil but because civilisation is thinner than we want to believe, and the boys are simply human beings without the structures that usually contain what human beings are. The horror is not exceptional. That is the horror.
 
 He received the Nobel Prize in 1983 for "novels which, with the perspicuity of realistic narrative art and the diversity and universality of myth, illuminate the human condition in the world of today."
+
+*The Nobel Lecture (1983) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1983/golding/lecture/).*

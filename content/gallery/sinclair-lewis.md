@@ -9,3 +9,5 @@ His prose is **vernacular** — it sounds like American speech, flat and precise
 *Main Street* and *Babbitt* are his best-known novels. They are comedies without a punchline. The joke is the life inside them.
 
 He received the Nobel Prize in 1930. He was the first American to win it. He said the prize was given to him because his books were useful criticisms of America. He was probably right.
+
+*The Nobel Lecture (1930) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1930/lewis/lecture/).*

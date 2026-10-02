@@ -9,3 +9,5 @@ His prose has what the Nobel committee called "incorruptible scrutiny" — a gaz
 *A House for Mr Biswas* is his warmest novel — a comedy of a man's lifelong, partially successful attempt to own a house, which is also the attempt to be a self, to leave a mark, to matter. It is a great book. Naipaul was not always a good man. The two facts coexist in his work without resolution, which is itself a form of honesty.
 
 He received the Nobel Prize in 2001 for "having united perceptive narrative and incorruptible scrutiny."
+
+*The Nobel Lecture (2001) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2001/naipaul/lecture/).*

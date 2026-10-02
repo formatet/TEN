@@ -9,3 +9,5 @@ Her poems are short and cold and exact. She writes about a garden the way anothe
 She uses the word *you* the way a surgeon uses a scalpel: precisely, without warning, and aimed directly at something soft. You do not always know if she is speaking to God or to you or to herself. She does not explain.
 
 She received the Nobel Prize in 2020 and died in 2023. The committee called her voice "unmistakable." They were right.
+
+*The Nobel Lecture (2020) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2020/gluck/lecture/).*

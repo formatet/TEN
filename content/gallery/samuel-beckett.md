@@ -9,3 +9,5 @@ Samuel Beckett was an Irishman who chose to write in French so that he would be 
 Beckett said: *"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."* This is not optimism. It is something more **incorruptible** than optimism: a refusal to pretend that success and failure are the only two options.
 
 He received the Nobel Prize in 1969 "for his writing, which — in new forms for the novel and drama — in the destitution of modern man acquires its elevation."
+
+*No Nobel Lecture was given. The prize (1969) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1969/beckett/facts/).*

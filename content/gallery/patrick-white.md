@@ -9,3 +9,5 @@ He felt he had returned to a country that did not have the literary language to 
 *Voss* follows a German explorer attempting to cross the Australian continent in the nineteenth century. The continent defeats him. It does not do so with violence. It does so with its **relentless** refusal to be what a European mind requires it to be.
 
 He received the Nobel Prize in 1973, the only Australian to do so. He used the prize money to establish a literary award for young Australian writers.
+
+*No Nobel Lecture was given. The banquet speech (1973) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1973/white/speech/).*

@@ -9,3 +9,5 @@ His Nobel Prize in 2016 divided opinion sharply, which was appropriate: his work
 What is not in question is his command of the rhetorical traditions he drew on: the protest ballad, the biblical cadence, the **vernacular** American lyric, the **oblique** statement that means something entirely different from what it says. *Blowin' in the Wind* is a series of rhetorical questions that refuse to be answered. That refusal is the argument.
 
 He received the Nobel Prize in Literature in 2016. He did not attend the ceremony.
+
+*The Nobel Lecture (2016) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2016/dylan/lecture/).*
