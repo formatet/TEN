@@ -8,4 +8,4 @@ His plays are built from that gap. A man is questioned in his room by two strang
 
 He received the Nobel Prize in 2005. His acceptance speech — "Art, Truth and Politics" — is one of the most direct political statements ever made in a Nobel lecture. He said that political language is designed to hide reality, not describe it, and that the writer's task is to "find the truth" which is "elusive" and "often difficult to locate." He said this in a speech that was itself a model of how to locate it.
 
-*He was too ill to travel to Stockholm. His Nobel Lecture from 2005 was filmed in advance and shown there on a screen. You can watch it, or read it, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2005/pinter/lecture/).*
+He was too ill to travel to Stockholm, so his Nobel Lecture (2005) was filmed in advance and shown on a screen. It is called "Art, Truth & Politics", and it turns from the theatre to the invasion of Iraq. Watch it, or read it, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2005/pinter/lecture/).

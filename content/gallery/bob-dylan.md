@@ -10,4 +10,4 @@ What is not in question is his command of the rhetorical traditions he drew on: 
 
 He received the Nobel Prize in Literature in 2016. He did not attend the ceremony.
 
-*His Nobel Lecture is a recording he made in 2017. You can listen to it, or read it, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2016/dylan/lecture/).*
+His Nobel Lecture is a recording he made in 2017, six months after the ceremony. In it he talks about three books he read at school: *Moby Dick*, *All Quiet on the Western Front* and *The Odyssey*. Listen to it, or read it, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2016/dylan/lecture/).

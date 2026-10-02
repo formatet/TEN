@@ -10,4 +10,4 @@ He was imprisoned for two years during the Nigerian civil war for attempting to 
 
 He received the Nobel Prize in 1986, the first African to do so. The prize was awarded to a writer "who in a wide cultural perspective and with poetic overtones fashions the drama of existence."
 
-*You can read his Nobel Lecture from 1986 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1986/soyinka/lecture/).*
+His Nobel Lecture (1986), "This Past Must Address Its Present", is an attack on apartheid South Africa, given while Nelson Mandela was still in prison. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1986/soyinka/lecture/).

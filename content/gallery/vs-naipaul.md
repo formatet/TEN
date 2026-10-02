@@ -10,4 +10,4 @@ His prose has what the Nobel committee called "incorruptible scrutiny" — a gaz
 
 He received the Nobel Prize in 2001 for "having united perceptive narrative and incorruptible scrutiny."
 
-*You can read his Nobel Lecture from 2001 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2001/naipaul/lecture/).*
+His Nobel Lecture (2001), "Two Worlds", opens: "I have given readings and not lectures… I have no lecture to give." Then he gave one. Read it, or watch him, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2001/naipaul/lecture/).

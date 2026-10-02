@@ -10,4 +10,4 @@ Bellow understood that the American intellectual comedy — the immigrant who ma
 
 He received the Nobel Prize in 1976. The committee cited his "human understanding and subtle analysis of contemporary culture."
 
-*You can read his Nobel Lecture from 1976 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1976/bellow/lecture/).*
+His Nobel Lecture (1976) begins with a confession: as a "very contrary undergraduate" he skipped *Money and Banking* to read Joseph Conrad. He never regretted it. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1976/bellow/lecture/).

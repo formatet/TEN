@@ -10,4 +10,4 @@ She understood that **colonial** power does not only deform the colonised. It de
 
 She received the Nobel Prize in 1991. The apartheid government had banned several of her books. She kept writing.
 
-*You can read her Nobel Lecture from 1991 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1991/gordimer/lecture/).*
+Her Nobel Lecture (1991), "Writing and Being", begins: "In the beginning was the Word." She gave it the year apartheid's laws began to fall. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1991/gordimer/lecture/).

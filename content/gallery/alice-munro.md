@@ -10,4 +10,4 @@ The women in her stories carry, with **impassive** precision, the weight of choi
 
 She received the Nobel Prize in 2013, described as "master of the contemporary short story." She died in 2024.
 
-*She was too frail to travel to Stockholm. In place of a Nobel Lecture she gave a filmed conversation, "In Her Own Words" (2013). You can watch it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2013/munro/lecture/).*
+At eighty-two she was too frail to travel to Stockholm. In place of a lecture she gave a filmed conversation, "In Her Own Words" (2013). It starts with the first story she remembers being read to her — Andersen's "The Little Mermaid", which she found "dreadfully sad". Watch it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2013/munro/lecture/).

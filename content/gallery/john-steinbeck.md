@@ -10,4 +10,4 @@ Steinbeck's sentences are **stark**. They do not ask for your pity. They show yo
 
 He received the Nobel Prize in 1962. He said: *"A writer who does not passionately believe in the perfectibility of man has no dedication nor any membership in literature."*
 
-*He did not give a Nobel Lecture. You can read his banquet speech from 1962 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1962/steinbeck/speech/).*
+He gave no Nobel Lecture, but he came to the banquet (1962) and opened his speech in Swedish: "Min vackra fru" — my beautiful wife. Read it, or watch him give it, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1962/steinbeck/speech/).

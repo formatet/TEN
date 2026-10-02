@@ -8,4 +8,4 @@ His dialogue is **incorruptible** in its sharpness: every character speaks exact
 
 He received the Nobel Prize in 1925. He was reluctant — "I can forgive Alfred Nobel for inventing dynamite, but only a fiend in human form could have invented the Nobel Prize" — and called the money "a lifebelt thrown to a swimmer who has already reached the shore in safety." He accepted the honour, refused the money, and had it used to fund translations of Swedish literature into English.
 
-*He did not give a Nobel Lecture. You can read about his prize from 1925 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1925/shaw/facts/).*
+He gave no Nobel Lecture. The prize for 1925 was held over and awarded only in 1926. Read about it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1925/shaw/facts/).

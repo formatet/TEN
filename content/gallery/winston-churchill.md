@@ -8,4 +8,4 @@ His prose is **deliberate** architecture: Anglo-Saxon simplicity inside a formal
 
 He received the Nobel Prize in Literature in 1953, for his historical writings. The committee praised his "mastery of historical and biographical description as well as for brilliant oratory." He was the only British prime minister to win it.
 
-*He did not give a Nobel Lecture, and he was not at the banquet: his speech from 1953 was read for him by his wife, Clementine. You can read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1953/churchill/speech/).*
+He gave no Nobel Lecture and was not at the banquet; his wife, Clementine, read his speech (1953). In it he tells the Academy: "I feel we are both running a considerable risk." Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1953/churchill/speech/).

@@ -8,4 +8,4 @@ His early poetry finds its **pastoral** grammar in bogs, wells, and the small ar
 
 His Nobel Prize came in 1995. The committee praised his "lyrical beauty and ethical depth." He understood those two terms as a problem, not a praise. The beauty, he knew, could not be fully innocent of the wound it named.
 
-*You can read his Nobel Lecture from 1995 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1995/heaney/lecture/).*
+His Nobel Lecture (1995), "Crediting Poetry", begins in a three-room thatched farmhouse in County Derry, where a boy first heard the name *Stockholm* on the wireless. Read it, or hear him give it, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1995/heaney/lecture/).

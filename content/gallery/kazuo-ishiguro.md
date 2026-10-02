@@ -10,4 +10,4 @@ This is Ishiguro's central technique: the narrator who does not know what they a
 
 He received the Nobel Prize in 2017, awarded to a writer "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world."
 
-*You can read his Nobel Lecture from 2017 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2017/ishiguro/lecture/).*
+His Nobel Lecture (2017), "My Twentieth Century Evening – and Other Small Breakthroughs", begins in 1979 with a young man nobody could place: Japanese features, hair to his shoulders, a drooping bandit moustache. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2017/ishiguro/lecture/).

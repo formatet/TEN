@@ -10,4 +10,4 @@ She uses the word *you* the way a surgeon uses a scalpel: precisely, without war
 
 She received the Nobel Prize in 2020 and died in 2023. The committee called her voice "unmistakable." They were right.
 
-*Her Nobel Lecture was recorded in Berkeley, California, in 2023, three years after the prize. You can read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2020/gluck/lecture/).*
+Her Nobel Lecture was recorded in Berkeley in 2023, three years after the prize and months before her death. It begins with a contest she staged in her head at five or six to find the greatest poem in the world. Read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2020/gluck/lecture/).
