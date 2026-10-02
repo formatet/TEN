@@ -8,4 +8,4 @@ Thomas Stearns Eliot was born in St. Louis, Missouri, educated at Harvard and Ox
 
 His Nobel Prize in 1948 was awarded for "outstanding, pioneer contribution to present-day poetry." He is introduced briefly in Chapter Two of this course as the limit of what Year One can hold. He belongs here, in the chapter about what language does when it stops pretending to be whole.
 
-*No Nobel Lecture was given. The banquet speech (1948) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1948/eliot/speech/).*
+*He did not give a Nobel Lecture. You can read his banquet speech from 1948 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1948/eliot/speech/).*

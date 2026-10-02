@@ -8,4 +8,4 @@ He decided his island was the centre of the world and Homer was a local poet. *O
 
 His Nobel Prize in 1992 was awarded for "a poetic oeuvre of great luminosity, sustained by a historical vision, the outcome of a multicultural commitment." He was the first writer born in the English-speaking Caribbean to win it.
 
-*The Nobel Lecture (1992) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1992/walcott/lecture/).*
+*You can read his Nobel Lecture from 1992 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1992/walcott/lecture/).*

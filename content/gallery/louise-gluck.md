@@ -10,4 +10,4 @@ She uses the word *you* the way a surgeon uses a scalpel: precisely, without war
 
 She received the Nobel Prize in 2020 and died in 2023. The committee called her voice "unmistakable." They were right.
 
-*The Nobel Lecture (2020) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2020/gluck/lecture/).*
+*You can read her Nobel Lecture from 2020 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2020/gluck/lecture/).*

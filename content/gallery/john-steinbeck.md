@@ -10,4 +10,4 @@ Steinbeck's sentences are **stark**. They do not ask for your pity. They show yo
 
 He received the Nobel Prize in 1962. He said: *"A writer who does not passionately believe in the perfectibility of man has no dedication nor any membership in literature."*
 
-*No Nobel Lecture was given. The banquet speech (1962) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1962/steinbeck/speech/).*
+*He did not give a Nobel Lecture. You can read his banquet speech from 1962 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1962/steinbeck/speech/).*

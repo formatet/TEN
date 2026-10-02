@@ -8,4 +8,4 @@ His essays in English are written in a prose that is visibly translated from Rus
 
 He received the Nobel Prize in 1987 for "an all-embracing authorship, imbued with clarity of thought and poetic intensity." He served as United States Poet Laureate in 1991. He died at fifty-five.
 
-*The Nobel Lecture (1987) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1987/brodsky/lecture/).*
+*You can read his Nobel Lecture from 1987 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1987/brodsky/lecture/).*

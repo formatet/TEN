@@ -10,4 +10,4 @@ Buck understood that the poor are not **peripheral**. They are the centre. The e
 
 She received the Nobel Prize in 1938. She was the first American woman to win it.
 
-*The Nobel Lecture (1938) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1938/buck/lecture/).*
+*You can read her Nobel Lecture from 1938 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1938/buck/lecture/).*

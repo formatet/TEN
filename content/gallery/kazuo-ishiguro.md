@@ -10,4 +10,4 @@ This is Ishiguro's central technique: the narrator who does not know what they a
 
 He received the Nobel Prize in 2017, awarded to a writer "who, in novels of great emotional force, has uncovered the abyss beneath our illusory sense of connection with the world."
 
-*The Nobel Lecture (2017) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2017/ishiguro/lecture/).*
+*You can read his Nobel Lecture from 2017 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2017/ishiguro/lecture/).*

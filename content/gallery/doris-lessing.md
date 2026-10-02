@@ -8,4 +8,4 @@ Doris Lessing grew up in Southern Rhodesia, the daughter of a farmer who had bee
 
 Lessing received the Nobel Prize in 2007, at eighty-seven. She heard the news on her doorstep and said, flatly: "Oh Christ." It is a sentence worth examining.
 
-*The Nobel Lecture (2007) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2007/lessing/lecture/).*
+*You can read her Nobel Lecture from 2007 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2007/lessing/lecture/).*

@@ -8,4 +8,4 @@ His essays move with the ease of a mind that has genuinely understood something 
 
 He was a pacifist, a campaigner for nuclear disarmament, and an atheist who wrote about religion with respect and without belief. He received the Nobel Prize in Literature in 1950 — not for philosophy, but for his writing on behalf of "humanitarian ideals and freedom of thought."
 
-*The Nobel Lecture (1950) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1950/russell/lecture/).*
+*You can read his Nobel Lecture from 1950 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1950/russell/lecture/).*

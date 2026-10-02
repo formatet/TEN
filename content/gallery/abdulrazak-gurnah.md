@@ -10,4 +10,4 @@ The **peripheral** experience — the refugee, the immigrant, the one who arrive
 
 He received the Nobel Prize in 2021. Many readers had never heard of him. The surprise was a form of proof.
 
-*The Nobel Lecture (2021) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2021/gurnah/lecture/).*
+*You can read his Nobel Lecture from 2021 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2021/gurnah/lecture/).*

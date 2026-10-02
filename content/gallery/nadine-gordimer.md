@@ -10,4 +10,4 @@ She understood that **colonial** power does not only deform the colonised. It de
 
 She received the Nobel Prize in 1991. The apartheid government had banned several of her books. She kept writing.
 
-*The Nobel Lecture (1991) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1991/gordimer/lecture/).*
+*You can read her Nobel Lecture from 1991 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1991/gordimer/lecture/).*

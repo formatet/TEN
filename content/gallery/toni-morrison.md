@@ -10,4 +10,4 @@ She understood that language is not **neutral** — that every sentence inherits
 
 She received the Nobel Prize in 1993. In her Nobel Lecture, she said: *"Narrative is radical, creating us at the very moment it is being created."*
 
-*The Nobel Lecture (1993) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1993/morrison/lecture/).*
+*You can read her Nobel Lecture from 1993 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1993/morrison/lecture/).*

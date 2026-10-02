@@ -10,4 +10,4 @@ He was imprisoned for two years during the Nigerian civil war for attempting to 
 
 He received the Nobel Prize in 1986, the first African to do so. The prize was awarded to a writer "who in a wide cultural perspective and with poetic overtones fashions the drama of existence."
 
-*The Nobel Lecture (1986) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1986/soyinka/lecture/).*
+*You can read his Nobel Lecture from 1986 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1986/soyinka/lecture/).*

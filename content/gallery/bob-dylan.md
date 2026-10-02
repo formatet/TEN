@@ -10,4 +10,4 @@ What is not in question is his command of the rhetorical traditions he drew on: 
 
 He received the Nobel Prize in Literature in 2016. He did not attend the ceremony.
 
-*The Nobel Lecture (2016) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2016/dylan/lecture/).*
+*You can read his Nobel Lecture from 2016 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2016/dylan/lecture/).*

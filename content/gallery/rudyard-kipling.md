@@ -12,4 +12,4 @@ He won the Nobel Prize in 1907, the first writer in English to do so.
 
 *Read the texts: [If—](/gallery/rudyard-kipling/if/) · [Rikki-Tikki-Tavi](/gallery/rudyard-kipling/rikki-tikki-tavi/).*
 
-*No Nobel Lecture was given. The prize (1907) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1907/kipling/facts/).*
+*He did not give a Nobel Lecture. You can read about his prize from 1907 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1907/kipling/facts/).*

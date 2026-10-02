@@ -10,4 +10,4 @@ Bellow understood that the American intellectual comedy — the immigrant who ma
 
 He received the Nobel Prize in 1976. The committee cited his "human understanding and subtle analysis of contemporary culture."
 
-*The Nobel Lecture (1976) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1976/bellow/lecture/).*
+*You can read his Nobel Lecture from 1976 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1976/bellow/lecture/).*
