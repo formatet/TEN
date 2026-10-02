@@ -23,7 +23,7 @@ Before all of that: the world. As it actually is. The weight of it. The texture 
 
 Chapter One teaches you one thing: how to look.
 
-Not how to feel. Not how to interpret. How to *look* — at a physical object, at a face, at a landscape, at a moment — and describe what is actually there without decoration, sentimentality, or the distortion that comes from wanting the world to confirm what you already believe.
+Not what to feel. Not what to conclude before you have looked. First, how to *look* — at a physical object, at a face, at a landscape, at a moment — and describe what is actually there without decoration, sentimentality, or the distortion that comes from wanting the world to confirm what you already believe.
 
 The three writers in this chapter built their careers on looking. Kipling looked at an empire with love and clear eyes and described both the beauty and the damage, without fully resolving the contradiction. Buck wrote about an old woman who will not look out of her window, and about the day she does. Steinbeck wrote about a woman who looks at a stranger across a fence, and who at the end turns her head so that she will not see.
 
@@ -68,7 +68,7 @@ He received the Nobel Prize in 1907, the first writer in English to win it and, 
 
 ---
 
-### The Anchor Text
+### The Story: *Rikki-Tikki-Tavi*
 
 > [!note] Before you read — key words
 > **cantonment** — a permanent military station for troops, especially in British India
@@ -89,9 +89,9 @@ This is not the only Kipling you will meet, but it is the right place to start. 
 
 **Read the story.** Then:
 
-1. Before the plot moves an inch, Kipling builds the mongoose in front of you — the fur, the tail, the pink nose, the scratching, the war-cry. List every physical detail in that opening description. What does Kipling notice that a lazy writer would skip? And what do those details let you know about Rikki's *nature* without Kipling ever once naming it?
+1. Before the plot moves an inch, Kipling builds the mongoose in front of you — the fur, the tail, the pink nose, the scratching, the war-cry. List every physical detail in that opening description. What does Kipling notice that a hurried observer would miss? And what do those details let you know about Rikki's *nature* without Kipling ever once naming it?
 
-2. Nag and Nagaina are the enemy — and yet Kipling gives them voices, fear, and a reason: they were "king and queen of the garden" before the people came, and they want it back for their own children. Find the moment Nagaina explains why the family must die. Is she *wrong*? What does the story gain by letting the enemy make sense — and what does it quietly risk?
+2. Nag and Nagaina are the enemy — and yet Kipling gives them voices, fear, and a reason: they were "king and queen of the garden" before the people came, and they want it back for their own children. Find the moment Nagaina explains why the family must die. Is she *wrong*? What becomes less simple when the enemy makes sense?
 
 3. *If—* tells you that the mark of a real person is the ability to keep your head while the world falls apart, to hold on without losing yourself. Rikki-tikki holds on — literally, teeth locked on Nag's neck in the dark bathroom, being smashed against the walls. Is this the same kind of steadiness Kipling is praising in the poem? Or is there something different happening in the story — something the poem's calm speaker never has to face?
 
@@ -103,7 +103,7 @@ This is not the only Kipling you will meet, but it is the right place to start. 
 Find five physical details Kipling gives about Rikki-tikki before his first fight with Nag. For each: what is the detail, and what does it show about the animal *without telling you*? This is the same muscle you used on your three objects at the start of the chapter — Kipling is just stronger at it.
 
 *Step 2 — The box and the garden.*
-The story never says a single political word. But look at how its world is built: an English house, ordered and lamplit, with bathrooms and a veranda and a child asleep inside — and around it a garden, half-wild, thick with grass and danger, where the old owners still live underground. Inside, civilisation. Outside, the thing civilisation is afraid of. And between them, one small creature whose entire purpose is to keep the outside out. Describe that arrangement plainly: who is inside, who is outside, who protects whom. Then ask the question the story never asks itself — *who is the garden for?*
+The story never says a single political word. But look at how its world is built: an English house, ordered and lamplit, with bathrooms and a veranda and a child asleep inside — and around it a garden, half-wild, thick with grass and danger, where the cobras who call themselves its king and queen still live underground. One way to read that arrangement: inside, civilisation; outside, the thing civilisation is afraid of; and between them, one small creature whose purpose is to keep the outside out. Test that reading against the story. Describe the arrangement plainly: who is inside, who is outside, who protects whom. Where does the reading hold — and where does the story resist it? Then ask the question the story never asks itself — *who is the garden for?*
 
 Now consider: in *Kim*, Kipling's hero is a child who belongs to *both* worlds — European by blood, Indian by upbringing, trusted by neither side, essential to both. What would change in *Rikki-Tikki-Tavi* if the mongoose could ask the same question Kim asks: *Who is my father?* What kind of story would it become?
 
@@ -111,7 +111,9 @@ Now consider: in *Kim*, Kipling's hero is a child who belongs to *both* worlds �
 > You already know this word — it is Swedish too. Look at it again anyway. Where does Nagaina come to kill (§86–100)? And where did English find the word? [The Archive: veranda](/archive/chapter-1/)
 
 *Step 3 — The people in the garden.*
-Step 2 asked who the garden is for. Now count who is actually in it. Make a list of every human being in this story — everyone, named or not — and write down beside each one what they do. Two are easy to miss. One appears twice, and both times he is carrying Nag's body out to the rubbish-heap: the story calls him *the sweeper* and gives him no name, no line, and no place in Darzee's victory song, which hands the credit to "the big man" with the gun and to Rikki. The other is not in the garden at all. Read again the sentence about Rikki's mother on the morning of the first breakfast — where she used to live, and what she had carefully taught her son to do if he ever came across white men. A mongoose is not born a house-mongoose. He is raised into it, one generation after the last. Now look at your list, and ask who does the work in this house, who gets the song, and who taught whom to belong.
+Step 2 asked who the garden is for. Now count who is actually in it. Make a list of every human being in this story — everyone, named or not — and write down beside each one what they do. **Make the list before you read on.**
+
+Two are easy to miss. One appears twice, and both times he is carrying Nag's body out to the rubbish-heap: the story calls him *the sweeper* and gives him no name, no line, and no place in Darzee's victory song, which hands the credit to "the big man" with the gun and to Rikki. The other is not in the garden at all. Read again the sentence about Rikki's mother on the morning of the first breakfast — where she used to live, and what she had carefully taught her son to do if he ever came across white men. A mongoose is not born a house-mongoose. He is raised into it, one generation after the last. Now look at your list, and ask who does the work in this house, who gets the song, and who taught whom to belong.
 
 > [!tip] Instrument: PERIPHERAL
 > The sweeper is in the story and outside it at once. There is a word for where he stands. [The Archive: peripheral](/archive/chapter-1/)
@@ -143,7 +145,7 @@ The title is worth a moment. A *deed* is simply a thing done — the word is a c
 
 ---
 
-### Satellite Text 1
+### The Story: "The Good Deed"
 
 > [!note] Before you read — key words
 > **ancestral** — belonging to your family's past; your *ancestral village* is where your family has always lived
@@ -185,7 +187,7 @@ In §16 Mrs. Pan sits "where she could not see out". In §114 she gazes into the
 Mrs. Pan speaks no English. When her son and his wife quarrel in English (§113), she understands only that there is a quarrel. When the young people talk in English at the tea table (§168), she watches them and thinks: "So this was the way it was." A woman who cannot follow the words has to read the faces — the way Kipling reads a mongoose. Find one moment where Mrs. Pan reads a situation correctly without understanding a word of it. How does she do it?
 
 *Step 4 — The box and the garden, again.*
-Go back to *Rikki-Tikki-Tavi*: a house kept safe by a creature whose purpose is to keep the outside out. Now look at §116. Mrs. Pan asks for her window to be opened — the window she had kept shut "for fear she might be assailed by the foreign winds". Kipling's story protects a house from the world outside it. What does Buck's story do with the world outside? And notice what Nagaina and Mrs. Pan have in common: both have lost a home to strangers (§26). Nagaina fights to get hers back. What does Mrs. Pan do instead?
+Go back to *Rikki-Tikki-Tavi*: a house kept safe by a creature whose purpose is to keep the outside out. Now look at §116. Mrs. Pan asks for her window to be opened — the window she had kept shut "for fear she might be assailed by the foreign winds". Kipling's story protects a house from the world outside it. What does Buck's story do with the world outside? And notice what Nagaina and Mrs. Pan have in common: both have lost a home to strangers (§26). Nagaina fights to get hers back. What does Mrs. Pan do instead? And how far does the comparison hold — where does it break?
 
 ---
 
@@ -205,7 +207,7 @@ The flower in the title is worth a moment. *Chrysanthemum* comes from the Greek 
 
 ---
 
-### Satellite Text 2
+### The Story: "The Chrysanthemums"
 
 > [!note] Before you read — key words
 > **chrysanthemum** — a large autumn flower, from the Greek for *golden flower*
@@ -231,7 +233,7 @@ A December afternoon on a ranch in the Salinas Valley. Elisa Allen, thirty-five,
 3. "Far ahead on the road Elisa saw a dark speck. She knew." (§110) What did she know? Steinbeck never uses the word *chrysanthemums* in the rest of the story. How does he make sure you know anyway — and what would be lost if he had said it?
 
 > [!tip] Instrument: DETACHED
-> A narrator who in §1–3 records the fog and names almost no feeling: is he cold? No. There is a better word, and the difference matters. [The Archive: detached](/archive/chapter-1/)
+> A narrator who in §1–3 records the fog and names almost no feeling. Is he cold? Indifferent? Detached? Choose one before you open the Archive — and say what the other two words would accuse him of. [The Archive: detached](/archive/chapter-1/)
 
 ---
 
@@ -260,11 +262,11 @@ Then step back across the whole chapter. Kipling, Buck, Steinbeck: find one tech
 
 ## The Writing Task
 
-This is the first major writing task of the course. It is designed to feel achievable and to expose exactly where the difficulty is.
+This task is practice, not a test. It is designed to feel achievable and to expose exactly where the difficulty is.
 
 **The task:**
 
-Choose one person from your own life — not a family member — whom you have watched doing something. It could be anyone: a neighbour, a teacher, a stranger on a bus, someone at work.
+Choose one person from your own life — not a family member — whom you have watched doing something. It could be anyone: a neighbour, a stranger on a bus, someone at work, someone behind a counter. Leave out names, and change any detail that would let a reader recognise them.
 
 Write 150–200 words describing them doing the thing you watched. The rules:
 
@@ -276,6 +278,8 @@ Write 150–200 words describing them doing the thing you watched. The rules:
 When you have written 150–200 words: read it back. Circle every word that tells the reader what to feel or think. Replace each circled word with a word that shows something physical.
 
 **Final step:** Read your revised version to a partner. Ask: who is this person? What do you know about them? What do you not know?
+
+**What comes next:** The writing test at the end of the chapter asks for the same discipline, turned on a place. You will describe somewhere you know before any person enters it — the way Steinbeck opens "The Chrysanthemums" (§1–3).
 
 ---
 
