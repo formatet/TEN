@@ -8,4 +8,4 @@ Eugene O'Neill grew up in a theatre trunk. His father was a famous actor who tou
 
 O'Neill brought a European seriousness to the American stage — Ibsen's moral rigour, Strindberg's psychological violence — and applied it to a country that preferred its theatre cheerful. He received the Nobel Prize in 1936. He did not attend the ceremony. He was ill, or said he was.
 
-*He did not give a Nobel Lecture. You can read his banquet speech from 1936 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1936/oneill/speech/).*
+*He did not give a Nobel Lecture, and he was not at the banquet: his speech from 1936 was read for him by an American diplomat. You can read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1936/oneill/speech/).*

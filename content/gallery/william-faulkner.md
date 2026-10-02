@@ -10,4 +10,4 @@ His characters carry their history in their blood and their grammar. The way Ben
 
 He received the Nobel Prize in 1949. In his acceptance speech, he said a writer must never be afraid to write about courage, honour, hope, pride, compassion, pity, sacrifice. He said these are the old universal truths. He spent his life proving they were not simple.
 
-*He did not give a Nobel Lecture. You can read his banquet speech from 1949 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/).*
+*He did not give a Nobel Lecture. You can read his banquet speech from 1950 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1949/faulkner/speech/).*

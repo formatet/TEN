@@ -10,4 +10,4 @@ The women in her stories carry, with **impassive** precision, the weight of choi
 
 She received the Nobel Prize in 2013, described as "master of the contemporary short story." She died in 2024.
 
-*You can watch her Nobel Lecture from 2013, a filmed conversation, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2013/munro/lecture/).*
+*She was too frail to travel to Stockholm. In place of a Nobel Lecture she gave a filmed conversation, "In Her Own Words" (2013). You can watch it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2013/munro/lecture/).*

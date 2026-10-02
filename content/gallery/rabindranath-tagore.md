@@ -10,4 +10,4 @@ His English is unlike any other English poet's. It sounds like a man speaking ca
 
 He received the Nobel Prize in 1913. He was the first non-European laureate. He later returned his British knighthood in protest against the Amritsar massacre of 1919.
 
-*He did not give a Nobel Lecture. You can read the telegram he sent to the Nobel banquet in 1913 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1913/tagore/speech/).*
+*He was not in Stockholm and did not give a Nobel Lecture. You can read the telegram he sent to the Nobel banquet in 1913 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1913/tagore/speech/).*

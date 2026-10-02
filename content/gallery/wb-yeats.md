@@ -10,4 +10,4 @@ His early poems are soft and dreamlike. His later poems are hard. They have **st
 
 He received the Nobel Prize in 1923. He spent part of it renovating a Norman tower in County Galway. He called it Thoor Ballylee. He wrote poems there about time and ruin.
 
-*You can read his Nobel Lecture from 1923 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1923/yeats/lecture/).*
+*He gave his Nobel Lecture in 1923 and said he wrote it down afterwards, from memory. You can read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1923/yeats/lecture/).*

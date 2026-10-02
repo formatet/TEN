@@ -10,4 +10,4 @@ This is the iceberg theory: the story works because of what is below the surface
 
 He received the Nobel Prize in 1954. The prize committee called his style "**laconic**." He would have approved of the word.
 
-*He did not give a Nobel Lecture. You can read his banquet speech from 1954 at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1954/hemingway/speech/).*
+*He did not give a Nobel Lecture, and he was not at the banquet: his speech from 1954 was read for him by the American ambassador. You can read it at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1954/hemingway/speech/).*
