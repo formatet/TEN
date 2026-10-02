@@ -19,7 +19,7 @@ Two entry points:
 
 | Chapter | Key words |
 |---|---|
-| [Chapter 1](/archive/chapter-1/) | relentless · coarse · substantial · arid · horizon · detached |
+| [Chapter 1](/archive/chapter-1/) | respect · detached · peripheral · veranda |
 | [Chapter 2](/archive/chapter-2/) | austere · elegy · lyric · threshold · ephemeral · luminous |
 | [Chapter 3](/archive/chapter-3/) | terse · laconic · stark · vernacular · oblique · impassive |
 | [Chapter 4](/archive/chapter-4/) | rhetoric · inevitable · deliberate |
@@ -31,23 +31,30 @@ Two entry points:
 
 ---
 
-## How to use it
+## Two kinds of word
 
-The Archive is not a list to memorise. It is a tool for production: the point is that after working with *relentless*, you can use the word with conviction — not just define it.
+**Words in the story** — *cantonment*, *barbarous*, *asperity* — are the words you need to understand what happens. They live in the *Before you read* boxes in each chapter, and anything else you can select on the page and look up.
 
-For each word:
-
-1. Read the roots. They are the whole argument.
-2. Compare it with the pale synonym (*arid* against *dry*, *commence* against *begin*).
-3. Ask yourself: how does the image in your mind change?
-4. Then use it — in the next thing you write, on purpose.
-
-The answer always leads back to the chapter's core question.
+**The Archive keeps two other kinds.** *Instruments* are the words you need to say what a text is doing: you cannot see that a narrator is *detached* rather than cold until you have the word for the difference. *Words with a history* are words whose origin changes what you see in the text — sometimes words you think you already own.
 
 ---
 
-## The Archive and the dictation ritual
+## How to use it
 
-Every dictation text in TEN was chosen partly because it carries Archive words in context. You hear and write the word before you study where it came from. The etymology comes afterwards — it explains why the word you have already met carries the weight it does.
+The Archive is not a list to memorise. Each entry moves the same way:
+
+1. **Encounter** — the place in the text where you need the word before you have it.
+2. **Instrument** — the word, what it is not, and the root where the root sharpens the difference.
+3. **Use** — one thing you cannot do as well without it.
+
+Then the word comes back: in the seminar, in your writing, and in later chapters, where it will have to stand next to new words.
+
+*Chapter 1 is built this way. The other chapters are rebuilt as we reach them.*
+
+---
+
+## The Archive and the chapters
+
+You do not come here first. The chapters send you here — at the moment in a text when you need a word you do not yet have. You meet the thing before you meet the word, and the word before its history.
 
 That order matters. Etymology is not preparation. It is the explanation of something you have already felt.

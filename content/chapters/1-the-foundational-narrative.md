@@ -107,11 +107,20 @@ The story never says a single political word. But look at how its world is built
 
 Now consider: in *Kim*, Kipling's hero is a child who belongs to *both* worlds — European by blood, Indian by upbringing, trusted by neither side, essential to both. What would change in *Rikki-Tikki-Tavi* if the mongoose could ask the same question Kim asks: *Who is my father?* What kind of story would it become?
 
+> [!tip] A word with a history: VERANDA
+> You already know this word — it is Swedish too. Look at it again anyway. Where does Nagaina come to kill (§86–100)? And where did English find the word? [The Archive: veranda](/archive/chapter-1/)
+
 *Step 3 — The people in the garden.*
 Step 2 asked who the garden is for. Now count who is actually in it. Make a list of every human being in this story — everyone, named or not — and write down beside each one what they do. Two are easy to miss. One appears twice, and both times he is carrying Nag's body out to the rubbish-heap: the story calls him *the sweeper* and gives him no name, no line, and no place in Darzee's victory song, which hands the credit to "the big man" with the gun and to Rikki. The other is not in the garden at all. Read again the sentence about Rikki's mother on the morning of the first breakfast — where she used to live, and what she had carefully taught her son to do if he ever came across white men. A mongoose is not born a house-mongoose. He is raised into it, one generation after the last. Now look at your list, and ask who does the work in this house, who gets the song, and who taught whom to belong.
 
+> [!tip] Instrument: PERIPHERAL
+> The sweeper is in the story and outside it at once. There is a word for where he stands. [The Archive: peripheral](/archive/chapter-1/)
+
 *Step 4 — Love and the contradiction.*
 Kipling plainly loves this world: the garden, the animals, the boy with the mongoose asleep on his pillow. He also believed empire was a duty. The word *respect* comes from the Latin for *looking back, looking again* — and the whole story turns on quickness of eye, on who manages to see whom in time. So look again. Can a story be tender, exact, beautifully observed — and carry an empire's assumptions inside it at the very same time? Write the beginning of your answer here. You will need it for The Big Question — and again, three years from now.
+
+> [!tip] Instrument: RESPECT
+> You have just been asked to look again. That is what the word means. Keep it — Buck and Steinbeck will need it too. [The Archive: respect](/archive/chapter-1/)
 
 
 ---
@@ -169,6 +178,9 @@ Find five objects in Mrs. Pan's room or the apartment around her: the satin coat
 *Step 2 — The window.*
 In §16 Mrs. Pan sits "where she could not see out". In §114 she gazes into the street "really for the first time since she came". In §128 she crosses that street with her eyes shut tight; in §149 she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her. Trace the window through the story, paragraph by paragraph, and describe the change yourself — using only what she does.
 
+> [!tip] Instrument: RESPECT, again
+> Mrs. Pan has sat beside that window for months. In §114 she looks out of it "really for the first time". That is the word. [The Archive: respect](/archive/chapter-1/)
+
 *Step 3 — Two languages in one room.*
 Mrs. Pan speaks no English. When her son and his wife quarrel in English (§113), she understands only that there is a quarrel. When the young people talk in English at the tea table (§168), she watches them and thinks: "So this was the way it was." A woman who cannot follow the words has to read the faces — the way Kipling reads a mongoose. Find one moment where Mrs. Pan reads a situation correctly without understanding a word of it. How does she do it?
 
@@ -218,6 +230,9 @@ A December afternoon on a ranch in the Salinas Valley. Elisa Allen, thirty-five,
 
 3. "Far ahead on the road Elisa saw a dark speck. She knew." (§110) What did she know? Steinbeck never uses the word *chrysanthemums* in the rest of the story. How does he make sure you know anyway — and what would be lost if he had said it?
 
+> [!tip] Instrument: DETACHED
+> A narrator who in §1–3 records the fog and names almost no feeling: is he cold? No. There is a better word, and the difference matters. [The Archive: detached](/archive/chapter-1/)
+
 ---
 
 ### Close Reading: The Fence
@@ -234,11 +249,14 @@ When Henry sees Elisa dressed for town, he has two words for her: *nice* and *st
 *Step 4 — Two women, two crossings.*
 Old Mrs. Pan crosses a street with her eyes shut and comes back with them open. Elisa, in the car, "swung full around toward her husband so she could not see" — and "She did not look back" (§112–113). One woman learns to look; the other learns not to. What has each of them seen? And look at the very last words of Steinbeck's story (§124). Who is the old woman in *these* two stories — and who is weak?
 
+> [!tip] Instrument: RESPECT, a third time
+> *Respect*: to look back. "She did not look back" (§113). Read that sentence with the word in your hand. [The Archive: respect](/archive/chapter-1/)
+
 Then step back across the whole chapter. Kipling, Buck, Steinbeck: find one technique all three share. Find one thing each of them does that the other two do not.
 
 ---
 
-*→ Archive for this chapter: [Chapter 1](/archive/chapter-1/) — *relentless · coarse · substantial · arid · horizon · detached**
+*→ Archive for this chapter: [Chapter 1](/archive/chapter-1/) — *respect · detached · peripheral · veranda**
 
 ## The Writing Task
 
@@ -266,6 +284,9 @@ When you have written 150–200 words: read it back. Circle every word that tell
 *Kipling. Buck. Steinbeck.*
 
 Three writers. Three different parts of the world. One shared conviction: that the people your world has decided are peripheral deserve the same quality of attention as the people at the centre.
+
+> [!tip] Instruments: PERIPHERAL · RESPECT · DETACHED
+> This is where you use all three. Your position should need at least two of them. [The Archive](/archive/chapter-1/)
 
 **For discussion:**
 
