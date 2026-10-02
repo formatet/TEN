@@ -24,6 +24,12 @@ TEMPLATE_FILE = os.path.join(ROOT, "templates", "base.html")
 
 MARKDOWN_EXTRAS = ["tables", "fenced-code-blocks", "header-ids", "break-on-newline"]
 
+# Texts moved under their author's Gallery page (2026-10-02)
+REDIRECTS = {
+    "/gallery/if/":               "/gallery/rudyard-kipling/if/",
+    "/gallery/rikki-tikki-tavi/": "/gallery/rudyard-kipling/rikki-tikki-tavi/",
+}
+
 
 # ─── Frontmatter ────────────────────────────────────────────────────────────
 
@@ -234,6 +240,14 @@ def build():
                 "href": current_href,
                 "text": plain,
             })
+
+    # Old URLs that may already be shared with students → redirect stubs
+    for old, new in REDIRECTS.items():
+        out = output_path_for_href(old)
+        os.makedirs(os.path.dirname(out), exist_ok=True)
+        with open(out, "w", encoding="utf-8") as f:
+            f.write(f'<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={new}">'
+                    f'<link rel="canonical" href="{new}"><a href="{new}">{new}</a>\n')
 
     # Write search index
     idx_path = os.path.join(PUBLIC, "static", "search-index.json")

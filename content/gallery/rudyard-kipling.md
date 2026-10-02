@@ -10,4 +10,4 @@ But look to the **horizon** of this world and it is an imperial one. An English 
 
 He won the Nobel Prize in 1907, the first writer in English to do so.
 
-*Read the story: [Rikki-Tikki-Tavi](/gallery/rikki-tikki-tavi/).*
+*Read the texts: [If—](/gallery/rudyard-kipling/if/) · [Rikki-Tikki-Tavi](/gallery/rudyard-kipling/rikki-tikki-tavi/).*

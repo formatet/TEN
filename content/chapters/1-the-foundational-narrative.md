@@ -9,7 +9,7 @@ publish: "true"
 ---
 
 > *"If you can keep your head when all about you / Are losing theirs and blaming it on you..."*
-> — Rudyard Kipling, [*If—*](/gallery/if/)
+> — Rudyard Kipling, [*If—*](/gallery/rudyard-kipling/if/)
 
 ---
 
@@ -60,7 +60,7 @@ Rudyard Kipling was born in Bombay in 1865, sent to England at the age of six, a
 
 He is the great poet of the empire. *The White Man's Burden.* *Send forth the best ye breed.* The idea that ruling other people was a duty, even a kindness — and we are not going to pretend he didn't mean it. He looked at India with real love and real precision, and he looked at it as a man who believed the British belonged on top. Both things are true at once, and the contradiction does not dissolve no matter how long you stare at it. Hold it open. That is the work.
 
-But the contradiction is only one reason to read him. The other reason is range. Kipling was not one kind of writer. He wrote children's stories: *Just So Stories* (1902), where the elephant gets its trunk and the leopard gets its spots, told with a sly comic voice that sounds like someone making things up on the spot for a child who is far too sharp to be fooled. He wrote *Kim* (1901), a novel about a half-Irish orphan boy who moves through India as a spy, shifting identities, belonging nowhere and everywhere — one of the strangest and most alive picaresque novels in English. He wrote [*If—*](/gallery/if/) (1910), which you have already read because it opens this chapter: thirty-two lines that have been printed on more motivational posters than any other poem in the language, and which are genuinely good despite that. He wrote stories about soldiers in the mud, engineers building bridges across rivers, clerks dying of fever at their posts. He wrote about the sea and the jungle and the barrack-room and the machinery rooms of steamships.
+But the contradiction is only one reason to read him. The other reason is range. Kipling was not one kind of writer. He wrote children's stories: *Just So Stories* (1902), where the elephant gets its trunk and the leopard gets its spots, told with a sly comic voice that sounds like someone making things up on the spot for a child who is far too sharp to be fooled. He wrote *Kim* (1901), a novel about a half-Irish orphan boy who moves through India as a spy, shifting identities, belonging nowhere and everywhere — one of the strangest and most alive picaresque novels in English. He wrote [*If—*](/gallery/rudyard-kipling/if/) (1910), which you have already read because it opens this chapter: thirty-two lines that have been printed on more motivational posters than any other poem in the language, and which are genuinely good despite that. He wrote stories about soldiers in the mud, engineers building bridges across rivers, clerks dying of fever at their posts. He wrote about the sea and the jungle and the barrack-room and the machinery rooms of steamships.
 
 What connects all of it? Attention. Kipling looks. He looks at the specific weight of a rope, the particular smell of an Indian summer night, the way a cobra moves when it is building to a strike. He does not describe feelings and call them objects. He finds the object and trusts you to feel it yourself. That looking — patient, exact, ahead of any judgement — is the skill the whole first year stands on. Chapter One begins here because Kipling earns it.
 
@@ -79,7 +79,7 @@ He received the Nobel Prize in 1907, the first writer in English to win it and, 
 > **picaresque** — a kind of story that follows a clever, resourceful outsider moving through a society, surviving by wit rather than belonging
 > **contradiction** — two things that are both true at once and cannot be made to agree
 
-**Source:** Rudyard Kipling, *Rikki-Tikki-Tavi*, from *The Jungle Book* (1894). Public domain — the full text is here: **[read Rikki-Tikki-Tavi](/gallery/rikki-tikki-tavi/)**. The paragraphs there are numbered, so *§42* means the same sentence for everyone, on paper or on a screen.
+**Source:** Rudyard Kipling, *Rikki-Tikki-Tavi*, from *The Jungle Book* (1894). Public domain — the full text is here: **[read Rikki-Tikki-Tavi](/gallery/rudyard-kipling/rikki-tikki-tavi/)**. The paragraphs there are numbered, so *§42* means the same sentence for everyone, on paper or on a screen.
 
 A flood washes a young mongoose out of his burrow and leaves him half-drowned on the path of an English family's bungalow in India. They dry him; he stays. In the garden live two cobras, Nag and Nagaina, who have killed before and mean to go on killing. Rikki-tikki fights them — single-handed, through the bathrooms of the big bungalow — and saves the family. Read it once and it is one of the best adventure stories ever written. Read it twice and it is a story about who a garden belongs to.
 

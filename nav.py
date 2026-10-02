@@ -42,8 +42,6 @@ NAV = [
             {"title": "Pearl S. Buck",        "href": "/gallery/pearl-s-buck/"},
             {"title": "Rabindranath Tagore",  "href": "/gallery/rabindranath-tagore/"},
             {"title": "Rudyard Kipling",      "href": "/gallery/rudyard-kipling/"},
-            {"title": "— If—",                "href": "/gallery/if/"},
-            {"title": "— Rikki-Tikki-Tavi",   "href": "/gallery/rikki-tikki-tavi/"},
             {"title": "Samuel Beckett",       "href": "/gallery/samuel-beckett/"},
             {"title": "Saul Bellow",          "href": "/gallery/saul-bellow/"},
             {"title": "Seamus Heaney",        "href": "/gallery/seamus-heaney/"},
@@ -84,4 +82,8 @@ def section_for_href(href):
         for item in section["items"]:
             if item["href"] == href:
                 return section["id"]
+    # Pages without a nav entry (e.g. /gallery/rudyard-kipling/if/) open their parent's section
+    parent = href.rstrip("/").rsplit("/", 1)[0] + "/"
+    if parent != "/" and parent != href:
+        return section_for_href(parent)
     return None
