@@ -8,6 +8,6 @@ Her prose carries the **weight** of what has not been said — the names not rec
 
 She understood that language is not **neutral** — that every sentence inherits the structure of the world it was built inside, and that to tell certain truths you must first break that structure open.
 
-She received the Nobel Prize in 1993. In her acceptance speech, she said: *"Narrative is radical, creating us at the very moment it is being created."*
+She received the Nobel Prize in 1993. In her Nobel Lecture, she said: *"Narrative is radical, creating us at the very moment it is being created."*
 
 *The Nobel Lecture (1993) at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/1993/morrison/lecture/).*
