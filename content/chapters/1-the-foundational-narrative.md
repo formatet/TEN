@@ -287,7 +287,7 @@ When you have written 150–200 words: read it back. Circle every word that tell
 
 *Kipling. Buck. Steinbeck.*
 
-In each of these stories someone looks, and someone is looked at. Kipling watches a mongoose with a naturalist's eye, and hardly watches the sweeper who carries the dead cobra out of the garden. Buck seats an old woman where she cannot see out of the window, then lets her study a young woman's face and find it plain. Steinbeck brings a stranger to the fence to look at Elisa's flowers. On the road afterwards, she does not look back.
+In each of these stories someone looks, and someone is looked at. Who, and from where, is for you to find.
 
 > [!tip] Instruments: PERIPHERAL · RESPECT · DETACHED
 > This is where you use all three. Your position should need at least two of them. [The Archive](/archive/chapter-1/)
