@@ -140,6 +140,7 @@ body {
 
 .toc a:hover { color: var(--ink); }
 .toc .toc-h3 { padding-left: 1rem; font-size: 0.86rem; }
+.toc .toc-part a { font-weight: 700; color: var(--ink); margin-top: 0.4rem; }
 
 /* Below the desktop breakpoint the index opens above the article, so cap it
    rather than pushing the first paragraph off the screen. */
@@ -321,6 +322,17 @@ h2, h3, h4 {
 h2 { font-size: 1.3rem; }
 h3 { font-size: 1.1rem; }
 h4 { font-size: 1rem; }
+
+/* Chapter parts (h2 "Part One — …") and their lettered sections (h3 "A — …")
+   carry the chapter's address system: Part Three, B2. Make them read as such. */
+h2[id^="part-"] {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 2px solid var(--ink);
+}
+h3 { font-weight: 600; }
 
 p { margin-bottom: 1em; }
 

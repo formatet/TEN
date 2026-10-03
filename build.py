@@ -95,6 +95,8 @@ def build_toc(html):
     for level, hid, text in headings:
         clean = re.sub(r'<[^>]+>', '', text).strip()
         cls = "toc-h3" if level == "3" else ""
+        if level == "2" and clean.startswith("Part "):
+            cls = "toc-part"
         items.append(f'<li class="{cls}"><a href="#{hid}">{clean}</a></li>')
     return (
         '  <aside class="toc-rail" aria-label="On this page">\n'

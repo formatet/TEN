@@ -18,7 +18,7 @@ Each entry moves the same way. **Encounter** — the place in the text where you
 ## The Words
 
 **RESPECT**
-- Encounter: Kipling, Close Reading Step 4. Then Mrs. Pan at her window, who looks out of it "really for the first time" (Buck §114). Then Elisa in the car: "She did not look back" (Steinbeck §113).
+- Encounter: Kipling, Close Reading C4. Then Mrs. Pan at her window, who looks out of it "really for the first time" (Buck §114). Then Elisa in the car: "She did not look back" (Steinbeck §113).
 - Instrument: Latin *respicere* — *re-* (back, again) + *specere* (to look). The same root as *inspect*, *spectator*, *perspective*. Respect is not a feeling you have about someone. It is something you do with your eyes: you look a second time. The first look takes what it expects. The second look sees what is there.
 - Not: *politeness*, *admiring*. You can be polite to someone you have never once looked at.
 - Use: Choose one moment in this chapter where someone looks at another person — the family at Rikki (Kipling §37), Mrs. Pan at Lili (Buck §71), the man at the fence at Elisa's flowers (Steinbeck §51). Is it respect, or only looking? Defend your answer with one quotation.
@@ -30,7 +30,7 @@ Each entry moves the same way. **Encounter** — the place in the text where you
 - Use: Is the narrator of "The Chrysanthemums" detached, cold or indifferent? Use one quotation from §1–3 to defend the distinction. Then ask the same question of Buck, who names Mrs. Pan's feelings only twice (§4, §15).
 
 **PERIPHERAL**
-- Encounter: Kipling, Close Reading Step 3 — the sweeper, who carries Nag's body to the rubbish-heap (§64, §68) and gets no name, no line, and no place in the song. Then The Big Question.
+- Encounter: Kipling, Close Reading C3 — the sweeper, who carries Nag's body to the rubbish-heap (§64, §68) and gets no name, no line, and no place in the song. Then The Big Question.
 - Instrument: Greek *periphereia* — *peri-* (around) + *pherein* (to carry): the line carried around the edge of a circle. To be peripheral is not to be absent. It is to be in the picture, at the edge, where the eye does not go.
 - Not: *unimportant*, *minor*. Peripheral is not a quality a person has. It is a place someone else has put them.
 - Use: Name one peripheral person in each of the three stories. Choose one, and write three sentences that move that person to the centre — only what they look like, what they do, what they use.
