@@ -75,6 +75,12 @@ He received the Nobel Prize in 1907, the first writer in English to win it and, 
 > **bungalow** — a single-storey house of the kind the British built across colonial India
 > **veranda** — a roofed, open porch running along the outside of a house
 > **sweeper** — in British India, a household servant who cleaned and carried away refuse; the work was fixed by caste
+> **sluice** — an opening that lets water run out; here, the hole at the bottom of the bathroom wall where the bath-water drains away
+> **masonry** — brickwork or stonework; the *masonry curb* is the low brick edge around the place where the bath stands
+> **earthenware** — pots and jars made of baked clay
+> **purchase** — here, a firm grip or hold, not something you buy
+> **cartwhip** — to lash about like a driver's whip
+> **barrel** — the metal tube of a gun; a shot-gun has two
 > **providence** — protective care from God or fate; a sign that you have been watched over
 > **picaresque** — a kind of story that follows a clever, resourceful outsider moving through a society, surviving by wit rather than belonging
 > **contradiction** — two things that are both true at once and cannot be made to agree
