@@ -44,4 +44,4 @@ The chapters run in order. The Gallery and Archive can be entered from any direc
 
 ---
 
-*Pilot cohort begins autumn 2026.*
+*[About this site](/about/): who makes it, what it records, and where the texts come from.*
