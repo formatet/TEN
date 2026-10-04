@@ -8,7 +8,7 @@ This site is the course text for *The English Nobel*, a three-year course in Eng
 
 ## How it is made
 
-This is not a published textbook. It is an open project, and it changes as the classes use it. The whole site, with its history, is on [GitHub](https://github.com/formatet/ten-site), and the texts may be reused under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This is not a published textbook. It is an open project, and it changes as the classes use it. The whole site, with its history, is on [GitHub](https://github.com/formatet/TEN), and the texts may be reused under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 The texts are written with Claude Code, an AI tool made by Anthropic. I decide what each part of the course should do and which texts we read. Claude drafts and revises, and I edit, cut and rewrite until I can stand behind every sentence. The mistakes are mine. If you find one, tell me.
 
