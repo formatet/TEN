@@ -100,18 +100,18 @@ This is not the only Kipling you will meet, but it is the right place to start. 
 **Do this:**
 1. List every physical detail in that opening description (§2).
 2. Mark the one a hurried observer would miss.
-3. In one sentence: what do these details let you know about Rikki's *nature* without Kipling ever once naming it?
+3. Write in one sentence: what do these details let you know about Rikki's *nature* without Kipling ever once naming it?
 
 **B2.** Nag and Nagaina are the enemy — and yet Kipling gives them voices, fear, and a reason: they were "king and queen of the garden" before the people came, and they want it back for their own children.
 
 **Do this:**
 1. Find the moment Nagaina explains why the family must die. Write down its § number.
-2. In two sentences: is she *wrong*? Say why.
-3. In one sentence: what becomes less simple when the enemy makes sense?
+2. Write in two sentences: is she *wrong*? Say why.
+3. Write in one sentence: what becomes less simple when the enemy makes sense?
 
 **B3.** *If—* tells you that the mark of a real person is the ability to keep your head while the world falls apart, to hold on without losing yourself. Rikki-tikki holds on — literally, teeth locked on Nag's neck in the dark bathroom, being smashed against the walls.
 
-**Do this:** In three sentences, answer: is this the same kind of steadiness Kipling is praising in the poem? Or is something different happening in the story — something the poem's calm speaker never has to face? Point to one line in the poem and one § in the story.
+**Do this:** Write in three sentences: is this the same kind of steadiness Kipling is praising in the poem? Or is something different happening in the story — something the poem's calm speaker never has to face? Point to one line in the poem and one § in the story.
 
 ---
 
@@ -140,7 +140,7 @@ C2 asked who the garden is for. Now count who is actually in it.
 
 Two are easy to miss. One appears twice, and both times he is carrying Nag's body out to the rubbish-heap: the story calls him *the sweeper* and gives him no name, no line, and no place in Darzee's victory song, which hands the credit to "the big man" with the gun and to Rikki. The other is not in the garden at all. Read again the sentence about Rikki's mother on the morning of the first breakfast — where she used to live, and what she had carefully taught her son to do if he ever came across white men. A mongoose is not born a house-mongoose. He is raised into it, one generation after the last.
 
-**Do this next:** Add the two people you missed to your list. Then answer in one sentence each: *Who does the work in this house? Who gets the song? Who taught whom to belong?*
+**Do this next:** Add the two people you missed to your list. Then write in one sentence each: *Who does the work in this house? Who gets the song? Who taught whom to belong?*
 
 > [!tip] Instrument: PERIPHERAL
 > The sweeper is in the story and outside it at once. There is a word for where he stands. [The Archive: peripheral](/archive/chapter-1/)
