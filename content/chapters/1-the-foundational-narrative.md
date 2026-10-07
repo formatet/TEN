@@ -92,11 +92,9 @@ A flood washes a young mongoose out of his burrow and leaves him half-drowned on
 
 This is not the only Kipling you will meet, but it is the right place to start. *Rikki-Tikki-Tavi* is short enough to read in a single sitting and precise enough to reward careful study. And the question it quietly carries — *whose side are you on, and why does that seem so obvious?* — is the question that runs through all three parts of this chapter.
 
-Kipling is teaching you how to look at a living thing.
+**Do this before you read:** Kipling is teaching you how to look at a living thing. Go slowly through §2, the description of the mongoose, before any danger starts. Notice exactly what he notices.
 
-**Do this before you read:** Go slowly through §2, the description of the mongoose, before any danger starts. Notice exactly what he notices.
-
-**Do this:** Read the story.
+**Then:** Read the story.
 
 #### B1
 
@@ -120,7 +118,7 @@ Nag and Nagaina are the enemy — and yet Kipling gives them voices, fear, and a
 
 #### B3
 
-*If—* tells you that the mark of a real person is the ability to keep your head while the world falls apart, to hold on without losing yourself. Rikki-tikki holds on — literally, teeth locked on Nag's neck in the dark bathroom, being smashed against the walls.
+[*If—*](/gallery/rudyard-kipling/if/) tells you that the mark of a real person is the ability to keep your head while the world falls apart, to hold on without losing yourself. Rikki-tikki holds on — literally, teeth locked on Nag's neck in the dark bathroom, being smashed against the walls.
 
 **Do this:** Write in three sentences: is this the same kind of steadiness Kipling is praising in the poem? Or is something different happening in the story — something the poem's calm speaker never has to face? Point to one line in the poem and one § in the story.
 
