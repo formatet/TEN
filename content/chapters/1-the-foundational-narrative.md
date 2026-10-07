@@ -100,6 +100,7 @@ This is not the only Kipling you will meet, but it is the right place to start. 
 Before the plot moves an inch, Kipling builds the mongoose in front of you — and there is more in that one paragraph than you will see on a first read.
 
 **Do this:**
+
 1. List every physical detail in that opening description (§2).
 2. Mark the one a hurried observer would miss.
 3. Write in one sentence: what do these details let you know about Rikki's *nature* without Kipling ever once naming it?
@@ -109,6 +110,7 @@ Before the plot moves an inch, Kipling builds the mongoose in front of you — a
 Nag and Nagaina are the enemy — and yet Kipling gives them voices, fear, and a reason: they were "king and queen of the garden" before the people came, and they want it back for their own children.
 
 **Do this:**
+
 1. Find the moment Nagaina explains why the family must die. Write down its § number.
 2. Write in two sentences: is she *wrong*? Say why.
 3. Write in one sentence: what becomes less simple when the enemy makes sense?
@@ -132,6 +134,7 @@ This is the same muscle you used on your three objects at the start of the chapt
 The story never says a single political word. But look at how its world is built: an English house, ordered and lamplit, with bathrooms and a veranda and a child asleep inside — and around it a garden, half-wild, thick with grass and danger, where the cobras who call themselves its king and queen still live underground. One way to read that arrangement: inside, civilisation; outside, the thing civilisation is afraid of; and between them, one small creature whose purpose is to keep the outside out.
 
 **Do this:**
+
 1. **Map it.** Make three columns: *inside the house · outside in the garden · who protects whom.* Put a § number beside every entry.
 2. **Judge it.** The reading above says: inside, civilisation; outside, what civilisation fears. Write three to five sentences. Name one place where the story supports that reading and one place where it resists it. Quote the story, with § numbers.
 3. **Say it aloud — don't write it.** The question the story never asks itself: *who is the garden for?*
@@ -199,30 +202,71 @@ Mr. Pan has saved his mother's life and cannot make her want it. She will not ea
 
 **Read the story.** Then:
 
-**B1.** Buck names Mrs. Pan's feelings only once or twice (*haunted with homesickness*, §4; *lonely*, §15). Most of the time she gives you things instead: ivory chopsticks brought from home, water that "tastes of metal and not of earth", two taps she cannot tell apart, a seat where she cannot see out (§7–16). List every such thing you can find. What does each one show that *she was homesick* cannot?
+#### B1
 
-**B2.** In §71 Mrs. Pan studies Lili's face: "This was not a pretty girl." In §167 James Lim looks at the same face and thinks the old woman "had not done her justice". Put the two looks side by side. What does each of them see — and what does each of them *want* while looking? Is anyone in this story interested in what Lili sees?
+Buck names Mrs. Pan's feelings only once or twice (*haunted with homesickness*, §4; *lonely*, §15). Most of the time she gives you things instead: ivory chopsticks brought from home, water that "tastes of metal and not of earth", two taps she cannot tell apart, a seat where she cannot see out (§7–16).
 
-**B3.** The title says *the* good deed, as if there were only one. Count them. Mrs. Pan's plan. Mr. Pan's secret telephone call (§154). Lili's first visit. Old Mr. Lim's last word (§189). Which one is the good deed? And is arranging another person's marriage a good deed at all — or does it depend on where you stand?
+**Do this:**
+
+1. List every such thing you can find.
+2. Write beside each one what it shows that *she was homesick* cannot.
+
+#### B2
+
+In §71 Mrs. Pan studies Lili's face: "This was not a pretty girl." In §167 James Lim looks at the same face and thinks the old woman "had not done her justice".
+
+**Do this:**
+
+1. Put the two looks side by side. Write what each one sees, and what each *wants* while looking.
+2. Write in one sentence: is anyone in this story interested in what Lili sees?
+
+#### B3
+
+The title says *the* good deed, as if there were only one. There are at least four: Mrs. Pan's plan. Mr. Pan's secret telephone call (§154). Lili's first visit. Old Mr. Lim's last word (§189).
+
+**Do this:**
+
+1. Choose the one you think is *the* good deed. Write in one sentence why.
+2. Write in two sentences: is arranging another person's marriage a good deed at all — or does it depend on where you stand?
 
 ---
 
 ### C — Close Reading: The Window
 
-**C1 — The inventory of a room.**
-Find five objects in Mrs. Pan's room or the apartment around her: the satin coat, the magazine, the quilt, the curtain, the two bowls she brings home. For each: what is the object, and what does the way Buck places it show about the woman who owns it or refuses it? Then take out your three sentences from the start of the chapter. What did Buck do with her objects that you did not do with yours?
+#### C1 — The inventory of a room.
+**Do this:**
 
-**C2 — The window.**
-In §16 Mrs. Pan sits "where she could not see out". In §114 she gazes into the street "really for the first time since she came". In §128 she crosses that street with her eyes shut tight; in §149 she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her. Trace the window through the story, paragraph by paragraph, and describe the change yourself — using only what she does.
+1. Find five objects in Mrs. Pan's room or the apartment around her: the satin coat, the magazine, the quilt, the curtain, the two bowls she brings home.
+2. For each one, write the object, and what the way Buck places it shows about the woman who owns it or refuses it.
+3. Take out your three sentences from the start of the chapter. Write in one sentence: what did Buck do with her objects that you did not do with yours?
+
+#### C2 — The window.
+In §16 Mrs. Pan sits "where she could not see out". In §114 she gazes into the street "really for the first time since she came". In §128 she crosses that street with her eyes shut tight; in §149 she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her.
+
+**Do this:**
+
+1. Trace the window through the story, paragraph by paragraph.
+2. Write in three sentences: describe the change yourself — using only what she does.
 
 > [!tip] Instrument: RESPECT, again
 > Mrs. Pan has sat beside that window for months. In §114 she looks out of it "really for the first time". That is the word. [The Archive: respect](/archive/chapter-1/)
 
-**C3 — Two languages in one room.**
-Mrs. Pan speaks no English. When her son and his wife quarrel in English (§113), she understands only that there is a quarrel. When the young people talk in English at the tea table (§168), she watches them and thinks: "So this was the way it was." A woman who cannot follow the words has to read the faces — the way Kipling reads a mongoose. Find one moment where Mrs. Pan reads a situation correctly without understanding a word of it. How does she do it?
+#### C3 — Two languages in one room.
+Mrs. Pan speaks no English. When her son and his wife quarrel in English (§113), she understands only that there is a quarrel. When the young people talk in English at the tea table (§168), she watches them and thinks: "So this was the way it was." A woman who cannot follow the words has to read the faces — the way Kipling reads a mongoose.
 
-**C4 — The box and the garden, again.**
-Go back to *Rikki-Tikki-Tavi*: a house kept safe by a creature whose purpose is to keep the outside out. Now look at §116. Mrs. Pan asks for her window to be opened — the window she had kept shut "for fear she might be assailed by the foreign winds". Kipling's story protects a house from the world outside it. What does Buck's story do with the world outside? And notice what Nagaina and Mrs. Pan have in common: both have lost a home to strangers (§26). Nagaina fights to get hers back. What does Mrs. Pan do instead? And how far does the comparison hold — where does it break?
+**Do this:**
+
+1. Find one moment where Mrs. Pan reads a situation correctly without understanding a word of it.
+2. Write in two sentences: how does she do it?
+
+#### C4 — The box and the garden, again.
+Go back to *Rikki-Tikki-Tavi*: a house kept safe by a creature whose purpose is to keep the outside out. Now look at §116. Mrs. Pan asks for her window to be opened — the window she had kept shut "for fear she might be assailed by the foreign winds". Kipling's story protects a house from the world outside it. What does Buck's story do with the world outside? Notice also what Nagaina and Mrs. Pan have in common: both have lost a home to strangers (§26). Nagaina fights to get hers back.
+
+**Do this:**
+
+1. Write in one sentence: what does Buck's story do with the world outside?
+2. Write in one sentence: what does Mrs. Pan do instead of fighting?
+3. Write in two sentences: how far does the comparison hold — and where does it break?
 
 ---
 
@@ -261,11 +305,33 @@ A December afternoon on a ranch in the Salinas Valley. Elisa Allen, thirty-five,
 
 **Read the story.** Then:
 
-**B1.** In §1–3 no person appears. List everything the fog, the plows, the willows and the wind *do*. Only two words in these paragraphs name a feeling: the farmers are "mildly hopeful", and the air is "cold and tender". One feeling belongs to people. Steinbeck gives the other to the air. Why would a writer this careful break his own rule — and why *there*?
+#### B1
 
-**B2.** The man at the fence has come to sell a service. He looks at Elisa, then at the ground, then at the chrysanthemum bed (§51). He calls the flowers "a quick puff of colored smoke", and Elisa answers, "What a nice way to describe them" (§53–54). Now read §92: "Sand, ma'am?... Sand? Oh, sure." What did he actually see when he looked at the flowers? Is his looking a form of respect, or a form of power?
+In §1–3 no person appears. Only two words in these paragraphs name a feeling: the farmers are "mildly hopeful", and the air is "cold and tender". One feeling belongs to people. Steinbeck gives the other to the air.
 
-**B3.** "Far ahead on the road Elisa saw a dark speck. She knew." (§110) What did she know? Steinbeck never uses the word *chrysanthemums* in the rest of the story. How does he make sure you know anyway — and what would be lost if he had said it?
+**Do this:**
+
+1. List everything the fog, the plows, the willows and the wind *do*.
+2. Write in two sentences: why would a writer this careful break his own rule — and why *there*?
+
+#### B2
+
+The man at the fence has come to sell a service. He looks at Elisa, then at the ground, then at the chrysanthemum bed (§51). He calls the flowers "a quick puff of colored smoke", and Elisa answers, "What a nice way to describe them" (§53–54).
+
+**Do this:**
+
+1. Read §92: "Sand, ma'am?... Sand? Oh, sure."
+2. Write in one sentence: what did he actually see when he looked at the flowers?
+3. Write in one sentence: is his looking a form of respect, or a form of power?
+
+#### B3
+
+"Far ahead on the road Elisa saw a dark speck. She knew." (§110) Steinbeck never uses the word *chrysanthemums* in the rest of the story.
+
+**Do this:**
+
+1. Write in one sentence: what did she know?
+2. Write in two sentences: how does Steinbeck make sure you know anyway — and what would be lost if he had said it?
 
 > [!tip] Instrument: DETACHED
 > A narrator who in §1–3 records the fog and names almost no feeling. Is he cold? Indifferent? Detached? Choose one before you open the Archive — and say what the other two words would accuse him of. [The Archive: detached](/archive/chapter-1/)
@@ -274,22 +340,41 @@ A December afternoon on a ranch in the Salinas Valley. Elisa Allen, thirty-five,
 
 ### C — Close Reading: The Fence
 
-**C1 — Looking before judging.**
-Go through §5–8, before anyone speaks to Elisa. Find five physical details: her clothes, her hands, her tools, her house. For each: what is the detail, and what does it show about her *without telling you*? Steinbeck calls her fingers "terrier fingers" (§8). What does a terrier do?
+#### C1 — Looking before judging.
+**Do this:**
 
-**C2 — The fence.**
-A wire fence "protected her flower garden from cattle and dogs and chickens" (§9). Henry leans over it. The stranger draws a finger down it "and made it sing" (§41), then comes through into the yard (§65). At the end, Elisa stands in front of it, watching the wagon go (§93). Map every crossing of the fence: who is inside, who is outside, who is let in, and by whom. Then ask Kipling's question of this garden too — *who is the garden for?*
+1. Go through §5–8, before anyone speaks to Elisa. Find five physical details: her clothes, her hands, her tools, her house.
+2. For each one, write the detail, and what it shows about her *without telling you*.
+3. Steinbeck calls her fingers "terrier fingers" (§8). Write in one sentence: what does a terrier do?
 
-**C3 — Two words.**
-When Henry sees Elisa dressed for town, he has two words for her: *nice* and *strong* (§101–104). She throws both back at him. Why do two harmless words make her angry? Rewrite Henry's line so that he says what he actually sees in front of him — the way Steinbeck would have written it.
+#### C2 — The fence.
+A wire fence "protected her flower garden from cattle and dogs and chickens" (§9). Henry leans over it. The stranger draws a finger down it "and made it sing" (§41), then comes through into the yard (§65). At the end, Elisa stands in front of it, watching the wagon go (§93).
 
-**C4 — Two women, two crossings.**
-Old Mrs. Pan crosses a street with her eyes shut and comes back with them open. Elisa, in the car, "swung full around toward her husband so she could not see" — and "She did not look back" (§112–113). One woman learns to look; the other learns not to. What has each of them seen? And look at the very last words of Steinbeck's story (§124). Who is the old woman in *these* two stories — and who is weak?
+**Do this:**
+
+1. Map every crossing of the fence: who is inside, who is outside, who is let in, and by whom.
+2. **Say it aloud — don't write it.** Kipling's question, asked of this garden too: *who is the garden for?*
+
+#### C3 — Two words.
+When Henry sees Elisa dressed for town, he has two words for her: *nice* and *strong* (§101–104). She throws both back at him.
+
+**Do this:**
+
+1. Write in one sentence: why do two harmless words make her angry?
+2. Rewrite Henry's line so that he says what he actually sees in front of him — the way Steinbeck would have written it.
+
+#### C4 — Two women, two crossings.
+Old Mrs. Pan crosses a street with her eyes shut and comes back with them open. Elisa, in the car, "swung full around toward her husband so she could not see" — and "She did not look back" (§112–113). One woman learns to look; the other learns not to.
+
+**Do this:**
+
+1. Write in two sentences: what has each of them seen?
+2. Read the very last words of Steinbeck's story (§124). Write in one sentence: who is the old woman in *these* two stories — and who is weak?
 
 > [!tip] Instrument: RESPECT, a third time
 > *Respect*: to look back. "She did not look back" (§113). Read that sentence with the word in your hand. [The Archive: respect](/archive/chapter-1/)
 
-Then step back across the whole chapter. Kipling, Buck, Steinbeck: find one technique all three share. Find one thing each of them does that the other two do not.
+**Do this:** Step back across the whole chapter — Kipling, Buck, Steinbeck. Find one technique all three share. Find one thing each of them does that the other two do not.
 
 ---
 
@@ -331,7 +416,7 @@ The question underneath all three is bigger than this chapter, and you will not 
 
 **Does it matter where you stand when you look?**
 
-For now, write down where each of the three writers stands when they look. Not what they believed. Where they stand. Keep it. You will return to it.
+**Do this:** Write down where each of the three writers stands when they look. Not what they believed. Where they stand. Keep it. You will return to it.
 
 ---
 
