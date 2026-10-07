@@ -74,6 +74,7 @@ He received the Nobel Prize in 1907, the first writer in English to win it and, 
 > **cantonment** — a permanent military station for troops, especially in British India
 > **bungalow** — a single-storey house of the kind the British built across colonial India
 > **veranda** — a roofed, open porch running along the outside of a house
+> **weasel** — a small, slim, fast hunting animal with a long body and short legs
 > **sweeper** — in British India, a household servant who cleaned and carried away refuse; the work was fixed by caste
 > **sluice** — an opening that lets water run out; here, the hole at the bottom of the bathroom wall where the bath-water drains away
 > **masonry** — brickwork or stonework; the *masonry curb* is the low brick edge around the place where the bath stands
@@ -104,9 +105,8 @@ Before the plot moves an inch, Kipling builds the mongoose in front of you — a
 **Do this:**
 
 1. Read the first sentence of §2 aloud.
-2. Write in one sentence: what qualities does Kipling give the cat? (What is a cat like? How does it behave?)
-3. Write in one sentence: what qualities does he give the weasel? (What is a weasel like? How does it behave?)
-4. Write in one sentence: why this order — and why *rather* in one half and *quite* in the other?
+2. Write in one sentence: how is Rikki like a cat, and how is he like a weasel?
+3. Write in one sentence: why does Kipling need both animals?
 
 #### B2
 
