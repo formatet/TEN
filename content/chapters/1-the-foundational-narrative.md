@@ -95,21 +95,27 @@ This is not the only Kipling you will meet, but it is the right place to start. 
 
 **Read the story.** Then:
 
-**B1.** Before the plot moves an inch, Kipling builds the mongoose in front of you — and there is more in that one paragraph than you will see on a first read.
+#### B1
+
+Before the plot moves an inch, Kipling builds the mongoose in front of you — and there is more in that one paragraph than you will see on a first read.
 
 **Do this:**
 1. List every physical detail in that opening description (§2).
 2. Mark the one a hurried observer would miss.
 3. Write in one sentence: what do these details let you know about Rikki's *nature* without Kipling ever once naming it?
 
-**B2.** Nag and Nagaina are the enemy — and yet Kipling gives them voices, fear, and a reason: they were "king and queen of the garden" before the people came, and they want it back for their own children.
+#### B2
+
+Nag and Nagaina are the enemy — and yet Kipling gives them voices, fear, and a reason: they were "king and queen of the garden" before the people came, and they want it back for their own children.
 
 **Do this:**
 1. Find the moment Nagaina explains why the family must die. Write down its § number.
 2. Write in two sentences: is she *wrong*? Say why.
 3. Write in one sentence: what becomes less simple when the enemy makes sense?
 
-**B3.** *If—* tells you that the mark of a real person is the ability to keep your head while the world falls apart, to hold on without losing yourself. Rikki-tikki holds on — literally, teeth locked on Nag's neck in the dark bathroom, being smashed against the walls.
+#### B3
+
+*If—* tells you that the mark of a real person is the ability to keep your head while the world falls apart, to hold on without losing yourself. Rikki-tikki holds on — literally, teeth locked on Nag's neck in the dark bathroom, being smashed against the walls.
 
 **Do this:** Write in three sentences: is this the same kind of steadiness Kipling is praising in the poem? Or is something different happening in the story — something the poem's calm speaker never has to face? Point to one line in the poem and one § in the story.
 
@@ -117,12 +123,12 @@ This is not the only Kipling you will meet, but it is the right place to start. 
 
 ### C — Close Reading: The Exact Animal
 
-**C1 — Looking before judging.**
+#### C1 — Looking before judging.
 This is the same muscle you used on your three objects at the start of the chapter — Kipling is just stronger at it.
 
 **Do this:** Find five physical details Kipling gives about Rikki-tikki before his first fight with Nag. For each one, write the detail, and what it shows about the animal *without telling you*.
 
-**C2 — The box and the garden.**
+#### C2 — The box and the garden.
 The story never says a single political word. But look at how its world is built: an English house, ordered and lamplit, with bathrooms and a veranda and a child asleep inside — and around it a garden, half-wild, thick with grass and danger, where the cobras who call themselves its king and queen still live underground. One way to read that arrangement: inside, civilisation; outside, the thing civilisation is afraid of; and between them, one small creature whose purpose is to keep the outside out.
 
 **Do this:**
@@ -133,7 +139,7 @@ The story never says a single political word. But look at how its world is built
 > [!tip] A word with a history: VERANDA
 > You already know this word — it is Swedish too. Look at it again anyway. Where does Nagaina come to kill (§86–100)? And where did English find the word? [The Archive: veranda](/archive/chapter-1/)
 
-**C3 — The people in the garden.**
+#### C3 — The people in the garden.
 C2 asked who the garden is for. Now count who is actually in it.
 
 **Do this first, before you read on:** Make a list of every human being in this story — everyone, named or not — and write down beside each one what they do.
@@ -145,7 +151,7 @@ Two are easy to miss. One appears twice, and both times he is carrying Nag's bod
 > [!tip] Instrument: PERIPHERAL
 > The sweeper is in the story and outside it at once. There is a word for where he stands. [The Archive: peripheral](/archive/chapter-1/)
 
-**C4 — Love and the contradiction.**
+#### C4 — Love and the contradiction.
 Kipling plainly loves this world: the garden, the animals, the boy with the mongoose asleep on his pillow. He also believed empire was a duty. The word *respect* comes from the Latin for *looking back, looking again* — and the whole story turns on quickness of eye, on who manages to see whom in time. So look again. Can a story be tender, exact, beautifully observed — and carry an empire's assumptions inside it at the very same time?
 
 **Do this:** Write the beginning of your answer to that question: three to five sentences, with one place in the story as evidence (§). You will need it for The Big Question — and again, three years from now.

@@ -319,9 +319,9 @@ h2, h3, h4 {
   margin-bottom: 0.5rem;
 }
 
-h2 { font-size: 1.3rem; }
-h3 { font-size: 1.1rem; }
-h4 { font-size: 1rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.28rem; }
+h4 { font-size: 1.15rem; }
 
 /* Chapter parts (h2 "Part One — …") and their lettered sections (h3 "A — …")
    carry the chapter's address system: Part Three, B2. Make them read as such. */
@@ -333,6 +333,7 @@ h2[id^="part-"] {
   border-top: 2px solid var(--ink);
 }
 h3 { font-weight: 600; }
+h4 { font-weight: 700; margin-top: 1.6rem; }
 
 p { margin-bottom: 1em; }
 
@@ -572,7 +573,7 @@ pre code { background: none; padding: 0; }
 
   article { max-width: none; font-size: 11pt; line-height: 1.45; }
 
-  h2, h3 { break-after: avoid; }
+  h2, h3, h4 { break-after: avoid; }
   table, figure, blockquote, .callout { break-inside: avoid; }
 
   a { text-decoration: underline; }
