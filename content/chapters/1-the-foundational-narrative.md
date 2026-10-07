@@ -104,7 +104,7 @@ Before the plot moves an inch, Kipling builds the mongoose in front of you — a
 **Do this:**
 
 1. Read the first sentence of §2 aloud.
-2. Write in one sentence: what does Kipling put in the cat, and what does he put in the weasel?
+2. Write in one sentence: what does Kipling put in the cat (what qualities does the cat represent?), and what does he put in the weasel (what qualities does the weasel represent?)
 3. Write in one sentence: why this order — and why *rather* in one half and *quite* in the other?
 
 #### B2
