@@ -95,7 +95,7 @@ This is not the only Kipling you will meet, but it is the right place to start. 
 
 **Read the story.** Then:
 
-**B1.** Before the plot moves an inch, Kipling builds the mongoose in front of you — the fur, the tail, the pink nose, the scratching, the war-cry.
+**B1.** Before the plot moves an inch, Kipling builds the mongoose in front of you — and there is more in that one paragraph than you will see on a first read.
 
 **Do this:**
 1. List every physical detail in that opening description (§2).
