@@ -104,8 +104,9 @@ Before the plot moves an inch, Kipling builds the mongoose in front of you — a
 **Do this:**
 
 1. Read the first sentence of §2 aloud.
-2. Write in one sentence: what does Kipling put in the cat (what qualities does the cat represent?), and what does he put in the weasel (what qualities does the weasel represent?)
-3. Write in one sentence: why this order — and why *rather* in one half and *quite* in the other?
+2. Write in one sentence: what qualities does Kipling give the cat? (What is a cat like? How does it behave?)
+3. Write in one sentence: what qualities does he give the weasel? (What is a weasel like? How does it behave?)
+4. Write in one sentence: why this order — and why *rather* in one half and *quite* in the other?
 
 #### B2
 
@@ -142,7 +143,9 @@ The story never says a single political word. But look at how its world is built
 3. **Say it aloud — don't write it.** The question the story never asks itself: *who is the garden for?*
 
 > [!tip] A word with a history: VERANDA
-> You already know this word — it is Swedish too. Look at it again anyway. Where does Nagaina come to kill (§86–100)? And where did English find the word? [The Archive: veranda](/archive/chapter-1/)
+> You already know this word — it is Swedish too. Look at it again anyway.
+>
+> **Do this:** Find where Nagaina comes to kill (§86–100). Then find out where English got the word. [The Archive: veranda](/archive/chapter-1/)
 
 #### C3 — The people in the garden.
 C2 asked who the garden is for. Now count who is actually in it.
@@ -208,7 +211,7 @@ Buck is quieter than Kipling. She does not build a creature in front of you; she
 
 #### B1
 
-Buck names Mrs. Pan's feelings only once or twice (*haunted with homesickness*, §4; *lonely*, §15). Most of the time she gives you things instead: ivory chopsticks brought from home, water that "tastes of metal and not of earth", two taps she cannot tell apart, a seat where she cannot see out (§7–16).
+Buck names Mrs. Pan's feelings only once or twice (*haunted with homesickness*, §4; *lonely*, §15). Most of the time she gives you things instead — and there are more of them than you will notice on a first read (§7–16).
 
 **Do this:**
 
@@ -226,12 +229,13 @@ In §71 Mrs. Pan studies Lili's face: "This was not a pretty girl." In §167 Jam
 
 #### B3
 
-The title says *the* good deed, as if there were only one. There are at least four: Mrs. Pan's plan. Mr. Pan's secret telephone call (§154). Lili's first visit. Old Mr. Lim's last word (§189).
+The title says *the* good deed, as if there were only one.
 
 **Do this:**
 
-1. Choose the one you think is *the* good deed. Write in one sentence why.
-2. Write in two sentences: is arranging another person's marriage a good deed at all — or does it depend on where you stand?
+1. Find every good deed in the story — there are at least four. Write the § number beside each.
+2. Choose the one you think is *the* good deed. Write in one sentence why.
+3. Write in two sentences: is arranging another person's marriage a good deed at all — or does it depend on where you stand?
 
 ---
 
@@ -240,16 +244,16 @@ The title says *the* good deed, as if there were only one. There are at least fo
 #### C1 — The inventory of a room.
 **Do this:**
 
-1. Find five objects in Mrs. Pan's room or the apartment around her: the satin coat, the magazine, the quilt, the curtain, the two bowls she brings home.
+1. Find five objects in Mrs. Pan's room or the apartment around her.
 2. For each one, write the object, and what the way Buck places it shows about the woman who owns it or refuses it.
 3. Take out your three sentences from the start of the chapter. Write in one sentence: what did Buck do with her objects that you did not do with yours?
 
 #### C2 — The window.
-In §16 Mrs. Pan sits "where she could not see out". In §114 she gazes into the street "really for the first time since she came". In §128 she crosses that street with her eyes shut tight; in §149 she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her.
+Mrs. Pan sits "where she could not see out". Later she gazes into the street "really for the first time since she came". Later still she crosses that street with her eyes shut tight; then she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her.
 
 **Do this:**
 
-1. Trace the window through the story, paragraph by paragraph.
+1. Find these four moments in the story, in order. Write the § number beside each.
 2. Write in three sentences: describe the change yourself — using only what she does.
 
 > [!tip] Instrument: RESPECT, again
@@ -340,7 +344,9 @@ The man at the fence has come to sell a service. He looks at Elisa, then at the 
 2. Write in two sentences: how does Steinbeck make sure you know anyway — and what would be lost if he had said it?
 
 > [!tip] Instrument: DETACHED
-> A narrator who in §1–3 records the fog and names almost no feeling. Is he cold? Indifferent? Detached? Choose one before you open the Archive — and say what the other two words would accuse him of. [The Archive: detached](/archive/chapter-1/)
+> A narrator who in §1–3 records the fog and names almost no feeling. Is he cold? Indifferent? Detached?
+>
+> **Do this:** Choose one of the three words before you open the Archive. Write in one sentence what the other two would accuse him of. [The Archive: detached](/archive/chapter-1/)
 
 ---
 
@@ -354,11 +360,11 @@ The man at the fence has come to sell a service. He looks at Elisa, then at the 
 3. Steinbeck calls her fingers "terrier fingers" (§8). Write in one sentence: what does a terrier do?
 
 #### C2 — The fence.
-A wire fence "protected her flower garden from cattle and dogs and chickens" (§9). Henry leans over it. The stranger draws a finger down it "and made it sing" (§41), then comes through into the yard (§65). At the end, Elisa stands in front of it, watching the wagon go (§93).
+A wire fence "protected her flower garden from cattle and dogs and chickens". Henry leans over it. The stranger draws a finger down it "and made it sing", then comes through into the yard. At the end, Elisa stands in front of it, watching the wagon go.
 
 **Do this:**
 
-1. Map every crossing of the fence: who is inside, who is outside, who is let in, and by whom.
+1. Map every crossing of the fence: who is inside, who is outside, who is let in, and by whom. Write the § number beside every crossing.
 2. **Say it aloud — don't write it.** Kipling's question, asked of this garden too: *who is the garden for?*
 
 #### C3 — Two words.
@@ -390,20 +396,16 @@ Old Mrs. Pan crosses a street with her eyes shut and comes back with them open. 
 
 This task is practice, not a test. It is designed to feel achievable and to expose exactly where the difficulty is.
 
-**The task:**
+**Do this:**
 
-Choose one person from your own life — not a family member — whom you have watched doing something. It could be anyone: a neighbour, a stranger on a bus, someone at work, someone behind a counter. Leave out names, and change any detail that would let a reader recognise them.
-
-Write 150–200 words describing them doing the thing you watched. The rules:
-
-- **No adjectives that describe feelings** (*kind, cruel, sad, impressive*)
-- **No statements about what the action means** (*"this showed that..."*)
-- **No explanation** of why they do what they do
-- **Only**: what they look like, what they do, what they use, what the place looks like
-
-When you have written 150–200 words: read it back. Circle every word that tells the reader what to feel or think. Replace each circled word with a word that shows something physical.
-
-**Final step:** Read your revised version to a partner. Ask: who is this person? What do you know about them? What do you not know?
+1. Choose one person from your own life — not a family member — whom you have watched doing something. It could be anyone: a neighbour, a stranger on a bus, someone at work, someone behind a counter. Leave out names, and change any detail that would let a reader recognise them.
+2. Write 150–200 words describing them doing the thing you watched. The rules:
+    - **No adjectives that describe feelings** (*kind, cruel, sad, impressive*)
+    - **No statements about what the action means** (*"this showed that..."*)
+    - **No explanation** of why they do what they do
+    - **Only**: what they look like, what they do, what they use, what the place looks like
+3. Read it back. Circle every word that tells the reader what to feel or think. Replace each circled word with a word that shows something physical.
+4. Read your revised version to a partner. Ask: who is this person? What do you know about them? What do you not know?
 
 **What comes next:** The writing test at the end of the chapter asks for the same discipline, turned on a place. You will describe somewhere you know before any person enters it — the way Steinbeck opens "The Chrysanthemums" (§1–3).
 
