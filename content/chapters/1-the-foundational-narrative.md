@@ -109,23 +109,32 @@ This is not the only Kipling you will meet, but it is the right place to start. 
 Find five physical details Kipling gives about Rikki-tikki before his first fight with Nag. For each: what is the detail, and what does it show about the animal *without telling you*? This is the same muscle you used on your three objects at the start of the chapter — Kipling is just stronger at it.
 
 **C2 — The box and the garden.**
-The story never says a single political word. But look at how its world is built: an English house, ordered and lamplit, with bathrooms and a veranda and a child asleep inside — and around it a garden, half-wild, thick with grass and danger, where the cobras who call themselves its king and queen still live underground. One way to read that arrangement: inside, civilisation; outside, the thing civilisation is afraid of; and between them, one small creature whose purpose is to keep the outside out. Test that reading against the story. Describe the arrangement plainly: who is inside, who is outside, who protects whom. Where does the reading hold — and where does the story resist it? Then ask the question the story never asks itself — *who is the garden for?*
+The story never says a single political word. But look at how its world is built: an English house, ordered and lamplit, with bathrooms and a veranda and a child asleep inside — and around it a garden, half-wild, thick with grass and danger, where the cobras who call themselves its king and queen still live underground. One way to read that arrangement: inside, civilisation; outside, the thing civilisation is afraid of; and between them, one small creature whose purpose is to keep the outside out.
 
-Now consider: in *Kim*, Kipling's hero is a child who belongs to *both* worlds — European by blood, Indian by upbringing, trusted by neither side, essential to both. What would change in *Rikki-Tikki-Tavi* if the mongoose could ask the same question Kim asks: *Who is Kim?* What kind of story would it become?
+**Do this:**
+1. **Map it.** Make three columns: *inside the house · outside in the garden · who protects whom.* Put a § number beside every entry.
+2. **Judge it.** The reading above says: inside, civilisation; outside, what civilisation fears. Write three to five sentences. Name one place where the story supports that reading and one place where it resists it. Quote the story, with § numbers.
+3. **Say it aloud — don't write it.** The question the story never asks itself: *who is the garden for?*
 
 > [!tip] A word with a history: VERANDA
 > You already know this word — it is Swedish too. Look at it again anyway. Where does Nagaina come to kill (§86–100)? And where did English find the word? [The Archive: veranda](/archive/chapter-1/)
 
 **C3 — The people in the garden.**
-C2 asked who the garden is for. Now count who is actually in it. Make a list of every human being in this story — everyone, named or not — and write down beside each one what they do. **Make the list before you read on.**
+C2 asked who the garden is for. Now count who is actually in it.
 
-Two are easy to miss. One appears twice, and both times he is carrying Nag's body out to the rubbish-heap: the story calls him *the sweeper* and gives him no name, no line, and no place in Darzee's victory song, which hands the credit to "the big man" with the gun and to Rikki. The other is not in the garden at all. Read again the sentence about Rikki's mother on the morning of the first breakfast — where she used to live, and what she had carefully taught her son to do if he ever came across white men. A mongoose is not born a house-mongoose. He is raised into it, one generation after the last. Now look at your list, and ask who does the work in this house, who gets the song, and who taught whom to belong.
+**Do this first, before you read on:** Make a list of every human being in this story — everyone, named or not — and write down beside each one what they do.
+
+Two are easy to miss. One appears twice, and both times he is carrying Nag's body out to the rubbish-heap: the story calls him *the sweeper* and gives him no name, no line, and no place in Darzee's victory song, which hands the credit to "the big man" with the gun and to Rikki. The other is not in the garden at all. Read again the sentence about Rikki's mother on the morning of the first breakfast — where she used to live, and what she had carefully taught her son to do if he ever came across white men. A mongoose is not born a house-mongoose. He is raised into it, one generation after the last.
+
+**Do this next:** Add the two people you missed to your list. Then answer in one sentence each: *Who does the work in this house? Who gets the song? Who taught whom to belong?*
 
 > [!tip] Instrument: PERIPHERAL
 > The sweeper is in the story and outside it at once. There is a word for where he stands. [The Archive: peripheral](/archive/chapter-1/)
 
 **C4 — Love and the contradiction.**
-Kipling plainly loves this world: the garden, the animals, the boy with the mongoose asleep on his pillow. He also believed empire was a duty. The word *respect* comes from the Latin for *looking back, looking again* — and the whole story turns on quickness of eye, on who manages to see whom in time. So look again. Can a story be tender, exact, beautifully observed — and carry an empire's assumptions inside it at the very same time? Write the beginning of your answer here. You will need it for The Big Question — and again, three years from now.
+Kipling plainly loves this world: the garden, the animals, the boy with the mongoose asleep on his pillow. He also believed empire was a duty. The word *respect* comes from the Latin for *looking back, looking again* — and the whole story turns on quickness of eye, on who manages to see whom in time. So look again. Can a story be tender, exact, beautifully observed — and carry an empire's assumptions inside it at the very same time?
+
+**Do this:** Write the beginning of your answer to that question: three to five sentences, with one place in the story as evidence (§). You will need it for The Big Question — and again, three years from now.
 
 > [!tip] Instrument: RESPECT
 > You have just been asked to look again. That is what the word means. Keep it — Buck and Steinbeck will need it too. [The Archive: respect](/archive/chapter-1/)
