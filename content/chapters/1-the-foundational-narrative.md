@@ -39,7 +39,7 @@ Do not describe what these objects *mean*. Describe what they *look like*.
 2. A road that goes through flat land toward a horizon you cannot reach.
 3. A child's face watching something it does not understand.
 
-Write three sentences — one for each object. No adjectives that describe feelings. No statements about what the object represents. Only what is there.
+**Do this:** Write three sentences — one for each object. No adjectives that describe feelings. No statements about what the object represents. Only what is there.
 
 *(You will return to these sentences at the end of the chapter and read them with new eyes.)*
 
@@ -91,19 +91,21 @@ A flood washes a young mongoose out of his burrow and leaves him half-drowned on
 
 This is not the only Kipling you will meet, but it is the right place to start. *Rikki-Tikki-Tavi* is short enough to read in a single sitting and precise enough to reward careful study. And the question it quietly carries — *whose side are you on, and why does that seem so obvious?* — is the question that runs through all three parts of this chapter.
 
-**Before reading:** Go slowly through the second paragraph, the description of the mongoose, before any danger starts. Kipling is teaching you how to look at a living thing. Notice exactly what he notices.
+Kipling is teaching you how to look at a living thing.
 
-**Read the story.** Then:
+**Do this before you read:** Go slowly through §2, the description of the mongoose, before any danger starts. Notice exactly what he notices.
+
+**Do this:** Read the story.
 
 #### B1
 
-Before the plot moves an inch, Kipling builds the mongoose in front of you — and there is more in that one paragraph than you will see on a first read.
+Before the plot moves an inch, Kipling builds the mongoose in front of you — and one sentence in that paragraph carries more than you will see on a first read.
 
 **Do this:**
 
-1. List every physical detail in that opening description (§2).
-2. Mark the one a hurried observer would miss.
-3. Write in one sentence: what do these details let you know about Rikki's *nature* without Kipling ever once naming it?
+1. Read the first sentence of §2 aloud.
+2. Write in one sentence: what does Kipling put in the cat, and what does he put in the weasel?
+3. Write in one sentence: why this order — and why *rather* in one half and *quite* in the other?
 
 #### B2
 
@@ -198,9 +200,11 @@ The title is worth a moment. A *deed* is simply a thing done — the word is a c
 
 Mr. Pan has saved his mother's life and cannot make her want it. She will not eat. She cannot tell the hot tap from the cold. She sits all day where she cannot see out. In desperation his wife calls a friend, Lili Yang — a social worker who speaks Chinese, twenty-seven years old and unmarried. Mrs. Pan is horrified. In this barbarous country, it seems, nobody arranges anything. So she decides to arrange it herself. Read it once and it is a comedy about a meddling old woman. Read it twice and it is a story about a woman who learns to look out of the window.
 
-**Before reading:** Buck is quieter than Kipling. She does not build a creature in front of you; she lets you sit in a room with one. Watch the window. Every time someone looks out of it — or refuses to — make a mark in the margin.
+Buck is quieter than Kipling. She does not build a creature in front of you; she lets you sit in a room with one.
 
-**Read the story.** Then:
+**Do this while you read:** Watch the window. Every time someone looks out of it — or refuses to — make a mark in the margin.
+
+**Do this:** Read the story.
 
 #### B1
 
@@ -301,9 +305,11 @@ The flower in the title is worth a moment. *Chrysanthemum* comes from the Greek 
 
 A December afternoon on a ranch in the Salinas Valley. Elisa Allen, thirty-five, is cutting down last year's chrysanthemum stalks while her husband sells thirty head of cattle to two men in suits. He offers to take her into town for dinner. Then a wagon comes up the river road, driven by a big man who mends pots and sharpens scissors. He is off his road and short of money. She has no work for him — until he asks about her flowers. Read it once and it is a story in which almost nothing happens. Read it twice and it is a story about a woman who is seen, for twenty minutes, and then finds out what that was worth.
 
-**Before reading:** The first three paragraphs contain no people at all. Read them twice, slowly, before you go on. Before this chapter is over you will write a paragraph like them yourself.
+The first three paragraphs contain no people at all. Before this chapter is over you will write a paragraph like them yourself.
 
-**Read the story.** Then:
+**Do this before you read on:** Read them twice, slowly.
+
+**Do this:** Read the story.
 
 #### B1
 
