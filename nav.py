@@ -23,6 +23,7 @@ NAV = [
             {"title": "The Gallery",          "href": "/gallery/"},
             {"title": "Abdulrazak Gurnah",    "href": "/gallery/abdulrazak-gurnah/"},
             {"title": "Alice Munro",          "href": "/gallery/alice-munro/"},
+            {"title": "Anne Carson",          "href": "/gallery/anne-carson/"},
             {"title": "Bertrand Russell",     "href": "/gallery/bertrand-russell/"},
             {"title": "Bob Dylan",            "href": "/gallery/bob-dylan/"},
             {"title": "Derek Walcott",        "href": "/gallery/derek-walcott/"},

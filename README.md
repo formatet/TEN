@@ -1,6 +1,6 @@
 # TEN
 
-The course text for a three-year English course at Hvitfeldtska gymnasiet, Gothenburg, built around writers who won the Nobel Prize in Literature. Nine chapters, a portrait gallery of thirty-three writers, and an etymological archive.
+The course text for a three-year English course at Hvitfeldtska gymnasiet, Gothenburg, built around writers who won the Nobel Prize in Literature. Nine chapters, a portrait gallery of thirty-four writers, and an etymological archive.
 
 Live at [ten.formatet.se](https://ten.formatet.se).
 
