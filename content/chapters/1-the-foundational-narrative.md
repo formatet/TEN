@@ -132,13 +132,15 @@ This is the same muscle you used on your three objects at the start of the chapt
 **Do this:** Find five physical details Kipling gives about Rikki-tikki before his first fight with Nag. For each one, write the detail, and what it shows about the animal *without telling you*.
 
 #### C2 — The box and the garden.
-The story never says a single political word. But look at how its world is built: an English house, ordered and lamplit, with bathrooms and a veranda and a child asleep inside — and around it a garden, half-wild, thick with grass and danger, where the cobras who call themselves its king and queen still live underground. One way to read that arrangement: inside, civilisation; outside, the thing civilisation is afraid of; and between them, one small creature whose purpose is to keep the outside out.
+The story never says a single political word. But look at how its world is built.
 
 **Do this:**
 
-1. **Map it.** Make three columns: *inside the house · outside in the garden · who protects whom.* Put a § number beside every entry.
-2. **Judge it.** The reading above says: inside, civilisation; outside, what civilisation fears. Write three to five sentences. Name one place where the story supports that reading and one place where it resists it. Quote the story, with § numbers.
-3. **Say it aloud — don't write it.** The question the story never asks itself: *who is the garden for?*
+1. **Map it.** Make two columns: *inside the house* and *outside in the garden*. Write down who and what belongs in each, with a § number beside every entry.
+2. **Find the crossings.** Who goes from one column into the other? Where, and why? Note each crossing with its §.
+3. **Read this.** One way to read that arrangement: inside, civilisation; outside, the thing civilisation is afraid of; and between them, one small creature whose purpose is to keep the outside out.
+4. **Judge it.** Write three to five sentences. Name one place where the story supports that reading and one place where it resists it. Your crossings are a good place to look. Quote the story, with § numbers.
+5. **Say it aloud — don't write it.** *Who is the garden for?*
 
 > [!tip] A word with a history: VERANDA
 > You already know this word — it is Swedish too. Look at it again anyway.
