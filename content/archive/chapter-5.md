@@ -30,7 +30,7 @@ The words in this chapter carry a double history: the roots are Latin, French, o
 - Write: Is diaspora a loss, a freedom, or both? Write a sentence for each possibility.
 
 **TESTIMONY / WITNESS**
-- Origin: Latin *testimonium* — attestation; from *testis* = witness (also = testicle — those who bore witness in Roman law swore on their bodies)
+- Origin: Latin *testimonium* — attestation; from *testis* = witness, probably from an older word for *a third person standing by* (the same word also meant testicle, but the story that Roman witnesses swore on their bodies is a myth)
 - Weight: To testify is to carry an event in the body and give it to others. Gordimer witnesses from inside the apartheid society; Soyinka witnesses the dismantled humanitarian claims of colonialism. Testimony is not neutral — it is a bodily and moral commitment. Compare with [Chapter 8](/archive/chapter-8/) WEIGHT for how the concept deepens in Morrison.
 - Avoid instead: *account, story*
 - Write: What is the difference between a witness and an observer? Write a sentence that shows the difference without defining it.

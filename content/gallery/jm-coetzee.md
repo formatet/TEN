@@ -2,7 +2,7 @@
 title: "J.M. Coetzee (b. 1940)"
 publish: "true"
 ---
-J.M. Coetzee was born in Cape Town in 1940, into the language and privilege of the Afrikaner — the white descendants of Dutch settlers who built a state on racial hierarchy and called it by another name. He spent his life writing about people who inherit structures they did not design and cannot disown.
+J.M. Coetzee was born in Cape Town in 1940, into an Afrikaner family that spoke English at home — and into the privilege of the white descendants of Dutch settlers who built a state on racial hierarchy and called it by another name. He spent his life writing about people who inherit structures they did not design and cannot disown.
 
 His prose is **clinical** in the most precise sense of that word: the detachment of a physician at the bedside of something dying. He does not explain his characters' moral failures or offer the reader a position of safety. The present tense he uses in *Disgrace* refuses the consolation of distance — everything happens now, nothing is safely past.
 

@@ -42,14 +42,14 @@ The words in this chapter are heavy. They carry history in their etymology — n
 - Exercise: Read "Digging" line by line. Where is it *pastoral* in the traditional sense? Where does that idyll end?
 
 **COMPLICIT**
-- Origin: Latin *complicitus* — entwined with; *com-* (together) + *plicare* (to fold) — same root as *complicate*, *implicit*, *explicit*
+- Origin: Latin *complicare* — to fold together, via French *complice* (accomplice); *com-* (together) + *plicare* (to fold) — same root as *complicate*, *implicit*, *explicit*
 - Weight: To be complicit is to be folded into something. You did not begin it; you benefit from it; you do not stop it. Gordimer's white South African characters are complicit. Coetzee's narrators are complicit. The word does not accuse — it describes a structural position.
 - Avoid instead: *guilty, responsible*
 - Write: Write a sentence where COMPLICIT describes a structural position rather than a personal failing.
 
 **ELEGY / ELEGIAC**
 - Origin: Greek *elegeia* — a lament (see also [Chapter 2](/archive/chapter-2/))
-- Weight — year 3 deepening: In year two, elegy was a form. In year three, it is a burden. Heaney's North is not elegiac *about* the Troubles — it is elegiac *because of* them, because elegy is the only form adequate to losses that cannot be resolved. Morrison's *Beloved* is an elegy that refuses to be finished. The elegiac mode in year three is how literature honours what cannot be undone.
+- Weight — year 3 deepening: In year one, elegy was a form. In year three, it is a burden. Heaney's North is not elegiac *about* the Troubles — it is elegiac *because of* them, because elegy is the only form adequate to losses that cannot be resolved. Morrison's *Beloved* is an elegy that refuses to be finished. The elegiac mode in year three is how literature honours what cannot be undone.
 - Cross-reference: [Chapter 2](/archive/chapter-2/) ELEGY — revisit that entry before this one
 
 **CLINICAL**

@@ -25,7 +25,7 @@ The words in this chapter are double. They appear to mean one thing and mean ano
 - Origin: Latin *civilis* — belonging to citizens; from *civis* = citizen, town-dweller; from *-civ-* = to dwell, to live (same root as *civic*, *city*, *citizen*)
 - Weight: Civilisation is the town-dweller's self-image: we live in cities, we have laws, we are not barbarians. *Lord of the Flies* is an anatomical examination of how thin that self-image is. Golding's irony: the most *civilised* boys — the ones with authority, the well-raised ones — are the most dangerous. Civilisation is a varnish, not a foundation.
 - Avoid instead: *cultured, advanced*
-- Exercise: CIVILISED and COLONIAL share a Latin root via *civitas*. What does that tell you about how colonialism justified itself?
+- Exercise: CIVILISED (*civis*, the citizen) and COLONIAL (*colere*, to cultivate, to settle) do not share a root — but colonialism kept putting them in the same sentence. What does that tell you about how it justified itself?
 - Cross-reference: [Chapter 5](/archive/chapter-5/) COLONIAL
 
 **ANATOMY**
