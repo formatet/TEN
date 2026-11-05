@@ -3,23 +3,43 @@
     try { window.umami && window.umami.track(event, data || {}); } catch (e) {}
   }
 
-  // ── 1. Scroll depth — 25/50/75/100% per page ─────────────────────────
-  const reached = new Set();
-  function onScroll() {
-    const el = document.documentElement;
-    const scrolled = el.scrollTop || document.body.scrollTop;
-    const total = el.scrollHeight - el.clientHeight;
-    if (total <= 0) return;
-    const pct = Math.round(scrolled / total * 100);
-    [25, 50, 75, 100].forEach(function (mark) {
-      if (pct >= mark && !reached.has(mark)) {
-        reached.add(mark);
-        track("scroll-depth", { pct: mark, page: location.pathname });
-      }
-    });
-    if (reached.size === 4) window.removeEventListener("scroll", onScroll);
+  // ── 1. Reading depth ─────────────────────────────────────────────────
+  //  Long pages (chapters): which sections the reader reached. A section
+  //  counts as reached when its heading passes into the top half of the
+  //  screen. Page-percent says nothing on a chapter where one part fills
+  //  a third of the page.
+  //  Short pages (fewer than 3 headings): 25/50/75/100% as before.
+  const headings = document.querySelectorAll("article h2, article h3");
+  if (headings.length >= 3 && "IntersectionObserver" in window) {
+    //  The heading id is sent, not its text: Kipling, Buck and Steinbeck
+    //  each have an "A — Context", and only the ids tell them apart.
+    const io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (!entry.isIntersecting) return;
+        io.unobserve(entry.target);
+        const name = entry.target.id || entry.target.textContent.trim().slice(0, 40);
+        track("section-view", { section: name, page: location.pathname });
+      });
+    }, { rootMargin: "0px 0px -50% 0px" });
+    headings.forEach(function (h) { io.observe(h); });
+  } else {
+    const reached = new Set();
+    const onScroll = function () {
+      const el = document.documentElement;
+      const scrolled = el.scrollTop || document.body.scrollTop;
+      const total = el.scrollHeight - el.clientHeight;
+      if (total <= 0) return;
+      const pct = Math.round(scrolled / total * 100);
+      [25, 50, 75, 100].forEach(function (mark) {
+        if (pct >= mark && !reached.has(mark)) {
+          reached.add(mark);
+          track("scroll-depth", { pct: mark, page: location.pathname });
+        }
+      });
+      if (reached.size === 4) window.removeEventListener("scroll", onScroll);
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
   }
-  window.addEventListener("scroll", onScroll, { passive: true });
 
   // ── 2. Nav clicks — explorer and TOC ─────────────────────────────────
   document.addEventListener("click", function (e) {
@@ -55,17 +75,28 @@
   //  Each hidden/close reports the time since the last report, so a reader
   //  who switches tabs and comes back is still measured for the rest of
   //  the visit instead of being counted once and then dropped.
+  //  A closed Chromebook lid does not always fire "hidden", so a tab left
+  //  open could report days. Timers stop while the device sleeps: a gap of
+  //  more than two minutes between ticks means sleep, and the time up to
+  //  the last tick is reported then. No single report exceeds two hours.
+  const MAX_SECS = 2 * 3600;
   let lastMark = Date.now();
-  function sendTime() {
-    const secs = Math.round((Date.now() - lastMark) / 1000);
+  let lastTick = lastMark;
+  function sendTime(end) {
+    const secs = Math.min(Math.round(((end || Date.now()) - lastMark) / 1000), MAX_SECS);
     lastMark = Date.now();
     if (secs > 5) track("time-on-page", { secs: secs, page: location.pathname });
   }
+  setInterval(function () {
+    const now = Date.now();
+    if (document.visibilityState === "visible" && now - lastTick > 120000) sendTime(lastTick);
+    lastTick = now;
+  }, 30000);
   document.addEventListener("visibilitychange", function () {
     if (document.visibilityState === "hidden") sendTime();
-    else lastMark = Date.now();
+    else lastMark = lastTick = Date.now();
   });
-  window.addEventListener("pagehide", sendTime);
+  window.addEventListener("pagehide", function () { sendTime(); });
 
   // ── 5. Search ─────────────────────────────────────────────────────────
   const searchInput = document.getElementById("search-input");
