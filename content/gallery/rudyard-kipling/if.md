@@ -1,6 +1,7 @@
 ---
 title: "If—"
 publish: "true"
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
 *Rudyard Kipling, from [Rewards and Fairies](https://www.gutenberg.org/ebooks/556) (1910). The poem that opens [Chapter 1 — The Foundational Narrative](/chapters/1-the-foundational-narrative/). See the [Gallery entry](/gallery/rudyard-kipling/) for Kipling himself, and [Rikki-Tikki-Tavi](/gallery/rudyard-kipling/rikki-tikki-tavi/) for the chapter's anchor text.*

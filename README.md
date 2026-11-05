@@ -31,7 +31,13 @@ Analytics: [Umami](https://umami.is), self-hosted, no cookies.
 
 ## What is not here
 
-Teacher material, lesson plans and assessment live elsewhere and are not published. Two of the stories read in chapter 1, by Pearl S. Buck and John Steinbeck, are still in copyright. They are handed out on paper in class and are not in this repository.
+Teacher material, lesson plans and assessment are not published. Most of it has not been used in a classroom yet, and I will not publish what I cannot stand behind. Two of the stories read in chapter 1, by Pearl S. Buck and John Steinbeck, are still in copyright. They are handed out on paper in class and are not in this repository.
+
+## Reuse
+
+TEN is an open educational resource. Take what is useful: copy a chapter, cut it, translate it, rewrite it for your own students. The licence asks two things: say where it came from, and share what you make on the same terms. Forks are welcome. The main text is one teacher's voice, so corrections and suggestions are welcome as issues, and rewrites belong in your own fork.
+
+What you cannot take from here is what is not here. The Buck and Steinbeck stories are in copyright, and you will need your own copies.
 
 ## License
 

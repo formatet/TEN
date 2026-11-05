@@ -143,6 +143,7 @@ def render_page(meta, body, current_href, template):
     toc_html      = build_toc(content_html)
     nav_html      = render_nav(current_href)
     title         = meta.get("title", "")
+    license_url   = meta.get("license", "https://creativecommons.org/licenses/by-sa/4.0/")
 
     html = (
         template
@@ -150,6 +151,7 @@ def render_page(meta, body, current_href, template):
         .replace("${nav_html}", nav_html)
         .replace("${content_html}", content_html)
         .replace("${toc_html}", toc_html)
+        .replace("${license_url}", license_url)
     )
     return html, content_html
 

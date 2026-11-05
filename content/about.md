@@ -8,7 +8,7 @@ This site is the course text for *The English Nobel*: an attempt at reading all 
 
 ## How it is made
 
-This is not a published textbook. It is an open project, and it changes as the classes use it. The texts may be reused under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This is not a published textbook. It is an open educational resource, and it changes as the classes use it. The texts may be copied, changed and shared under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): say where they came from, and share what you make on the same terms. The source is [on GitHub](https://github.com/formatet/TEN). Forks are welcome.
 
 The code and the website are produced by Claude Code, an AI tool made by Anthropic. Research and decision-making are also supported by large language models. The didactic decisions are made with the support of Wolfgang Klafki's five questions of didactic analysis, the progymnasmata (the graded writing exercises of classical rhetoric), and the Swedish military's teaching motto *visa, instruera, öva, öva, pröva*: show, instruct, practise, practise, test. The mistakes are mine. If you find one, tell me.
 

@@ -1,6 +1,7 @@
 ---
 title: "Rikki-Tikki-Tavi"
 publish: "true"
+license: "https://creativecommons.org/publicdomain/mark/1.0/"
 ---
 
 *Rudyard Kipling, from [The Jungle Book](https://www.gutenberg.org/ebooks/35997) (1894). The anchor text for [Chapter 1 — The Foundational Narrative](/chapters/1-the-foundational-narrative/). See the [Gallery entry](/gallery/rudyard-kipling/) for Kipling himself.*
