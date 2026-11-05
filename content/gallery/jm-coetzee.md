@@ -1,0 +1,13 @@
+---
+title: "J.M. Coetzee (b. 1940)"
+publish: "true"
+---
+J.M. Coetzee was born in Cape Town in 1940, into an Afrikaner family that spoke English at home — and into the privilege of the white descendants of Dutch settlers who built a state on racial hierarchy and called it by another name. He spent his life writing about people who inherit structures they did not design and cannot disown.
+
+His prose is **clinical** in the most precise sense of that word: the detachment of a physician at the bedside of something dying. He does not explain his characters' moral failures or offer the reader a position of safety. The present tense he uses in *Disgrace* refuses the consolation of distance — everything happens now, nothing is safely past.
+
+He received the Nobel Prize in 2003. The year before, he had emigrated to Australia without public explanation. His **scrutiny**, which was always **incorruptible**, had always included himself.
+
+***
+
+His Nobel Lecture (2003) is not a lecture. It is a story, "He and His Man", about Robinson Crusoe and the writer who invented him. Coetzee read it aloud in Stockholm. Read it, or watch him, at [NobelPrize.org](https://www.nobelprize.org/prizes/literature/2003/coetzee/lecture/).

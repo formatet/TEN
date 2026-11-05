@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>${page_title} — The English Nobel</title>
+  <meta name="description" content="The English Nobel — a three-year course in English built around the Nobel Prize in Literature.">
+  <meta property="og:site_name" content="The English Nobel">
+  <meta property="og:title" content="${page_title}">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="A three-year course in English built around the Nobel Prize in Literature.">
+  <link rel="icon" type="image/svg+xml" href="/static/img/favicon.svg">
+  <link rel="stylesheet" href="/static/css/site.css">
+  <link rel="preload" href="/static/fonts/eb-garamond-regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/static/fonts/eb-garamond-italic-400.woff2" as="font" type="font/woff2" crossorigin>
+  <script defer src="https://umami.formatet.se/script.js" data-website-id="bc585229-b7c7-4acc-946c-ac3973020601"></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="layout">
+
+  <aside class="sidebar">
+    <div class="site-logo">
+      <a href="/" aria-label="The English Nobel — home">
+        <img src="/static/img/ten-logo-monogram.svg" alt="TEN" width="180" height="95" class="ten-monogram">
+      </a>
+    </div>
+
+    <div class="site-search">
+      <input type="search" id="search-input" placeholder="Search…" autocomplete="off" aria-label="Search the site">
+      <ul id="search-results"></ul>
+    </div>
+
+    <nav class="site-nav" aria-label="Site navigation">
+${nav_html}
+    </nav>
+  </aside>
+  <script>
+    // Keep the sidebar's scroll position between pages, so it does not jump to the top
+    (function () {
+      var s = document.querySelector(".sidebar");
+      try { var y = sessionStorage.getItem("sidebar-scroll"); if (y) s.scrollTop = +y; } catch (e) {}
+      window.addEventListener("pagehide", function () {
+        try { sessionStorage.setItem("sidebar-scroll", s.scrollTop); } catch (e) {}
+      });
+    })();
+  </script>
+
+${toc_html}
+  <main class="content" id="main">
+    <article>
+      <h1 class="page-title">${page_title}</h1>
+${content_html}
+    </article>
+  </main>
+
+</div>
+
+<script src="/static/js/wiktionary.js"></script>
+<script src="/static/js/tracking.js"></script>
+<script src="/static/js/search.js"></script>
+</body>
+</html>
