@@ -241,12 +241,13 @@ Buck names Mrs. Pan's feelings only twice: her eyes are *haunted with homesickne
 
 #### B2
 
-In §71 Mrs. Pan studies Lili's face: "This was not a pretty girl." In §167 James Lim looks at the same face and thinks the old woman "had not done her justice".
+Two people look at the same face. They see two different girls.
 
 **Do this:**
 
-1. Put the two looks side by side. Write what each one sees, and what each *wants* while looking.
-2. Write in one sentence: is anyone in this story interested in what Lili sees?
+1. Read §71. Mrs. Pan looks at Lili. Write down two things she sees.
+2. Read §167. James Lim looks at Lili. Write down two things he sees.
+3. Read §69. Write in one sentence: what does Lili herself want?
 
 #### B3
 
