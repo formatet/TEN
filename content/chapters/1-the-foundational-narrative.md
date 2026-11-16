@@ -237,7 +237,7 @@ Buck names Mrs. Pan's feelings only twice: her eyes are *haunted with homesickne
 **Do this:**
 
 1. List every object or action in §7–16 that shows how Mrs. Pan feels. Write the § number beside each.
-2. Write beside each one what it shows that *she was homesick* cannot.
+2. Write beside each one what it shows that the words *she was homesick* cannot.
 
 #### B2
 
@@ -261,15 +261,6 @@ The title says *the* good deed, as if there were only one.
 ---
 
 ### C — Close Reading: The Window
-
-#### C1 — The inventory of a room.
-**Do this:**
-
-1. Find five objects in Mrs. Pan's room or the apartment around her, from §17 to the end. Write the § number beside each.
-2. For each one, write two things: **who does what with it** (uses it, keeps it, refuses it, cannot use it) — and **what that tells you about Mrs. Pan**.
-
-   *Example: the box with moving pictures (§8). The children watch it instead of listening to her stories. → Mrs. Pan has lost her place as the one who tells.*
-3. Take out your three sentences from the start of the chapter. Choose one of your objects. Put a person beside it who does something with it — still only what a camera sees. Write one sentence.
 
 #### C2 — The window.
 Mrs. Pan sits "where she could not see out". Later she gazes into the street "really for the first time since she came". Later still she crosses that street with her eyes shut tight; then she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her.
