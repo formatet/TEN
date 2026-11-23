@@ -264,7 +264,7 @@ The title says *the* good deed, as if there were only one.
 ### C — Close Reading: The Window
 
 #### C2 — The window.
-Mrs. Pan sits "where she could not see out". Later she gazes into the street "really for the first time since she came". Later still she crosses that street with her eyes shut tight; then she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her.
+(1) Mrs. Pan sits "where she could not see out". (2) Later she gazes into the street "really for the first time since she came". (3) Later still she crosses that street with her eyes shut tight; (4) then she crosses it back, and "this time she did not shut her eyes". Buck never tells you what changed inside her.
 
 **Do this:**
 
@@ -308,7 +308,7 @@ He is most famous for *The Grapes of Wrath* (1939), about a family driven off th
 
 "The Chrysanthemums" was first published in 1937 and collected a year later in *The Long Valley*. It is set on a single December afternoon, in the valley where Steinbeck grew up. Almost nothing happens. Read it slowly anyway.
 
-The flower in the title is worth a moment. *Chrysanthemum* comes from the Greek *chrysos*, gold, and *anthemon*, flower: the golden flower. Elisa grows hers enormous, ten inches across, bigger than anybody around. Watch how the people in the story describe them — and what each description is *for*.
+The flower in the title is worth a moment. *Chrysanthemum* comes from the Greek *chrysos*, gold, and *anthemon*, flower: the golden flower. Elisa grows hers enormous, ten inches across, bigger than anybody around. Watch how the people in the story talk about them — and what each person *wants* when they do.
 
 ---
 
@@ -335,12 +335,12 @@ The first three paragraphs contain no people at all. Before this chapter is over
 
 #### B1
 
-In §1–3 no person appears. Only two words in these paragraphs name a feeling: the farmers are "mildly hopeful", and the air is "cold and tender". One feeling belongs to people. Steinbeck gives the other to the air.
+In §1–3 no person appears. Only one phrase names a feeling: the farmers are "mildly hopeful".
 
 **Do this:**
 
 1. List everything the fog, the plows, the willows and the wind *do*. Write the § number beside each.
-2. Write in two sentences: why would a writer this careful break his own rule — and why *there*?
+2. Read the farmers' sentence to the end. What do they hope for? Do they get it?
 
 #### B2
 
@@ -409,6 +409,20 @@ Old Mrs. Pan crosses a street with her eyes shut and comes back with them open. 
 ---
 
 *→ Archive for this chapter: [Chapter 1](/archive/chapter-1/) — *respect · detached · peripheral · veranda**
+
+## Back to Before We Begin
+
+At the start of this chapter you wrote three sentences: a pair of hands, a road, a child's face. You have now watched Kipling, Buck and Steinbeck at work. Read your sentences again.
+
+**Do this:**
+
+1. Open your three sentences.
+2. Circle every word a camera could not catch.
+3. Underline every verb. In Steinbeck §1 everything *does* something: the fog *closes off* the valley, the plows *bite* the earth, the willows *flame*. Do your things do anything?
+4. Rewrite one sentence so that the thing in it *does* something. Leave out every word you circled.
+5. Read your old sentence and your new one to a partner. Ask: what can you see now that you could not see before?
+
+---
 
 ## The Writing Task
 
