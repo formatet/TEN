@@ -28,7 +28,7 @@
   --sidebar-w:   300px;
   --rail-w:      16rem;
   --content-max: 65ch;
-  --bp-mobile:   800px;
+  --bp-mobile:   1199px;
   --bp-desktop:  1200px;
 }
 
@@ -478,7 +478,7 @@ pre code { background: none; padding: 0; }
 }
 
 /* ─── Mobile ────────────────────────────────────────────────────────────── */
-@media (max-width: 800px) {
+@media (max-width: 1199px) {
   .layout {
     grid-template-columns: 1fr;
     grid-template-rows: auto auto 1fr;
